@@ -35,7 +35,7 @@ https://www.myfonts.com/fonts/bitstream/lydian/
 #### Images / inspiration:
 
 ![img](https://cdn.dribbble.com/users/808342/screenshots/10804502/media/c49bae730c270b3246683d0a3cc48513.jpg)
-![](https://cdn.dribbble.com/users/833050/screenshots/6448280/troopr-lsayre.gif)
+![img](https://cdn.dribbble.com/users/833050/screenshots/6448280/troopr-lsayre.gif)
 ![img](https://cdn.dribbble.com/users/37585/screenshots/3286475/helm_shot359.png)
 ![](https://cdn.dribbble.com/users/102267/screenshots/4167174/starwars.gif)
 ![img](https://cdn.dribbble.com/users/1032175/screenshots/8915549/media/45a1356a3948202b99d8c46e135749d7.png)
