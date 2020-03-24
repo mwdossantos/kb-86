@@ -1,6 +1,22 @@
 # Week 6: Research & Planning
 
-I hereby welcome you to the next part of this minor. We are going to dive deep into front-end coding with **Swift**, and especially **SwiftUI**, Apple's new framework for building UI's with code. 
+I hereby welcome you to the next part of this minor.
+
+## Activities
+|What|Finalized|
+|:---|:---:|
+|Learning Goal & deliverable|✅|
+|Choosing a theme|✅|
+|Planning|✅|
+|Theme research|✅|
+|Data & problem|🧑🏻‍💻|
+
+___
+
+### Learning goal and deliverable
+Defining the learning goal and deliverable
+
+I am going to dive deep into front-end coding with **Swift**, and especially **SwiftUI**, Apple's new framework for building UI's with code. 
 
 And thus my learning goal shall be:
 
@@ -9,6 +25,9 @@ And thus my learning goal shall be:
 Looking back at the first part of this minor, everyone agreed that without clear deliverables set into place, it would become hard to see where we were all going. That's why I have a deliverable set, namely:
 
 > An iOS/macOS app that works on both iPhone and iPad.
+
+### Choosing a theme
+> Choosing a theme for the deliverable
 
 Thinking about several themes a few sprung to mind:
 
@@ -21,21 +40,22 @@ Thinking about several themes a few sprung to mind:
 ![img](/images/covid.jpg)
 ### COVID-19
 
-
-## Planning
+### Planning
+Thinking out the next few weeks - planning
 
 |When|What|Finalized|
 |:---|:---|:---:|
 |Week 6|Research & Planning|✅|
-|Week 7|Data Model Design & Follow Swift Tutorials|🧑🏻‍💻|
-|Week 8|Design application & Development|🧑🏻‍💻|
+|Week 7|Data Model Design & Design application|🧑🏻‍💻|
+|Week 8|Follow Swift Tutorials & Development|🧑🏻‍💻|
 |Week 9|Application development |🧑🏻‍💻|
-|Week 10|Application develoment & Presentation|🧑🏻‍💻|
+|Week 10|Finish develoment & Presentation|🧑🏻‍💻|
 
-## Activities
+### Theme research
+Do research on the chosen theme - find images, links and more
 
-**Learning goal: Swift-UI**  
-**Deliverable: Star Wars App**
+### Data & problem
+Decide which data to build the app around - what's the problem I'm trying to solve?
 
 ### Goals for the app:
 
