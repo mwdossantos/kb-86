@@ -1,4 +1,4 @@
-# Week 1: Research & Planning
+# Week 6: Research & Planning
 
 > Introduction text
 
@@ -19,7 +19,7 @@
 #### SwiftUI & coding
 
 |What|Resource|
-|---|---|
+|:---|:---|
 |SwiftUI|https://developer.apple.com/xcode/swiftui/|
 |CMS|https://firebase.google.com/|
 |Learning|https://designcode.io/swiftui?promo=learnswiftui|
