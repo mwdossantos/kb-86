@@ -47,7 +47,7 @@ https://www.myfonts.com/fonts/bitstream/lydian/
 
 |When|What|
 |:---|:---|
-|Week 6|Research & Planning|
+|Week 6|Research & Planning|dadasd|
 |Week 7|Data Model Design & Follow Swift Tutorials|
 |Week 8|Design application & Development|
 |Week 9|Application development |
