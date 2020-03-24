@@ -45,10 +45,10 @@ https://www.myfonts.com/fonts/bitstream/lydian/
 
 ## Planning
 
-|When|What|
-|:---|:---|
-|Week 6|Research & Planning|dadasd|
-|Week 7|Data Model Design & Follow Swift Tutorials|
-|Week 8|Design application & Development|
-|Week 9|Application development |
-|Week 10|Application develoment & Presentation|
+|When|What|Finalized|
+|:---|:---|:---:|
+|Week 6|Research & Planning|✅|
+|Week 7|Data Model Design & Follow Swift Tutorials|🧑🏻‍💻|
+|Week 8|Design application & Development|🧑🏻‍💻|
+|Week 9|Application development |🧑🏻‍💻|
+|Week 10|Application develoment & Presentation|🧑🏻‍💻|
