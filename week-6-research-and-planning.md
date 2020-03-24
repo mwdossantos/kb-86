@@ -31,14 +31,14 @@ Looking back at the first part of this minor, everyone agreed that without clear
 
 Thinking about several themes a few sprung to mind:
 
-![img](/images/audi.jpg)
 ### Audi
+![img](/images/audi.jpg)
 
-![img](/images/starwars.jpg)
 ### Star Wars
+![img](/images/starwars.jpg)
 
-![img](/images/covid.jpg)
 ### COVID-19
+![img](/images/covid.jpg)
 
 ### Planning
 Thinking out the next few weeks - planning
