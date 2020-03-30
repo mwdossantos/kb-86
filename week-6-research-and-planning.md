@@ -1,9 +1,11 @@
+# Week 6 - Research & Planning
+
 I hereby welcome you to the next part of this minor.
 
 ## Activities
 |What|Finalized|
 |:---|:---:|
-|Learning Ggal & deliverable|✅|
+|Learning Goal & deliverable|✅|
 |Choosing a theme|✅|
 |Planning|✅|
 |Theme research|✅|
