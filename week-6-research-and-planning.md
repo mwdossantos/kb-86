@@ -1,11 +1,9 @@
-# Week 6: Research & Planning
-
 I hereby welcome you to the next part of this minor.
 
 ## Activities
 |What|Finalized|
 |:---|:---:|
-|Learning Goal & deliverable|✅|
+|Learning Ggal & deliverable|✅|
 |Choosing a theme|✅|
 |Planning|✅|
 |Theme research|✅|
@@ -17,6 +15,7 @@ ___
 Defining the learning goal and deliverable
 
 I am going to dive deep into front-end coding with **Swift**, and especially **SwiftUI**, Apple's new framework for building UI's with code. 
+
 
 And thus my learning goal shall be:
 
@@ -32,16 +31,16 @@ Looking back at the first part of this minor, everyone agreed that without clear
 Thinking about several themes a few sprung to mind:
 
 ### Audi
-![img](/images/audi.jpg)
+![image](images/audi.jpg)
 
 ### Star Wars
-![img](/images/starwars.jpg)
+![image](images/starwars.jpg)
 
 ### COVID-19
-![img](/images/covid.jpg)
+![image](images/covid.jpg)
 
 ### Planning
-Thinking out the next few weeks - planning
+Thinking out the next few weeks - planning. You can find this planning on the [home](https://github.com/mwdossantos/kb-86/wiki) page as well for the overall project.
 
 |When|What|Finalized|
 |:---|:---|:---:|
@@ -52,29 +51,7 @@ Thinking out the next few weeks - planning
 |Week 10|Finish develoment & Presentation|🧑🏻‍💻|
 
 ### Theme research
-Do research on the chosen theme - find images, links and more
-
-### Data & problem
-Decide which data to build the app around - what's the problem I'm trying to solve?
-
-### Goals for the app:
-
-* App to view characters
-* View the timeline
-* View movie plot information
-* CMS with interconnected items
-
-### Resources
-
-#### SwiftUI & coding
-
-|What|Resource|
-|:---|:---|
-|SwiftUI|https://developer.apple.com/xcode/swiftui/|
-|CMS|https://firebase.google.com/|
-|Learning|https://designcode.io/swiftui?promo=learnswiftui|
-
-#### Figma file:
+Do research on the chosen theme - find images, links and more.
 
 #### Links:
 https://www.starwars.com/
@@ -91,3 +68,24 @@ https://www.myfonts.com/fonts/bitstream/lydian/
 ![img](https://cdn.dribbble.com/users/1575908/screenshots/8173066/media/a89e3e63d1924fb9918a9201acd27698.png)
 ![img](https://cdn.dribbble.com/users/15687/screenshots/8429874/media/e8ece76095c31f5f159cc1ac0487bfd9.png)
 ![img](https://cdn.dribbble.com/users/1575908/screenshots/8102158/media/7015d74623fd5577fd512ff9b76f63aa.jpg)
+
+### Data & problem
+Decide which data to build the app around - what's the problem I'm trying to solve?
+
+### Goals for the app:
+
+* App to view characters
+* View the timeline
+* View movie plot information
+* CMS with interconnected items
+
+### Other resources
+
+#### SwiftUI & coding
+
+|What|Resource|
+|:---|:---|
+|SwiftUI|https://developer.apple.com/xcode/swiftui/|
+|CMS|https://firebase.google.com/|
+|Learning|https://designcode.io/swiftui?promo=learnswiftui|
+|Figma - to design the app|https://figma.com|
