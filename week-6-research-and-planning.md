@@ -32,13 +32,13 @@ Looking back at the first part of this minor, everyone agreed that without clear
 
 Thinking about several themes a few sprung to mind:
 
-### Audi
+#### Audi
 ![image](images/audi.jpg)
 
-### Star Wars
+#### Star Wars
 ![image](images/starwars.jpg)
 
-### COVID-19
+#### COVID-19
 ![image](images/covid.jpg)
 
 ### Planning
@@ -46,8 +46,8 @@ Thinking out the next few weeks - planning. You can find this planning on the [h
 
 |When|What|Finalized|
 |:---|:---|:---:|
-|Week 6|Research & Planning|✅|
-|Week 7|Data Model Design & Design application|🧑🏻‍💻|
+|Week 6|[Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/week-6-research-and-planning.md)|✅|
+|Week 7|[Data Model Design & Design application](https://github.com/mwdossantos/kb-86/blob/master/week-7-data-model-design-and-design-application.md)|🧑🏻‍💻|
 |Week 8|Follow Swift Tutorials & Development|🧑🏻‍💻|
 |Week 9|Application development |🧑🏻‍💻|
 |Week 10|Finish develoment & Presentation|🧑🏻‍💻|
