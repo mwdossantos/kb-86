@@ -9,7 +9,7 @@ You can also view the individual weeks on their own:
 |When|What|Finalized|
 |:---|:---|:---:|
 |Week 6|[Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md)|✅|
-|Week 7|[Data Model Design & Design application](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-design-application.md)|🧑🏻‍💻|
+|Week 7|[Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md)|🧑🏻‍💻|
 |Week 8|Follow Swift Tutorials & Development|🧑🏻‍💻|
 |Week 9|Application development |🧑🏻‍💻|
 |Week 10|Finish develoment & Presentation|🧑🏻‍💻|

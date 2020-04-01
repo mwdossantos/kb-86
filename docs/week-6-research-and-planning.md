@@ -55,7 +55,7 @@ Thinking out the next few weeks - planning. You can find this planning on the [R
 |When|What|Finalized|
 |:---|:---|:---:|
 |Week 6|[Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md)|✅|
-|Week 7|[Data Model Design & Design application](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-design-application.md)|🧑🏻‍💻|
+|Week 7|[Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md)|🧑🏻‍💻|
 |Week 8|Follow Swift Tutorials & Development|🧑🏻‍💻|
 |Week 9|application development |🧑🏻‍💻|
 |Week 10|Finish develoment & Presentation|🧑🏻‍💻|
@@ -68,6 +68,7 @@ Do research on the chosen theme - find images, links and more.
 
 #### Fonts:
 [Paralucent](https://www.myfonts.com/fonts/device/paralucent/)
+[San Francisco](https://developer.apple.com/fonts/)
 
 #### Images / inspiration:
 
@@ -103,7 +104,7 @@ Now knowing the problem and what data my application will be using, I can define
 * View historical events that happlicationened on a certain planet
 * See which movies are linked to a certain planet 
 
-To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-design-application.md) in week 7 and think out the requirements.
+To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
 #### The goal for the application
 Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the *kickass* planets in a nicely designed application.
@@ -112,8 +113,8 @@ Given I am working with the Star Wars IP, it's going to be impossible to release
 
 |What|Resource|Note|
 |:---|:---|:---|
-|SwiftUI|https://developer.apple.com/xcode/swiftui/|The language I will be using to write the application|
-|XCode|https://developer.apple.com/xcode/|The macOS application I will use to build the application|
-|JSON|https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial|I will be creating a simple JSON file that holds all the information about the planets|
-|Learning|https://designcode.io/swiftui?promo=learnswiftui|A tutorial I might check out in week 8, when I start programming the application|
-|Figma - to design the application|https://figma.com|My go to tool that I will use to design the application|
+|SwiftUI|[Link](https://developer.apple.com/xcode/swiftui/)|The language I will be using to write the application|
+|XCode|[Link](https://developer.apple.com/xcode/)|The macOS application I will use to build the application|
+|JSON|[Link](https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial)|I will be creating a simple JSON file that holds all the information about the planets|
+|Learning|[Link](https://designcode.io/swiftui?promo=learnswiftui)|A tutorial I might check out in week 8, when I start programming the application|
+|Figma - to design the application|[Link](https://figma.com)|My go to tool that I will use to design the application|
