@@ -101,13 +101,11 @@ Now knowing the problem and what data my application will be using, I can define
 * Ability to browse all the planets in the Outer Rim Territories
 * View all meta information about a certain planet
 * View historical events that happlicationened on a certain planet
-* Be able to easily share a planet with your Star Wars friends
+* See which movies are linked to a certain planet 
 
 To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-design-application.md) in week 7 and think out the requirements.
 
 ### Other resources
-
-#### SwiftUI & coding
 
 |What|Resource|Note|
 |:---|:---|:---|
