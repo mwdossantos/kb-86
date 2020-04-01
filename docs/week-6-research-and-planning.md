@@ -27,7 +27,7 @@ And thus my learning goal shall be:
 
 Looking back at the first part of this minor, everyone agreed that without clear deliverables set into place, it would become hard to see where we were all going. That's why I have a deliverable set, namely:
 
-> An iOS/macOS application that works on both iPhone and iPad.
+> An iOS/macOS application that works on both iPhone and iPad - a responsive design.
 
 ### Choosing a theme
 > Choosing a theme for the deliverable
@@ -90,7 +90,7 @@ From this problem I can define a couple of things:
 
 * The data that I will be working with
 * The needs for the application
-* The goals for the application
+* The goal for the application
 
 #### The data I will be working with
 As I have defined above, the problem describes that there are a lot of planets and information that comes with them. This means that I will need to gather information about the planets I want to include in the application. That is the data.
@@ -105,11 +105,15 @@ Now knowing the problem and what data my application will be using, I can define
 
 To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-design-application.md) in week 7 and think out the requirements.
 
+#### The goal for the application
+Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the *kickass* planets in a nicely designed application.
+
 ### Other resources
 
 |What|Resource|Note|
 |:---|:---|:---|
-|SwiftUI|https://developer.apple.com/xcode/swiftui/|The language I will be using to create the application|
+|SwiftUI|https://developer.apple.com/xcode/swiftui/|The language I will be using to write the application|
+|XCode|https://developer.apple.com/xcode/|The macOS application I will use to build the application|
 |JSON|https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial|I will be creating a simple JSON file that holds all the information about the planets|
 |Learning|https://designcode.io/swiftui?promo=learnswiftui|A tutorial I might check out in week 8, when I start programming the application|
 |Figma - to design the application|https://figma.com|My go to tool that I will use to design the application|
