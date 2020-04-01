@@ -110,6 +110,6 @@ To be sure I can meet those needs I will need to dive deeper into the [Data Mode
 |What|Resource|Note|
 |:---|:---|:---|
 |SwiftUI|https://developer.apple.com/xcode/swiftui/|The language I will be using to create the application|
-|CMS|https://firebase.google.com/|The CMS (Content Management System) that holds all the information about the planets|
+|JSON|https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial|I will be creating a simple JSON file that holds all the information about the planets|
 |Learning|https://designcode.io/swiftui?promo=learnswiftui|A tutorial I might check out in week 8, when I start programming the application|
 |Figma - to design the application|https://figma.com|My go to tool that I will use to design the application|
