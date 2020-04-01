@@ -5,12 +5,23 @@ I hereby welcome you to the next part of this minor.
 ## Activities
 |What|Finalized|
 |:---|:---:|
-|Learning Goal & deliverable|✅|
-|Choosing a theme|✅|
-|Planning|✅|
-|Theme research|✅|
-|Data & problem|🧑🏻‍💻|
+|Defining the Data|🧑🏻‍💻|
+|Creating a Data Model|🧑🏻‍💻|
+|Star Wars: Outer Rim Logotype|🧑🏻‍💻|
+|Sketching out the Screens|🧑🏻‍💻|
+|High fidelity application Design|🧑🏻‍💻|
+
 
 ___
 
-### first activity
+### Defining the Data
+
+<!-- With these needs come a couple of requirements:
+
+* A customizable content management system, as I want to be as efficient as possible.
+* Media for each planet, to get an impression  -->
+
+### Creating a Data Model
+### Star Wars: Outer Rim Logotype
+### Sketching out the Screens
+### High fidelity application Design
