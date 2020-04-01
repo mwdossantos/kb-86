@@ -1,4 +1,4 @@
-# Week 7 - Data Model Design & Design application
+# Week 7 - Data Model Design & Application Design
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Data Model Design & Application Design.
 
@@ -71,16 +71,16 @@ JSON file as a data model
 ### Sketching out the Screens
 ### High fidelity application Design
 
-## Sources
+## Resources
 
-|What|Resource|Note|
-|:---|:---|:---|
-|Star Wars Timeline|[Link](https://www.quora.com/Where-does-Solo-fit-in-the-Star-Wars-timeline-1)|Used to determine in which order all the movies should be watched and placed in the application|
-|Star Wars Timeline|[Link](https://www.digitalspy.com/movies/a825727/star-wars-timeline-chronology-phantom-menace-to-last-jedi/)|Same as above|
-|Planet flags|[Link](http://www.flagsofthegalaxy.com/#outerrimterritories)|Used in the application to give each planet even more uniqueness|
-|Outer Rim Territories wiki|[Link](https://starwars.fandom.com/wiki/Outer_Rim_Territories)|To learn more about the history of the Outer Rim|
-|List of all planets|[Link](https://starwars.fandom.com/wiki/List_of_planets)|Used to find information about each planet|
-|Planet appearance in the movies|[Link](https://www.vulture.com/2017/12/star-wars-planets-ranked-from-coruscant-to-tatooine.html)|To determine which planets appear in which movies|
-|Reddit post about all the planets in all the movies|[Link](https://www.reddit.com/r/StarWars/comments/e76c17/list_of_all_planets_by_movie_as_of_1262019/)|To determine which planets appear in which movies|
-|Planet map|[Link](https://www.reddit.com/r/StarWars/comments/eg1kws/i_keep_updating_this_legends_map_with_all_canon/)|To see all the planets in the universe|
-|Star Wars SVG logo|[Link](https://commons.wikimedia.org/wiki/File:Star_wars2.svg)|-|
+|Resource|Note|
+|:---|:---|
+|[Star Wars Timeline](https://www.quora.com/Where-does-Solo-fit-in-the-Star-Wars-timeline-1)|Used to determine in which order all the movies should be watched and placed in the application|
+|[Star Wars Timeline](https://www.digitalspy.com/movies/a825727/star-wars-timeline-chronology-phantom-menace-to-last-jedi/)|Same as above|
+|[Planet flags](http://www.flagsofthegalaxy.com/#outerrimterritories)|Used in the application to give each planet even more uniqueness|
+|[Outer Rim Territories wiki](https://starwars.fandom.com/wiki/Outer_Rim_Territories)|To learn more about the history of the Outer Rim|
+|[List of all planets](https://starwars.fandom.com/wiki/List_of_planets)|Used to find information about each planet|
+|[Planet appearance in the movies](https://www.vulture.com/2017/12/star-wars-planets-ranked-from-coruscant-to-tatooine.html)|To determine which planets appear in which movies|
+|[Reddit post about all the planets in all the movies](https://www.reddit.com/r/StarWars/comments/e76c17/list_of_all_planets_by_movie_as_of_1262019/)|To determine which planets appear in which movies|
+|[Planet map](https://www.reddit.com/r/StarWars/comments/eg1kws/i_keep_updating_this_legends_map_with_all_canon/)|To see all the planets in the universe|
+|[Star Wars SVG logo](https://commons.wikimedia.org/wiki/File:Star_wars2.svg)|-|

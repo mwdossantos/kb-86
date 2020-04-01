@@ -109,12 +109,12 @@ To be sure I can meet those needs I will need to dive deeper into the [Data Mode
 #### The goal for the application
 Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the *kickass* planets in a nicely designed application.
 
-### Other resources
+### Resources
 
-|What|Resource|Note|
-|:---|:---|:---|
-|SwiftUI|[Link](https://developer.apple.com/xcode/swiftui/)|The language I will be using to write the application|
-|XCode|[Link](https://developer.apple.com/xcode/)|The macOS application I will use to build the application|
-|JSON|[Link](https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial)|I will be creating a simple JSON file that holds all the information about the planets|
-|Learning|[Link](https://designcode.io/swiftui?promo=learnswiftui)|A tutorial I might check out in week 8, when I start programming the application|
-|Figma - to design the application|[Link](https://figma.com)|My go to tool that I will use to design the application|
+|Resource|Note|
+|:---|:---|
+|[SwiftUI](https://developer.apple.com/xcode/swiftui/)|The language I will be using to write the application|
+|[XCode](https://developer.apple.com/xcode/)|The macOS application I will use to build the application|
+|[JSON](https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial)|I will be creating a simple JSON file that holds all the information about the planets|
+|[Learning](https://designcode.io/swiftui?promo=learnswiftui)|A tutorial I might check out in week 8, when I start programming the application|
+|[Figma - to design the application](https://figma.com)|My go to tool that I will use to design the application|
