@@ -98,9 +98,9 @@ As I have defined above, the problem describes that there are a lot of planets a
 Now knowing the problem and what data my application will be using, I can define the needs it has to fulfill:
 
 * Ability to browse all the planets in the Outer Rim Territories
-* View all meta information about a certain planet
+* View meta information about a certain planet
 * View historical events that happened on a certain planet
-* See which movies are linked to a certain planet 
+* See in which movies the planet appears 
 
 To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
