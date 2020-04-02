@@ -119,21 +119,60 @@ In order to properly define the data I will first need to know *what* data I wan
 
 Now that I have an understanding of the amont of planets it's time to work on the *meta* information for any given planet. As you can see I am going to keep it extremely abstract, so that it's reusable. I am going to write out a planet and name all of it's meta content:
 
-> **
+> *We're looking at the planet Lah'Mu. It sits in the Lah'Mu system in the Raioballo sector, located deep in the Outer Rim Territories. The planet to the Terrestrial class and has a diameter of 12,618 km. A single moon is also present. The atmosphere is breathable and it's terrain consists of black sand and beaches, fertile lowlands and mountains. On Lah'Mu, there are a couple of points of interest, namely Chief's fortress and the Erso homestead. There is no fauna and humans are the only species on this planet, migrating here.*
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-In the next section, Creating a Data Model, I will turn the above into a `JSON` object.
-
+In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model.
 
 ## Creating a Data Model
-JSON file as a data model
+Given I don't have too much experience yet with JSON I followed this small tutorial from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON). It helped me understand the basics about the JSON data format and how I can structure my own JSON files.
+
+All my planets will be stored as `objects` in an `array`. Each object has certain "sub objects" that contain even more information about the planet in different *categories*. The JSON below is going to be my data model that I will be working with, and I will need to populate the file with all the information from all the planets.
+
+```json
+[
+    {
+        "astrographical": {
+            "region": "Outer Rim Territories",
+            "sector": "Raioballo sector",
+            "system": "Lah'Mu system",
+            "moons": 1
+        },
+        "physical": {
+            "class": "Outer Rim Territories",
+            "diameter": "Raioballo sector",
+            "atmosphere": "Lah'Mu system",
+            "terrain": 1,
+            "poi": [ // points of interest...
+                "Chief's fortress",
+                "The Erso homestead"
+            ],
+            "fauna": ""
+        },
+        "societal": {
+            "nativeSpecies": "none",
+            "immigratedSpecies": "Humans",
+            "Population": "Estimated: less than 500"
+        },
+        "meta": {
+            "name": "Lah'Mu",
+            "planetImage": "url",
+            "additionalImages": [
+                "url"
+            ],
+            "description": "This is a decription",
+            "historicEvents": {
+                "eventTitle": "eventDescription"
+            },
+            "appearances": [ // movie appearances...
+                "Rogue One: A Star Wars Story"
+            ]
+        }
+    }
+]
+```
+To visualize this `JSON` object I turned to Figma and created diagram:
+
+![img](images/data-model-design.jpg)
 
 ## Star Wars: Outer Rim Logotype
 ## Sketching out the Screens

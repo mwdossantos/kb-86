@@ -13,8 +13,6 @@ If you have any remarks or questions
 |Theme research|✅|
 |Data & problem|✅|
 
-___
-
 ## Learning goal and deliverable
 Defining the learning goal and deliverable
 
