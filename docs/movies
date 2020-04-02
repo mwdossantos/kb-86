@@ -1,0 +1,12 @@
+{
+    "Star Wars": {
+        "coverArt": "url",
+        "name": "Star Wars",
+        "releaseDate": "20 - 11 - 2019"
+    },
+    "Rogue one": {
+        "coverArt": "url",
+        "name": "Rogeu one",
+        "releaseDate": "20 - 11 - 2019"
+    }
+}

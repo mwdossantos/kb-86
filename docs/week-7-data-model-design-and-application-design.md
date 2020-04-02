@@ -4,7 +4,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 If you have any remarks or questions
 
-## Activities
+# Activities
 |What|Finalized|
 |:---|:---:|
 |Defining the Data|🧑🏻‍💻|
@@ -13,63 +13,131 @@ If you have any remarks or questions
 |Sketching out the Screens|🧑🏻‍💻|
 |High fidelity application Design|🧑🏻‍💻|
 
+## Defining the Data
 
-___
+With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md):
 
-### Defining the Data
+    * Ability to browse all the planets in the Outer Rim Territories
+    * View all meta information about a certain planet
+    * View historical events that happened on a certain planet
+    * See which movies are linked to a certain planet 
 
-With these needs come a couple of requirements:
+come a couple of requirements, namely:
 
-* A customizable content management system, as I want to be as efficient as possible.
-* Mobile Media for each planet, to get an impression of the planet
+* A simple JSON data structure, as I want to be as efficient as possible
+* Mobile ready media for each planet, to get an impression of the planet
 
+In order to properly define the data I will first need to know *what* data I want to display in the application. The easiest way would be to list the movies with all the planets that appear in that particular movie:
 
-Each planet shows in which movies they have appeared
-Planets
-I: The Phantom Menace
-
-II: Attack of the Clones
-
-III: Revenge of the Sith
-
-Solo: A Star Wars Story
-
-Rogue One: A Star Wars Story
-
-IV: A New Hope
-
-V: The Empire Strikes Back
-
-VI: Return of the Jedi
-
-VII: The Force Awakens
-
-VIII: The Last Jedi
-
-IX: The Rise of Skywalker
-
-* Crait
-* Scarif
+### I: The Phantom Menace
 * Naboo
-* Endor
-* Jakku
-* Hoth
-* Bespin
 * Coruscant
-* Kashyyyk
-* Mandalore
-* Yavin
-* Dagobah
 * Tatooine
-* Starkiller Base (special design)
-* Lah'Mu
 
-### Creating a Data Model
+### II: Attack of the Clones
+* Coruscant
+* Naboo
+* Kamino
+* Tatooine
+* Geonosis
+
+### III: Revenge of the Sith
+* Coruscant
+* Utapau
+* Kashyyyk
+* Mygeeto
+* Felucia
+* Cato Neimoidia
+* Seleucami
+* Mustafar
+* Polis Massa
+* Naboo
+* Alderaan
+* Tatooine
+
+### Solo: A Star Wars Story
+* Corellia
+* Mimban
+* Vandor-1
+* Kessel
+* Savareen
+
+### Rogue One: A Star Wars Story
+* Lah'Mu
+* Wobani
+* Coruscant
+* Jedha
+* Yavin IV
+* Eadu
+* Mustafar
+* Scarif
+
+### IV: A New Hope
+* Tatooine
+* Alderaan
+* Yavin IV
+
+### V: The Empire Strikes Back
+* Hoth
+* Dagobah
+* Bespin
+
+### VI: Return of the Jedi
+* Tatooine
+* Dagobah
+* Endor
+* Bespin
+* Naboo
+* Coruscant
+
+### VII: The Force Awakens
+* Jakku
+* Takodana
+* Starkiller Base
+* Hosnian Prime
+* D’Qar
+* Ahch-To
+
+### VIII: The Last Jedi
+* D'Qar
+* Ahch-To
+* Canto Bight
+* Crait
+
+### IX: The Rise of Skywalker
+* Ajan Kloss
+* Pasaana
+* Kijimi
+* Kef Bir
+* Exegol
+
+### The Mandalorian
+* Nevarro
+* Arvala-7
+* Sorgan
+* Tatooine
+
+Now that I have an understanding of the amont of planets it's time to work on the *meta* information for any given planet. As you can see I am going to keep it extremely abstract, so that it's reusable. I am going to write out a planet and name all of it's meta content:
+
+> **
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+In the next section, Creating a Data Model, I will turn the above into a `JSON` object.
+
+
+## Creating a Data Model
 JSON file as a data model
 
-### Star Wars: Outer Rim Logotype
-### Sketching out the Screens
-### High fidelity application Design
+## Star Wars: Outer Rim Logotype
+## Sketching out the Screens
+## High fidelity application Design
 
 ## Resources
 
