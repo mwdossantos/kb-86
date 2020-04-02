@@ -43,7 +43,7 @@ Thinking about several themes a few sprung to mind:
 
 From these themes I decided to go with Star Wars, as it resonated the most with my group of teachers and is easiest to get a lot of meta information about. COVID-19 is a relevant idea, but most of those ideas are already made or are in ongoing development. The Audi application would be cool to link to my real car, but given that most likely needs root access to the car everybody voted against it. There's too little information to be shown without it.
 
-Given that the Star Wars universe is so big, I will focus my application on the Outer Rim Territories and the planets it houses. By doing this I will make sure I set some boundaries and don't get too lost in a galaxy far, far away.
+Given that the Star Wars universe is so big, I will focus my application on my favourite planets it houses. By doing this I will make sure I set some boundaries and don't get too lost in a galaxy far, far away.
 
 For my theme research I will be using the [Star Wars Fandom Wiki](https://starwars.fandom.com/wiki).
 
@@ -97,7 +97,7 @@ As I have defined above, the problem describes that there are a lot of planets a
 ### The needs for the application
 Now knowing the problem and what data my application will be using, I can define the needs it has to fulfill:
 
-* Ability to browse all the planets in the Outer Rim Territories
+* Ability to browse a selection of my favorite planets in Star Wars
 * View meta information about a certain planet
 * View historical events that happened on a certain planet
 * See in which movies the planet appears 

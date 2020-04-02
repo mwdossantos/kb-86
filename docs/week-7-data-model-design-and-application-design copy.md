@@ -9,7 +9,7 @@ If you have any remarks or questions
 |:---|:---:|
 |Defining the Data|🧑🏻‍💻|
 |Creating a Data Model|🧑🏻‍💻|
-|Star Wars: Outer Rim Logotype|🧑🏻‍💻|
+|Star Wars: Favorites Logotype|🧑🏻‍💻|
 |Sketching out the Screens|🧑🏻‍💻|
 |High fidelity application Design|🧑🏻‍💻|
 
@@ -17,10 +17,10 @@ If you have any remarks or questions
 
 With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md):
 
-    * Ability to browse all the planets in the Outer Rim Territories
-    * View meta information about a certain planet
-    * View historical events that happened on a certain planet
-    * See in which movies the planet appears 
+> * Ability to browse a selection of my most favourtie planets in Star Wars
+> * View meta information about a certain planet
+> * View historical events that happened on a certain planet
+> * See in which movies the planet appears 
 
 come a couple of requirements, namely:
 
@@ -117,11 +117,13 @@ In order to properly define the data I will first need to know *what* data I wan
 * Sorgan
 * Tatooine
 
-Now that I have an understanding of the amount of planets it's time to work on the *meta* information for any given planet. As you can see I am going to keep it extremely abstract, so that it's reusable. I am going to write out a planet and name all of it's meta content:
+Now that I have an understanding of the vast amount of planets it's time to make a curated selection of my favorite ones and work on the *meta* information for the planets. I am going to keep it extremely abstract, so that it's reusable. As an example I am going to write out the details about a planet and name all of it's meta content:
 
 > *We're looking at the planet Lah'Mu. It sits in the Lah'Mu system in the Raioballo sector, located deep in the Outer Rim Territories. The planet to the Terrestrial class and has a diameter of 12,618 km. A single moon is also present. The atmosphere is breathable and it's terrain consists of black sand and beaches, fertile lowlands and mountains. On Lah'Mu, there are a couple of points of interest, namely Chief's fortress and the Erso homestead. There is no fauna and humans are the only species on this planet, migrating here.*
 
-In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model.
+In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model. For now however, here's my curated list of favorite planets that I am going to include in the application:
+
+* 
 
 ## Creating a Data Model
 Given I don't have too much experience yet with JSON I followed this small tutorial from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON). It helped me understand the basics about the JSON data format and how I can structure my own JSON files.
@@ -176,9 +178,23 @@ To visualize this `JSON` object I turned to Figma and created a diagram:
 
 ![img](images/data-model-design.png)
 
+I created four categories for each planet:
+
+* Astrographical
+* Physical
+* Societal
+* Meta
+
+Having these categories will make it easy to focus on the information at hand.
+
 After understanding `JSON` and being comfortable with it I went ahead and populated the whole `JSON` file with all the planets. You can view that file [here](planets.json). With that in place, it's time to start designing with the *data in mind*.
 
-## Star Wars: Outer Rim Logotype
+## Star Wars: Favorites Logotype
+
+![img](images/logo-type-exploration-1.png)
+![img](images/logo-type-exploration-2.png)
+![img](images/logo-type-exploration-3.png)
+![img](images/logo-type-exploration-4.png)
 
 
 ## Sketching out the Screens
