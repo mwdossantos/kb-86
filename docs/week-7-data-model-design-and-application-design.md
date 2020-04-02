@@ -138,11 +138,15 @@ All my planets will be stored as `objects` in an `array`. Each object has certai
             "moons": 1
         },
         "physical": {
-            "class": "Outer Rim Territories",
-            "diameter": "Raioballo sector",
-            "atmosphere": "Lah'Mu system",
-            "terrain": 1,
-            "poi": [ // points of interest...
+            "class": "Terrestial",
+            "diameter": "12,618 km",
+            "atmosphere": "Breathable",
+            "terrain": [
+                "Black sand and beaches",
+                "Fertile lowlands",
+                "Plateaus & mountains",
+            ],
+            "poi": [
                 "Chief's fortress",
                 "The Erso homestead"
             ],
@@ -163,7 +167,7 @@ All my planets will be stored as `objects` in an `array`. Each object has certai
             "historicEvents": {
                 "eventTitle": "eventDescription"
             },
-            "appearances": [ // movie appearances...
+            "appearances": [
                 "Rogue One: A Star Wars Story"
             ]
         }
