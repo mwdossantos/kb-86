@@ -33,7 +33,7 @@ Looking back at the first part of this minor, everyone agreed that without clear
 Thinking about several themes a few sprung to mind:
 
 ### Audi
-![image](images/audi.jpg)
+![image](https://github.com/mwdossantos/kb-86/tree/master/docs/images/audi.jpg)
 
 ### Star Wars
 ![image](images/starwars.jpg)
