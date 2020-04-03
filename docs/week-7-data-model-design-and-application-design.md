@@ -206,17 +206,33 @@ After understanding `JSON` and being comfortable with it I went ahead and popula
 
 ## Star Wars: Favorites Logotype
 
+In order to represent my application in the right way I started creating a logo. From the get go, it's important to understand that the Star Wars logo type is not mine, but I have used it in combination with a custom typeface that describes my application. The following images will walk you through my choosing process for the different typefaces.
+
+The first typefaces I got rid of after a first inspection were TT Norms Pro and SF Pro Display. Reason being that I found TT Norms Pro to look too much like Paralucent and Futura, and I liked those two better. The SF Pro Display font is discarded as well, as it's Apple's system font and I want to use that in the application itself. The logo typeface has to be unique:
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-1.png)
+
+
+Here I decided to get rid of Futura PT as I think it has been overused. Sharp Grotesk looked cool but it's not to legible when the logo gets smaller. Lydian is a very old font, and you can see that, and I think it didn't fit the "application decade" style too well, so I chucked it out:
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-2.png)
+
+
+Now for my final choice...
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-3.png)
+
+
+As you can see, Paralucent works very well on all kinds of sizes and I think it's a very unique font that I haven't seen anywhere else yet. It has a nice big family and is usable in a lot of cases. In my case though, I will be using it only for the logo typeface:
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-4.png)
 
+Now that I have my logo done, it's time to start sketching out some screens and decide how I want to display my data!
 
 ## Sketching out the Screens
 
 
 ## High fidelity application Design
-
 
 
 ## Resources
