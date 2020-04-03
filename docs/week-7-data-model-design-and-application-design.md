@@ -123,7 +123,22 @@ Now that I have an understanding of the vast amount of planets it's time to make
 
 In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model. For now however, here's my curated list of favorite planets that I am going to include in the application:
 
-* 
+* Naboo
+* Tatooine
+* Kashyyyk
+* Felucia
+* Alderaan
+* Lah'Mu
+* Jedha
+* Yavin IV
+* Eadu
+* Scarif
+* Hoth
+* Endor
+* Crait
+* Jakku
+* Starkiller Base
+* Exegol
 
 ## Creating a Data Model
 Given I don't have too much experience yet with JSON I followed this small tutorial from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON). It helped me understand the basics about the JSON data format and how I can structure my own JSON files.
