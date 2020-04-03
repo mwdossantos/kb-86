@@ -7,9 +7,9 @@ If you have any remarks or questions
 # Activities
 |What|Finalized|
 |:---|:---:|
-|Defining the Data|🧑🏻‍💻|
-|Creating a Data Model|🧑🏻‍💻|
-|Star Wars: Favorites Logotype|🧑🏻‍💻|
+|Defining the Data|✅|
+|Creating a Data Model|✅|
+|Star Wars: Favorites Logotype|✅|
 |Sketching out the Screens|🧑🏻‍💻|
 |High fidelity application Design|🧑🏻‍💻|
 
