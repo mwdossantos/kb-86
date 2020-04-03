@@ -59,7 +59,7 @@ Thinking out the next few weeks - planning. You can find this planning on the [R
 |Week 10|Finish develoment & Presentation|🧑🏻‍💻|
 
 ## Theme research
-Do research on the chosen theme - find images, links and more.
+Do research on the chosen theme - find images, links and more. Just general stuff, I will dive deeper in week 7.
 
 ### Links:
 [Star Wars: Official Website](https://www.starwars.com/)
