@@ -191,7 +191,7 @@ All my planets will be stored as `objects` in an `array`. Each object has certai
 ```
 To visualize this `JSON` object I turned to Figma and created a diagram:
 
-![img](images/data-model-design.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/data-model-design.png)
 
 I created four categories for each planet:
 
@@ -206,10 +206,10 @@ After understanding `JSON` and being comfortable with it I went ahead and popula
 
 ## Star Wars: Favorites Logotype
 
-![img](images/logo-type-exploration-1.png)
-![img](images/logo-type-exploration-2.png)
-![img](images/logo-type-exploration-3.png)
-![img](images/logo-type-exploration-4.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-1.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-2.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-3.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-4.png)
 
 
 ## Sketching out the Screens

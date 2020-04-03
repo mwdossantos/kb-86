@@ -33,13 +33,13 @@ Looking back at the first part of this minor, everyone agreed that without clear
 Thinking about several themes a few sprung to mind:
 
 ### Audi
-![image](https://github.com/mwdossantos/kb-86/tree/master/docs/images/audi.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/audi.jpg)
 
 ### Star Wars
-![image](images/starwars.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/starwars.jpg)
 
 ### COVID-19
-![image](images/covid.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/covid.jpg)
 
 From these themes I decided to go with Star Wars, as it resonated the most with my group of teachers and is easiest to get a lot of meta information about. COVID-19 is a relevant idea, but most of those ideas are already made or are in ongoing development. The Audi application would be cool to link to my real car, but given that most likely needs root access to the car everybody voted against it. There's too little information to be shown without it.
 
