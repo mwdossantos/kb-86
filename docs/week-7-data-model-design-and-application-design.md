@@ -238,8 +238,18 @@ When designing an application for iOS I quickly learned that it's extremely impo
 
 
 ### Loading
+> **Educate or entertain people to mask loading time**. Consider showing hints about gameplay, entertaining video sequences, or interesting placeholder graphics.
+
+Given the above statement taken from the guidelines, I decided to show the Millenium Falcon jumping through hyperspace GIF as a means of providing placeholder graphics while the app is loading.
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/hyperspace.gif)
+
 ### Modality
+
+
 ### Navigation
+For the navigation of my app I chose the Flat Navigation method. From the data I want to display in my application it becomes clear that this type of navigation works the best. For more detailed information I will use Modals, Popovers and other modality elements.
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
 
 ## Resources
