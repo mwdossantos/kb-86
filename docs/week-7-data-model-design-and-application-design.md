@@ -122,22 +122,22 @@ Now that I have an understanding of the vast amount of planets it's time to make
 
 In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model. For now however, here's my curated list of favorite planets that I am going to include in the application:
 
-* Naboo
-* Tatooine
-* Kashyyyk
-* Felucia
 * Alderaan
-* Lah'Mu
-* Jedha
-* Yavin IV
-* Eadu
-* Scarif
-* Hoth
-* Endor
 * Crait
-* Jakku
-* Starkiller Base
+* Eadu
+* Endor
 * Exegol
+* Felucia
+* Hoth
+* Jakku
+* Jedha
+* Kashyyyk
+* Lah'Mu
+* Naboo
+* Scarif
+* Starkiller Base
+* Tatooine
+* Yavin IV
 
 ## Creating a Data Model
 Given I don't have too much experience yet with JSON I followed this small tutorial from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON). It helped me understand the basics about the JSON data format and how I can structure my own JSON files.
@@ -230,7 +230,7 @@ Now that I have my logo done, it's time to start designing some screens and deci
 
 ## High fidelity application Design
 
-> ### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
+### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
 
 When designing an application for iOS I quickly learned that it's extremely important to adhere to their guidelines where possible. I will elaborate on a couple of the App Architecture guidelines I followed.
 
@@ -262,13 +262,24 @@ For the navigation of my app I chose the Flat Navigation method. From the data I
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
 
+#### Other Guidelines
+Next to the guidelines I touched upon above I am also going to give attention to the following guidelines:
+
+* [Adaptivity and Layout](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/) - make sure the application is responsive and usable on every screen size.
+* [Animation](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/animation/) - using animation, but only when neccesary to indicate movement of elements.
+* [Dark Mode](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode/) - based on the system's settings, the application will turn dark or light (with a special "Star Wars" touch 😎)
+
+Of course, there are a lot of other *very* important guidelines. However, I won't include all of them in this documentation as I will adhere to them anyway. The ones you read about above are the most important and sprung to the eye first. To see my application screen designs keep reading!
+
 ### Application screens
 
-
+// still add all the information from the JSON and finalize dark and light mode
 
 ### Prototype
 
+// record prototype
 
+// close and go to week 8
 
 ## Resources
 
