@@ -251,6 +251,8 @@ Given the above statement taken from the guidelines, I decided to show the Mille
 ### Modality
 >> **Use modality when it makes sense.** Create a modal experience only when it’s critical to focus people’s attention on making a choice or performing a task that’s different from their current task. A modal experience takes people out of their current context and requires an action to dismiss, so it’s essential to use it only when it provides a clear benefit.
 
+I want to incorporate modals when a user presses on a planet or something else that has more detail. This way they won't get to deep in the application and can easily switch between other planets.
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modality.png)
 
 ### Navigation
