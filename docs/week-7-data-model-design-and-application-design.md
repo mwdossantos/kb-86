@@ -10,7 +10,6 @@ If you have any remarks or questions
 |Defining the Data|✅|
 |Creating a Data Model|✅|
 |Star Wars: Favorites Logotype|✅|
-|Sketching out the Screens|🧑🏻‍💻|
 |High fidelity application Design|🧑🏻‍💻|
 
 ## Defining the Data
@@ -227,13 +226,21 @@ As you can see, Paralucent works very well on all kinds of sizes and I think it'
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-4.png)
 
-Now that I have my logo done, it's time to start sketching out some screens and decide how I want to display my data!
-
-## Sketching out the Screens
-
+Now that I have my logo done, it's time to start designing some screens and decide how I want to display my data!
 
 ## High fidelity application Design
 
+> [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/
+
+When designing an application for iOS I quickly learned that it's extremely important to adhere to their guidelines where possible. I will elaborate on a couple of the App Architecture guidelines I followed.
+
+### Launching
+
+
+### Loading
+### Modality
+### Navigation
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
 
 ## Resources
 
