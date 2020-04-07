@@ -253,7 +253,7 @@ Given the above statement taken from the guidelines, I decided to show the Mille
 
 I want to incorporate modals when a user presses on a planet or something else that has more detail. This way they won't get to deep in the application and can easily switch between other planets.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modality.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modals.png)
 
 ### Navigation
 > **Always provide a clear path.** People should always know where they are in your app and how to get to their next destination. Regardless of navigation style, it’s essential that the path through content is logical, predictable, and easy to follow. In general, give people one path to each screen. If they need to see a screen in multiple contexts, consider using an action sheet, alert, popover, or modal view. To learn more, see Action Sheets, Alerts, Popovers, and Modality.
