@@ -230,7 +230,7 @@ Now that I have my logo done, it's time to start designing some screens and deci
 
 ## High fidelity application Design
 
-> [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/
+> [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
 
 When designing an application for iOS I quickly learned that it's extremely important to adhere to their guidelines where possible. I will elaborate on a couple of the App Architecture guidelines I followed.
 
