@@ -230,37 +230,45 @@ Now that I have my logo done, it's time to start designing some screens and deci
 
 ## High fidelity application Design
 
-> [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
+> ### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
 
 When designing an application for iOS I quickly learned that it's extremely important to adhere to their guidelines where possible. I will elaborate on a couple of the App Architecture guidelines I followed.
 
-### Launching
+#### Launching
 > **Restore the previous** state when your app restarts. Don't make people retrace steps to reach their previous location in your app. Preserve and restore your app’s state so they can continue where they left off.
 
 > **Provide a launch screen.** The system displays your launch screen the moment your app starts and quickly replaces it with your app's first screen. The function of a launch screen is to give people the impression that your app is fast and responsive, while allowing initial content to load. To ensure a seamless transition from your launch screen, design a plain screen that resembles your first app screen and doesn't draw attention to itself. For guidance, see Launch Screen.
 
 With the above guidelines in mind I will make sure the app has a generic launch screen that is easy to the eyes and give all my data a chance to load properly.
 
-### Loading
+#### Loading
 > **Educate or entertain people to mask loading time**. Consider showing hints about gameplay, entertaining video sequences, or interesting placeholder graphics.
 
 Given the above statement taken from the guidelines, I decided to show the Millenium Falcon jumping through hyperspace GIF as a means of providing placeholder graphics while the app is loading and launching:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/hyperspace.gif)
 
-### Modality
->> **Use modality when it makes sense.** Create a modal experience only when it’s critical to focus people’s attention on making a choice or performing a task that’s different from their current task. A modal experience takes people out of their current context and requires an action to dismiss, so it’s essential to use it only when it provides a clear benefit.
+#### Modality
+> **Use modality when it makes sense.** Create a modal experience only when it’s critical to focus people’s attention on making a choice or performing a task that’s different from their current task. A modal experience takes people out of their current context and requires an action to dismiss, so it’s essential to use it only when it provides a clear benefit.
 
 I want to incorporate modals when a user presses on a planet or something else that has more detail. This way they won't get to deep in the application and can easily switch between other planets.
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modals.png)
 
-### Navigation
+#### Navigation
 > **Always provide a clear path.** People should always know where they are in your app and how to get to their next destination. Regardless of navigation style, it’s essential that the path through content is logical, predictable, and easy to follow. In general, give people one path to each screen. If they need to see a screen in multiple contexts, consider using an action sheet, alert, popover, or modal view. To learn more, see Action Sheets, Alerts, Popovers, and Modality.
 
 For the navigation of my app I chose the Flat Navigation method. From the data I want to display in my application it becomes clear that this type of navigation works the best. For more detailed information I will use Modals, Popovers and other modality elements.
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
+
+### Application screens
+
+
+
+### Prototype
+
+
 
 ## Resources
 
