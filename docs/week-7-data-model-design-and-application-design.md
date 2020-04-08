@@ -282,15 +282,21 @@ Of course, there are a lot of other *very* important guidelines. However, I won'
 
 ### Application screens
 
+With all the above in mind I started designing my screens. I wanted to maintain the simplistic but UX friendly Apple design guidelines while also giving it a Star Wars feel. In the screens below you can see the final versions as I designed them in this [Figma file](). A key point to look at is that based on the Dark Mode setting of the user the application will turn dark or light, with either Kylo Ren or Rey as a onboarding figure. I thought this was a nice touch. 
+
+When launching the application I decided to show the Millenium Falcon jumping through hyperspace, to give it that extra Star Wars feel.
+
+I alos decided to just show a list of the planets on which you can click and a modal appears, where you can see more detailed information about the planet. You can see the actual interaction in the next section, where I recorded the prototype and you can try it yourself.
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-screen-designs.png)
 
 ### Prototype
 
-// record prototype
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype.gif)
 
-[Figma Prototype URL](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down)
+As you can see in the prototype I wanted to minimize the amount of navigation that the user needs to go through. A quick and easy way to get information about the planets. You can also try the prototype yourself through [this](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down) link. 
 
-// close and go to week 8
+I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
 
 ## Resources
 
