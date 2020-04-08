@@ -6,20 +6,27 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |What|Finalized|
 |:---|:---:|
 |Swift & SwiftUI tutorial|🧑🏻‍💻|
-|Code planning|🧑🏻‍💻|
 |Create launch screen|🧑🏻‍💻|
 |Dark & Light mode|🧑🏻‍💻|
 |Onboarding with Sith & Jedi|🧑🏻‍💻|
 
 ## Swift & SwiftUI tutorial
 
-## Code planning
-
 ## Create launch screen
+
+describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
 
 ## Sith & Jedi mode
 
+describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
+
 ## Onboarding with Sith & Jedi
+
+describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
+
+---
+
+end here
 
 ## Resources
 
