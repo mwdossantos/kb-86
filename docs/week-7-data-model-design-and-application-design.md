@@ -2,15 +2,13 @@
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Data Model Design & Application Design.
 
-If you have any remarks or questions
-
 # Activities
 |What|Finalized|
 |:---|:---:|
 |Defining the Data|✅|
 |Creating a Data Model|✅|
 |Star Wars: Favorites Logotype|✅|
-|High fidelity application Design|🧑🏻‍💻|
+|High fidelity Application Design|✅|
 
 ## Defining the Data
 
@@ -237,7 +235,9 @@ As you can see, Paralucent works very well on all kinds of sizes and I think it'
 
 Now that I have my logo done, it's time to start designing some screens and decide how I want to display my data!
 
-## High fidelity application Design
+## High fidelity Application Design
+
+In this activity I am going to take my data and design an application around that data.
 
 ### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
 

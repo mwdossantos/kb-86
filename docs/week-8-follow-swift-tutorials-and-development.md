@@ -1,9 +1,21 @@
-https://app.quicktype.io/
+# Week 8 - Follow Swift Tutorials & Development
 
-https://medium.com/better-programming/json-parsing-in-swift-2498099b78f
+Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Follow Swift Tutorials & Development.
 
-https://www.youtube.com/watch?v=EvwSB80GGDA
+# Activities
+|What|Finalized|
+|:---|:---:|
+|activity|✅|
 
-https://www.youtube.com/watch?v=YY3bTxgxWss
+## activity 1
 
-https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA
+## Resources
+
+|Resource|Note|
+|:---|:---|
+
+(https://app.quicktype.io/)
+(https://medium.com/better-programming/json-parsing-in-swift-2498099b78f)
+(https://www.youtube.com/watch?v=EvwSB80GGDA)
+(https://www.youtube.com/watch?v=YY3bTxgxWss)
+(https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
