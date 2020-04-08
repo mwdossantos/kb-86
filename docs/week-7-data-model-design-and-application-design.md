@@ -9,6 +9,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |Creating a Data Model|✅|
 |Star Wars: Favorites Logotype|✅|
 |High fidelity Application Design|✅|
+|Star Wars: Favorites Icon Design|✅|
 
 ## Defining the Data
 
@@ -296,6 +297,31 @@ I also decided to just show a list of the planets on which you can click and a m
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype.gif)
 
 As you can see in the prototype I wanted to minimize the amount of navigation that the user needs to go through. A quick and easy way to get information about the planets. You can also try the prototype yourself through [this](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down) link. 
+
+## Star Wars: Favorites Icon Design
+
+The application also needed a special designed icon that I can use later on in XCode. I created it using the logo I made and used the hyperspace tunnel as a background on the icon. This way it resembles the application and is usable when smaller. 
+
+In iOS app design and development you need to make several versions of the same icon, with different sizes, to cope with the retina display technology. You can see a few sizes here:
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-icon-designs.png)
+
+A couple of the interface design guidelines from Apple that I followed:
+
+> **Provide a single focus point.** Design an icon with a single, centered point that immediately captures attention and clearly identifies your app.
+> **Embrace simplicity.** Find a single element that captures the essence of your app and express that element in a simple, unique shape. Add details cautiously. If an icon’s content or shape is overly complex, the details can be hard to discern, especially at smaller sizes.
+
+I exported the logo according to the guidelines as well. You can see them in the table below:
+
+|Device or context|Icon size|
+|:---|:---|
+|iPhone|180px × 180px (60pt × 60pt @3x)|
+||120px × 120px (60pt × 60pt @2x)|
+|iPad Pro|167px × 167px (83.5pt × 83.5pt @2x)|
+|iPad, iPad mini|152px × 152px (76pt × 76pt @2x)|
+|App Store|1024px × 1024px (1024pt × 1024pt @1x)|
+
+---
 
 I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
 

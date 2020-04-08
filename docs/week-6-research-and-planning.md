@@ -102,10 +102,12 @@ Now knowing the problem and what data my application will be using, I can define
 * View historical events that happened on a certain planet
 * See in which movies the planet appears 
 
-To be sure I can meet those needs I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
-
 ### The goal for the application
 Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the *kickass* planets in a nicely designed application.
+
+---
+
+To be sure I can meet those needs and goals I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
 ## Resources
 
