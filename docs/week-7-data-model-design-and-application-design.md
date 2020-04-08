@@ -309,6 +309,7 @@ In iOS app design and development you need to make several versions of the same 
 A couple of the interface design guidelines from Apple that I followed:
 
 > **Provide a single focus point.** Design an icon with a single, centered point that immediately captures attention and clearly identifies your app.
+
 > **Embrace simplicity.** Find a single element that captures the essence of your app and express that element in a simple, unique shape. Add details cautiously. If an icon’s content or shape is overly complex, the details can be hard to discern, especially at smaller sizes.
 
 I exported the logo according to the guidelines as well. You can see them in the table below:
