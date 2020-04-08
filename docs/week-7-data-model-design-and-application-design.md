@@ -304,7 +304,7 @@ The application also needed a special designed icon that I can use later on in X
 
 In iOS app design and development you need to make several versions of the same icon, with different sizes, to cope with the retina display technology. You can see a few sizes here:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-icon-designs.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-icon-design.png)
 
 A couple of the interface design guidelines from Apple that I followed:
 
