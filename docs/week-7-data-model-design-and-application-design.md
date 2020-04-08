@@ -120,6 +120,7 @@ Now that I have an understanding of the vast amount of planets it's time to make
 
 In the above text, I have hidden a lot of *meta* information. It still lacks a general description and historic data about the planet, but I will be turning all that into a `JSON` object in the next section, Creating a Data Model. For now however, here's my curated list of favorite planets that I am going to include in the application:
 
+* Ajan Kloss
 * Alderaan
 * Crait
 * Eadu
