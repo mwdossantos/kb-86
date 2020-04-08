@@ -10,7 +10,6 @@ Again, thank you for taking the time to read this week's update. As you can see 
 Create launch screen
 
 
-
 ## activity 1
 
 ## Resources
