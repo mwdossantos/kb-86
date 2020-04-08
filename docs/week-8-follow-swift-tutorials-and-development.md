@@ -5,12 +5,21 @@ Again, thank you for taking the time to read this week's update. As you can see 
 # Activities
 |What|Finalized|
 |:---|:---:|
-|activity|✅|
+|Swift & SwiftUI tutorial|🧑🏻‍💻|
+|Code planning|🧑🏻‍💻|
+|Create launch screen|🧑🏻‍💻|
+|Dark & Light mode|🧑🏻‍💻|
+|Onboarding with Sith & Jedi|🧑🏻‍💻|
 
-Create launch screen
+## Swift & SwiftUI tutorial
 
+## Code planning
 
-## activity 1
+## Create launch screen
+
+## Sith & Jedi mode
+
+## Onboarding with Sith & Jedi
 
 ## Resources
 
