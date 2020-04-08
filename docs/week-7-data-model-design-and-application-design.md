@@ -286,7 +286,7 @@ With all the above in mind I started designing my screens. I wanted to maintain 
 
 When launching the application I decided to show the Millenium Falcon jumping through hyperspace, to give it that extra Star Wars feel.
 
-I alos decided to just show a list of the planets on which you can click and a modal appears, where you can see more detailed information about the planet. You can see the actual interaction in the next section, where I recorded the prototype and you can try it yourself.
+I also decided to just show a list of the planets on which you can click and a modal appears, where you can see more detailed information about the planet. You can see the actual interaction in the next section, where I recorded the prototype and you can try it yourself.
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-screen-designs.png)
 
