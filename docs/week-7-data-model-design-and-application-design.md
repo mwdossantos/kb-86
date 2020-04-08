@@ -288,6 +288,8 @@ Of course, there are a lot of other *very* important guidelines. However, I won'
 
 // record prototype
 
+[Figma Prototype URL](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down)
+
 // close and go to week 8
 
 ## Resources
