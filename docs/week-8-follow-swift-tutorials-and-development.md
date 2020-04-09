@@ -12,6 +12,8 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ## Swift & SwiftUI tutorial
 
+[Link to the tutorials I will follow](https://developer.apple.com/tutorials/swiftui/tutorials)
+
 ## Create launch screen
 
 describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
