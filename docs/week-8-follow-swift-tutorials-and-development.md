@@ -6,13 +6,17 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |What|Finalized|
 |:---|:---:|
 |Swift & SwiftUI tutorial|🧑🏻‍💻|
+|Setting up the XCode project|🧑🏻‍💻|
 |Create launch screen|🧑🏻‍💻|
 |Dark & Light mode|🧑🏻‍💻|
 |Onboarding with Sith & Jedi|🧑🏻‍💻|
 
 ## Swift & SwiftUI tutorial
+Swift playground with the JSON data - link to tutorial
 
-[Link to the tutorials I will follow](https://developer.apple.com/tutorials/swiftui/tutorials)
+[Link to the tutorials I will follow](https://developer.apple.com/tutorials/swiftui/tutorials) - turtlerock tutorial
+
+## Setting up the XCode project
 
 ## Create launch screen
 
