@@ -7,7 +7,7 @@ let planetsJSON = """
     {
         "meta": {
             "name": "Lah'Mu",
-            "planetImage": "url",
+            "planetImage": "crait.png",
             "additionalImages": [
                 "url",
                 "url",
@@ -58,7 +58,7 @@ let planetsJSON = """
 {
     "meta": {
         "name": "Hoth",
-        "planetImage": "url",
+        "planetImage": "crait.png",
         "additionalImages": [
             "url",
             "url",
@@ -109,9 +109,19 @@ let planetsJSON = """
 ]
 """
 
+
 struct HistoricEvents: Codable {
     let name:String?
     let description:String?
+}
+
+struct Meta: Codable {
+    let name:String?
+    let planetImage:String?
+    let additionalImages:[String]?
+    let description:String?
+    let historicEvents:[HistoricEvents]?
+    let appearances:[String]?
 }
 
 struct Astrographical: Codable {
@@ -136,23 +146,12 @@ struct Societal: Codable {
     let population:String?
 }
 
-struct Meta: Codable {
-    let name:String?
-    let planetImage:String?
-    let additionalImages:[String]?
-    let description:String?
-    let historicEvents:[HistoricEvents]?
-    let appearances:[String]?
-}
-
 struct Planet: Codable {
     let meta:Meta?
     let astrographical:Astrographical?
     let physical:Physical?
     let societal:Societal?
 }
-
-
 
 public class PlanetRetrievalService {
 
@@ -161,11 +160,11 @@ public class PlanetRetrievalService {
             let jsonData = planetsJSON.data(using: .utf8)!
             let planets = try JSONDecoder().decode([Planet].self, from: jsonData)
             
-//            for planet in planets {
-//                print(planet.meta?.name != nil ? planet.meta!.name! : "No name found")
-//            }
+            for planet in planets {
+                print(planet.meta?.name != nil ? planet.meta!.name! : "No name found")
+            }
             
-            return planets
+            return []
         } catch {
             print("Error info: \(error)")
             return []
@@ -173,17 +172,4 @@ public class PlanetRetrievalService {
     }
 }
 
-struct ContentView: View {
-    
-    var planets = PlanetRetrievalService.GetPlanets()
-    
-    var body: some View {
-        ForEach(0 ..< planets.count) {
-            Text(self.planets[$0].meta!.name!)
-            Image(self.planets[$0].meta!.planetImage!)
-        }
-
-    }
-}
-
-PlaygroundPage.current.setLiveView(ContentView())
+print(PlanetRetrievalService.GetPlanets())
