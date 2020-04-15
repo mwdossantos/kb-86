@@ -6,7 +6,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |What|Finalized|
 |:---|:---:|
 |Refactoring the code|🧑🏻‍💻|
-|Planet detail view|🧑🏻‍💻|
+|Final run|🧑🏻‍💻|
 |Presentation|🧑🏻‍💻|
 
 ## Refactoring the code
