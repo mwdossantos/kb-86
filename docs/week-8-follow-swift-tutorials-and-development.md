@@ -32,13 +32,14 @@ describe what I am going to design and paste my code with comments at the end wi
 
 ---
 
-end here
+end here and link to next week
+https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md
 
 ## Resources
 
 |Resource|Note|
 |:---|:---|
-|[Apple develop wesbite](https://developer.apple.com/develop/)|Used to find tutorials and look up documentation when programming|
+|[Apple develop website](https://developer.apple.com/develop/)|Used to find tutorials and look up documentation when programming|
 (https://app.quicktype.io/)
 (https://medium.com/better-programming/json-parsing-in-swift-2498099b78f)
 (https://www.youtube.com/watch?v=EvwSB80GGDA)
