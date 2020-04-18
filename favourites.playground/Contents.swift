@@ -6,7 +6,7 @@ let planetsJSON = """
 [
     {
         "meta": {
-            "name": "Lah'Mu",
+            "name": "Lah Mu",
             "planetImage": "crait.png",
             "additionalImages": [
                 "url",
@@ -111,9 +111,10 @@ public class PlanetRetrievalService {
             
             for planet in planets {
                 print(planet.meta?.name != nil ? planet.meta!.name! : "No name found")
+                print(planet.meta?.description != nil ? planet.meta!.description! : "No description found")
             }
             
-            return []
+            return planets
         } catch {
             print("Error info: \(error)")
             return []
