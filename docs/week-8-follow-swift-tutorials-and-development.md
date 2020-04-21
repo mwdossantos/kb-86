@@ -104,7 +104,7 @@ This part of the tutorial gets a bit more complicated as I need to edit all of t
 
 The essence of this section is that by removing the hard coded data and replacing it with references to the `Landmark.swift` the data in the child (detail) views will be dynamic.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-7.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2section-7.gif)
 
 Now that I have finished this second tutorial as well it's time to start with my own project. I have a great feeling about this! When I look back I don't seem to find a lot of things particularly difficult, just very new and suprising. 
 
