@@ -5,7 +5,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 # Activities
 |What|Finalized|
 |:---|:---:|
-|Swift & SwiftUI tutorial|🧑🏻‍💻|
+|Swift & SwiftUI tutorial|✅|
 |Setting up the XCode project|🧑🏻‍💻|
 |Create launch screen|🧑🏻‍💻|
 |Dark & Light mode|🧑🏻‍💻|
