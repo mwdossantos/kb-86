@@ -68,8 +68,6 @@ In this next tutorial for the landmarks application I will continue building on 
 #### Section 1 - Get to Know the Sample Data
 In the first section of this tutorial it showed me where to find the data I will be working with and how it is structured. No coding here.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-1.png)
-
 #### Section 2 - Create the Row View
 In this section I started creating a `LandmarkRow.swift` file in which I will define the layout and design of a single row item in the scrollable list that I will be working on later on.
 
