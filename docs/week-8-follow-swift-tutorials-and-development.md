@@ -117,6 +117,7 @@ I can't wait to start building Star Wars Favorites.
 The first thing to do is to start XCode and create a new project. The process for this is fairly simple and straightforward. In essence, my application will use the Single View template that XCode provides. 
 
 After the project is set up I went ahead and setup the folder structure as you can see in the following image:
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/setting-up-the-project-folderstructure.png)
 
 It contains a couple of folders:
