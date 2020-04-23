@@ -114,6 +114,23 @@ I can't wait to start building Star Wars Favorites.
 
 ## Setting up the XCode project
 
+The first thing to do is to start XCode and create a new project. The process for this is fairly simple and straightforward. In essence, my application will use the Single View template that XCode provides. 
+
+After the project is set up I went ahead and setup the folder structure as you can see in the following image:
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/setting-up-the-project-folderstructure.png)
+
+It contains a couple of folders:
+
+* Support Views
+* Resources
+* Models
+
+Support views will contain all of my views that I will implement in the application. Things like a planet item in the list, the planet list itself and for example a custom button.
+
+The resources folder holds all of my assets such as the planet images and `.JSON` data for them.
+
+The models folder contains files that hold information about the way I handle data in the application, such as the JSON parser.
+
 ## Create launch screen
 
 describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)

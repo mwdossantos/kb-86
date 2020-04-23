@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABE9882F-511A-44C4-873D-CD8B7683E2F8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53659008-A8B6-4984-8602-C58CAFA096F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Star Wars Favorites/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "53659008-A8B6-4984-8602-C58CAFA096F4 - 687557eeb568f446"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Star_Wars_Favorites.ContentView.init() -&gt; Star_Wars_Favorites.ContentView"
+                  moduleName = "Star Wars Favorites"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthew/Documents/GitHub/kb-86/Star%20Wars%20Favorites/Star%20Wars%20Favorites/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "53659008-A8B6-4984-8602-C58CAFA096F4 - 38f12013b7db34ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Star_Wars_Favorites_PreviewReplacement_ContentView_7):Star_Wars_Favorites.ContentView.(__preview__body in _F3EC74C0EDED7113F0D9140611C7F650).getter : some"
+                  moduleName = "ContentView.7.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthew/Documents/GitHub/kb-86/Star%20Wars%20Favorites/Star%20Wars%20Favorites/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
