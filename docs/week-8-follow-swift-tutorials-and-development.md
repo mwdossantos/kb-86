@@ -125,12 +125,15 @@ It contains a couple of folders:
 * Support Views
 * Resources
 * Models
+* Assets.xcassets
 
 Support views will contain all of my views that I will implement in the application. Things like a planet item in the list, the planet list itself and for example a custom button.
 
 The resources folder holds all of my assets such as the planet images and `.JSON` data for them.
 
 The models folder contains files that hold information about the way I handle data in the application, such as the JSON parser.
+
+The final folder I will address is the `Assets.xcassets` folder. This contains all of the images that don't belong in the resources folder such as the two Jedi's.
 
 ## Create launch screen
 
