@@ -7,7 +7,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |:---|:---:|
 |Swift & SwiftUI tutorial|✅|
 |Setting up the XCode project|🧑🏻‍💻|
-|Create launch screen|🧑🏻‍💻|
+|Create launch screen with GIF|🧑🏻‍💻|
 |Dark & Light mode|🧑🏻‍💻|
 |Onboarding with Sith & Jedi|🧑🏻‍💻|
 
@@ -135,17 +135,33 @@ The models folder contains files that hold information about the way I handle da
 
 The final folder I will address is the `Assets.xcassets` folder. This contains all of the images that don't belong in the resources folder such as the two Jedi's.
 
-## Create launch screen
+## Create launch screen with GIF
 
-describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
+- How did I do the GIF? 
+- The delay
+- The transition to Onboarding
+
+highlight important sections of the code and explaid what it does. 
+paste my code with comments at the end with it running in the simulator (recorded)
 
 ## Sith & Jedi mode
 
-describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
+Done
+
+- How did I implement Dark mode
+- How did I define which assets to use?
+- How did I define the colors?
+- Hwo did I navigate to the planet list view?
+
+highlight important sections of the code and explaid what it does. 
+paste my code with comments at the end with it running in the simulator (recorded)
 
 ## Onboarding with Sith & Jedi
 
-describe what I am going to design and paste my code with comments at the end with it running in the simulator (recorded)
+Done - 
+
+highlight important sections of the code and explaid what it does. 
+paste my code with comments at the end with it running in the simulator (recorded)
 
 ---
 
@@ -157,6 +173,7 @@ https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-develop
 |Resource|Note|
 |:---|:---|
 |[Apple develop website](https://developer.apple.com/develop/)|Used to find tutorials and look up documentation when programming|
+|[Stack Overflow](https://stackoverflow.com/)|Who doesn't use this website?|
 (https://app.quicktype.io/)
 (https://medium.com/better-programming/json-parsing-in-swift-2498099b78f)
 (https://www.youtube.com/watch?v=EvwSB80GGDA)

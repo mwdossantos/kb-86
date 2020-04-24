@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @Environment(\.colorScheme) var colorScheme
+    @Environment (\.colorScheme) var colorScheme:ColorScheme
     
     var body: some View {
         
@@ -30,23 +30,35 @@ struct ContentView: View {
                     .resizable()
                     .scaledToFit()
                     .frame(height: 600)
-                
                 VStack {
                     Spacer()
                     Button(action: {
                         print("Delete tapped!")
                     }) {
-                        Text("Continue")
-                            .font(.body)
-                            .fontWeight(.semibold)
-                            .frame(minWidth: 0, maxWidth: .infinity)
-                            .padding()
-                            .foregroundColor(.white)
-                            .background(Color(.standardColors))
-                            .cornerRadius(10)
-                    }.padding(.horizontal, 20)
+                        if colorScheme == .light {
+                            Text("Become a Jedi")
+                                .font(.headline)
+                                .fontWeight(.semibold)
+                                .frame(minWidth: 0, maxWidth: .infinity)
+                                .padding()
+                                .foregroundColor(.white)
+                                .background(Color("standardColors"))
+                                .cornerRadius(13)
+                        } else {
+                            Text("Turn to the Dark Side")
+                                .font(.headline)
+                                .fontWeight(.semibold)
+                                .frame(minWidth: 0, maxWidth: .infinity)
+                                .padding()
+                                .foregroundColor(.white)
+                                .background(Color("standardColors"))
+                                .cornerRadius(13)
+                        }
+                        
+                    }.padding(.horizontal, 40)
+                    
                     Spacer()
-                        .frame(height: 34.0)
+                        .frame(height: 60.0)
                 }
             }
             

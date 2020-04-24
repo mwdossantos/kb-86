@@ -5,13 +5,13 @@ Again, thank you for taking the time to read this week's update. As you can see 
 # Activities
 |What|Finalized|
 |:---|:---:|
-|Creating planets view|🧑🏻‍💻|
-|Planet detail view|🧑🏻‍💻|
+|Creating planet list view|🧑🏻‍💻|
+|Creating planet detail view|🧑🏻‍💻|
 |Loading & viewing JSON|🧑🏻‍💻|
 
-## Creating planets view
+## Creating planet list view
 
-## Planet detail view
+## Creating planet detail view
 
 ## Loading & viewing JSON 
 
