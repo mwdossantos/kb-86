@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,17 @@
 		341235A4244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235A3244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift */; };
 		341235AF244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */; };
 		341235C1244FA27C005AD70F /* planets.json in Resources */ = {isa = PBXBuildFile; fileRef = 341235C0244FA27C005AD70F /* planets.json */; };
+		3450E811245358C200DD375E /* alderaan.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E80F245358C200DD375E /* alderaan.png */; };
+		3450E812245358C200DD375E /* hyperspace.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3450E810245358C200DD375E /* hyperspace.gif */; };
+		3450E8162453593300DD375E /* alderaan2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8132453593300DD375E /* alderaan2.png */; };
+		3450E8172453593300DD375E /* alderaan3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8142453593300DD375E /* alderaan3.png */; };
+		3450E8182453593300DD375E /* alderaan1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8152453593300DD375E /* alderaan1.png */; };
+		3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81924535CBF00DD375E /* Splashscreen.swift */; };
+		3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81E24535EC100DD375E /* PlanetsView.swift */; };
+		34E700E2245360ED00528E43 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 34E700E1245360ED00528E43 /* SDWebImageSwiftUI */; };
+		34E700E9245376F700528E43 /* IntroductionInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700E8245376F700528E43 /* IntroductionInfoView.swift */; };
+		34E700EB24538BF100528E43 /* PlanetsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700EA24538BF100528E43 /* PlanetsService.swift */; };
+		34E700ED2453930A00528E43 /* PlanetDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700EC2453930A00528E43 /* PlanetDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,16 @@
 		341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star_Wars_FavoritesUITests.swift; sourceTree = "<group>"; };
 		341235B0244FA1CA005AD70F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		341235C0244FA27C005AD70F /* planets.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = planets.json; sourceTree = "<group>"; };
+		3450E80F245358C200DD375E /* alderaan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan.png; sourceTree = "<group>"; };
+		3450E810245358C200DD375E /* hyperspace.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hyperspace.gif; sourceTree = "<group>"; };
+		3450E8132453593300DD375E /* alderaan2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alderaan2.png; path = ../../../resources/planets/Alderaan/alderaan2.png; sourceTree = "<group>"; };
+		3450E8142453593300DD375E /* alderaan3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alderaan3.png; path = ../../../resources/planets/Alderaan/alderaan3.png; sourceTree = "<group>"; };
+		3450E8152453593300DD375E /* alderaan1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = alderaan1.png; path = ../../../resources/planets/Alderaan/alderaan1.png; sourceTree = "<group>"; };
+		3450E81924535CBF00DD375E /* Splashscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splashscreen.swift; sourceTree = "<group>"; };
+		3450E81E24535EC100DD375E /* PlanetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsView.swift; sourceTree = "<group>"; };
+		34E700E8245376F700528E43 /* IntroductionInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionInfoView.swift; sourceTree = "<group>"; };
+		34E700EA24538BF100528E43 /* PlanetsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsService.swift; sourceTree = "<group>"; };
+		34E700EC2453930A00528E43 /* PlanetDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34E700E2245360ED00528E43 /* SDWebImageSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,12 +123,13 @@
 		3412358B244FA1C8005AD70F /* Star Wars Favorites */ = {
 			isa = PBXGroup;
 			children = (
+				34E700E32453687100528E43 /* Services */,
+				3450E81B24535CD400DD375E /* Screens */,
 				341235C2244FA469005AD70F /* Support Views */,
 				341235BD244FA22B005AD70F /* Resources */,
 				341235BC244FA225005AD70F /* Models */,
 				3412358C244FA1C8005AD70F /* AppDelegate.swift */,
 				3412358E244FA1C8005AD70F /* SceneDelegate.swift */,
-				34123590244FA1C8005AD70F /* ContentView.swift */,
 				34123592244FA1CA005AD70F /* Assets.xcassets */,
 				34123597244FA1CA005AD70F /* LaunchScreen.storyboard */,
 				3412359A244FA1CA005AD70F /* Info.plist */,
@@ -151,6 +174,11 @@
 		341235BD244FA22B005AD70F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3450E8152453593300DD375E /* alderaan1.png */,
+				3450E8132453593300DD375E /* alderaan2.png */,
+				3450E8142453593300DD375E /* alderaan3.png */,
+				3450E80F245358C200DD375E /* alderaan.png */,
+				3450E810245358C200DD375E /* hyperspace.gif */,
 				341235C0244FA27C005AD70F /* planets.json */,
 			);
 			path = Resources;
@@ -161,6 +189,26 @@
 			children = (
 			);
 			path = "Support Views";
+			sourceTree = "<group>";
+		};
+		3450E81B24535CD400DD375E /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				34123590244FA1C8005AD70F /* ContentView.swift */,
+				3450E81924535CBF00DD375E /* Splashscreen.swift */,
+				3450E81E24535EC100DD375E /* PlanetsView.swift */,
+				34E700E8245376F700528E43 /* IntroductionInfoView.swift */,
+				34E700EC2453930A00528E43 /* PlanetDetail.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		34E700E32453687100528E43 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				34E700EA24538BF100528E43 /* PlanetsService.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -179,6 +227,9 @@
 			dependencies = (
 			);
 			name = "Star Wars Favorites";
+			packageProductDependencies = (
+				34E700E1245360ED00528E43 /* SDWebImageSwiftUI */,
+			);
 			productName = "Star Wars Favorites";
 			productReference = 34123589244FA1C8005AD70F /* Star Wars Favorites.app */;
 			productType = "com.apple.product-type.application";
@@ -251,6 +302,9 @@
 				Base,
 			);
 			mainGroup = 34123580244FA1C8005AD70F;
+			packageReferences = (
+				34E700E0245360ED00528E43 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			productRefGroup = 3412358A244FA1C8005AD70F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -267,7 +321,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3450E811245358C200DD375E /* alderaan.png in Resources */,
+				3450E8162453593300DD375E /* alderaan2.png in Resources */,
+				3450E8182453593300DD375E /* alderaan1.png in Resources */,
 				34123599244FA1CA005AD70F /* LaunchScreen.storyboard in Resources */,
+				3450E8172453593300DD375E /* alderaan3.png in Resources */,
+				3450E812245358C200DD375E /* hyperspace.gif in Resources */,
 				34123596244FA1CA005AD70F /* Preview Assets.xcassets in Resources */,
 				34123593244FA1CA005AD70F /* Assets.xcassets in Resources */,
 				341235C1244FA27C005AD70F /* planets.json in Resources */,
@@ -295,8 +354,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */,
 				3412358D244FA1C8005AD70F /* AppDelegate.swift in Sources */,
 				3412358F244FA1C8005AD70F /* SceneDelegate.swift in Sources */,
+				3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */,
+				34E700ED2453930A00528E43 /* PlanetDetail.swift in Sources */,
+				34E700EB24538BF100528E43 /* PlanetsService.swift in Sources */,
+				34E700E9245376F700528E43 /* IntroductionInfoView.swift in Sources */,
 				34123591244FA1C8005AD70F /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -622,6 +686,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		34E700E0245360ED00528E43 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.3.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		34E700E1245360ED00528E43 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 34E700E0245360ED00528E43 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 34123581244FA1C8005AD70F /* Project object */;
 }

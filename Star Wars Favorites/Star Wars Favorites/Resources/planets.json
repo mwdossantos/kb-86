@@ -2,11 +2,11 @@
     {
         "meta": {
             "name": "Lah'Mu",
-            "planetImage": "url",
+            "planetImage": "alderaan.png",
             "additionalImages": [
-                "url",
-                "url",
-                "url"
+                "alderaan1.png",
+                "alderaan2.png",
+                "alderaan3.png"
             ],
             "description": "This is a decription",
             "historicEvents": [
