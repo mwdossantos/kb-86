@@ -178,7 +178,7 @@ highlight important sections of the code and explaid what it does. paste my code
 
 end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md)
 
-### Resources
+## Resources
 
 | Resource | Note |
 | :--- | :--- |

@@ -345,7 +345,7 @@ I exported the logo according to the guidelines as well. You can see them in the
 
 I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
 
-### Resources
+## Resources
 
 | Resource | Note |
 | :--- | :--- |

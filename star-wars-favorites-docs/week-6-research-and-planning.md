@@ -115,7 +115,7 @@ Given I am working with the Star Wars IP, it's going to be impossible to release
 
 To be sure I can meet those needs and goals I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
-### Resources
+#### Resources
 
 | Resource | Note |
 | :--- | :--- |

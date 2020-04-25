@@ -22,7 +22,7 @@ application icons, names, etc
 
 end here
 
-### Resources
+## Resources
 
 | Resource | Note |
 | :--- | :--- |
