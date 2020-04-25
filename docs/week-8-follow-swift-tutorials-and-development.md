@@ -138,22 +138,22 @@ After the project is set up I went ahead and setup the folder structure as you c
 
 It contains a couple of folders:
 
-* Support Views
+* Services
+* Screens
 * Resources
-* Models
 * Assets.xcassets
 
-Support views will contain all of my views that I will implement in the application. Things like a planet item in the list, the planet list itself and for example a custom button.
+Services folder contains files that hold information about the way I handle data in the application, such as the JSON parser.
+
+Screens will contain all of my views that I will implement in the application. Things like a planet item in the list, the planet list itself and for example a custom button.
 
 The resources folder holds all of my assets such as the planet images and `.JSON` data for them.
-
-The models folder contains files that hold information about the way I handle data in the application, such as the JSON parser.
 
 The final folder I will address is the `Assets.xcassets` folder. This contains all of the images that don't belong in the resources folder such as the two Jedi's.
 
 ### Create splash screen with GIF
 
-The first screen as seen in my design is the splash screen. This screen is used to show the user there is activity going on and will indicate the application is loading. Normally, animated GIF images are not natively supported in Swift & SwiftUI. After some googling I found a library that I can install as a dependency in my project. This library extends on the normal `Image` component in Swift and gives a full stack solution for animated images. You can read more about this library on it's [GitHub page](https://github.com/SDWebImage/SDWebImageSwiftUI).
+The first screen as seen in my design is the splash screen. This screen is used to show the user there is activity going on and will indicate the application is loading. Normally, animated GIF images are not natively supported in Swift & SwiftUI. After some googling I found a library that I can install as a dependency in my project. This library extends on the normal `Image` component in Swift and gives a full stack solution for animated images. You can read more about this library on its [GitHub page](https://github.com/SDWebImage/SDWebImageSwiftUI).
 
 Here's my piece of code that holds the animated GIF as a background with the Star Wars logo stacked ontop of it:
 
@@ -175,7 +175,10 @@ ZStack (alignment: .center) {
 
     }.edgesIgnoringSafeArea(.all).onAppear(perform: mockLoading)
 ```
-* How did I do the GIF? 
+
+Now that I have the GIF working, it was time to setup the transition from this view, `Splashscreen.swift`, to the `ContentView.swift`. Because I am using a GIF I want to start the transition after one playback of the GIF.
+
+
 * The delay
 * The transition to Onboarding
 

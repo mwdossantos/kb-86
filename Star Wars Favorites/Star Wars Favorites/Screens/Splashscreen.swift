@@ -41,6 +41,7 @@ struct Splashscreen: View {
         DispatchQueue.main.asyncAfter(deadline: .now() + 2.3) {
             self.hasTimeElapsed = true
         }
+
     }
 }
 
