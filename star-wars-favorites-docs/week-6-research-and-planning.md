@@ -38,15 +38,15 @@ Thinking about several themes a few sprung to mind:
 
 #### Audi
 
-![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/audi.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/audi.jpg)
 
 #### Star Wars
 
-![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/starwars.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/starwars.jpg)
 
 #### COVID-19
 
-![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/covid.jpg)
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/covid.jpg)
 
 From these themes I decided to go with Star Wars, as it resonated the most with my group of teachers and is easiest to get a lot of meta information about. COVID-19 is a relevant idea, but most of those ideas are already made or are in ongoing development. The Audi application would be cool to link to my real car, but given that most likely needs root access to the car everybody voted against it. There's too little information to be shown without it.
 
@@ -60,9 +60,9 @@ Thinking out the next few weeks - planning. You can find this planning on the [R
 
 | When | What | Finalized |
 | :--- | :--- | :---: |
-| Week 6 | [Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md) | ✅ |
-| Week 7 | [Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) | ✅ |
-| Week 8 | [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md) | 🧑🏻‍💻 |
+| Week 6 | [Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-6-research-and-planning.md) | ✅ |
+| Week 7 | [Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-7-data-model-design-and-application-design.md) | ✅ |
+| Week 8 | [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-8-follow-swift-tutorials-and-development.md) | 🧑🏻‍💻 |
 | Week 9 | application development | 🧑🏻‍💻 |
 | Week 10 | Finish develoment & Presentation | 🧑🏻‍💻 |
 
@@ -113,7 +113,7 @@ Now knowing the problem and what data my application will be using, I can define
 
 Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the _kickass_ planets in a nicely designed application.
 
-To be sure I can meet those needs and goals I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
+To be sure I can meet those needs and goals I will need to dive deeper into the [Data Model Design](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
 #### Resources
 
