@@ -10,7 +10,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 | :--- | :---: |
 | Swift & SwiftUI tutorial | ✅ |
 | Setting up the XCode project | 🧑🏻‍💻 |
-| Create launch screen with GIF | 🧑🏻‍💻 |
+| Create splash screen with GIF | 🧑🏻‍💻 |
 | Dark & Light mode | 🧑🏻‍💻 |
 | Onboarding with Sith & Jedi | 🧑🏻‍💻 |
 
@@ -151,8 +151,30 @@ The models folder contains files that hold information about the way I handle da
 
 The final folder I will address is the `Assets.xcassets` folder. This contains all of the images that don't belong in the resources folder such as the two Jedi's.
 
-### Create launch screen with GIF
+### Create splash screen with GIF
 
+The first screen as seen in my design is the splash screen. This screen is used to show the user there is activity going on and will indicate the application is loading. Normally, animated GIF images are not natively supported in Swift & SwiftUI. After some googling I found a library that I can install as a dependency in my project. This library extends on the normal `Image` component in Swift and gives a full stack solution for animated images. You can read more about this library on it's [GitHub page](https://github.com/SDWebImage/SDWebImageSwiftUI).
+
+Here's my piece of code that holds the animated GIF as a background with the Star Wars logo stacked ontop of it:
+
+```swift
+ZStack (alignment: .center) {
+                    
+    // Gif
+    AnimatedImage(name: "hyperspace.gif")
+    .scaledToFill()
+    .aspectRatio(contentMode: .fill)
+    .frame(width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height + 90, alignment: .bottom)
+                    
+    // Logo
+    Image("star-wars-logo-white")
+        .resizable()
+        .scaledToFit()
+        .frame(height: 120, alignment: .center)
+        .padding(.top, 70)
+
+    }.edgesIgnoringSafeArea(.all).onAppear(perform: mockLoading)
+```
 * How did I do the GIF? 
 * The delay
 * The transition to Onboarding
@@ -184,6 +206,7 @@ end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master
 | :--- | :--- |
 | [Apple develop website](https://developer.apple.com/develop/) | Used to find tutorials and look up documentation when programming |
 | [Stack Overflow](https://stackoverflow.com/) | Who doesn't use this website? |
+|[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)|SDWebImageSwiftUI is a SwiftUI image loading framework, which based on SDWebImage.|
 
 \([https://app.quicktype.io/](https://app.quicktype.io/)\) \([https://medium.com/better-programming/json-parsing-in-swift-2498099b78f](https://medium.com/better-programming/json-parsing-in-swift-2498099b78f)\) \([https://www.youtube.com/watch?v=EvwSB80GGDA](https://www.youtube.com/watch?v=EvwSB80GGDA)\) \([https://www.youtube.com/watch?v=YY3bTxgxWss](https://www.youtube.com/watch?v=YY3bTxgxWss)\) \([https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)\)
 

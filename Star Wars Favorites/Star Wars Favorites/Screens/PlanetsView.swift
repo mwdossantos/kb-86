@@ -11,7 +11,9 @@ import SwiftUI
 struct PlanetsView: View {
     
     @State var planets: [Planet] = PlanetService.GetPlanets()
-    
+    @State var showingDetailSheet = false
+    @State var planetToShowInDetail: Planet?
+
     // change color of navigation bar tint with the default colors
     init() {
         _ = UINavigationBarAppearance()
@@ -31,9 +33,14 @@ struct PlanetsView: View {
                     Text(self.planets[i].meta.name!).font(.largeTitle).bold()
                     Text(self.planets[i].meta.description!)
                         .foregroundColor(.gray).padding(.top, 10)
-                    NavigationLink(destination: PlanetDetail()) {
+                    Button(action: {
+                        self.planetToShowInDetail = self.planets[i]
+                        self.showingDetailSheet = true;
+                    }) {
                         Text("Visit this planet").foregroundColor(Color("standardColors")).padding(.top)
                     }
+
+
                 }.padding(.top, 40)
             }
         }
@@ -46,6 +53,9 @@ struct PlanetsView: View {
                     .padding(.trailing, UIScreen.main.bounds.width / 2 - 40)
                         .padding(.top, -10)
         )
+        .sheet(isPresented: self.$showingDetailSheet) {
+            PlanetDetail(planet: self.planetToShowInDetail!)
+        }
     }
 
 }
