@@ -18,7 +18,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ### Loading & viewing JSON
 
-end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-10-finish-development-and-presentation.md](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-10-finish-development-and-presentation.md)
+end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md)
 
 ## Resources
 

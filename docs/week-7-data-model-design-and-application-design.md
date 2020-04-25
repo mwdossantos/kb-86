@@ -16,7 +16,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ### Defining the Data
 
-With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-6-research-and-planning.md):
+With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md):
 
 > * Ability to browse a selection of my most favourtie planets in Star Wars
 > * View meta information about a certain planet
@@ -218,7 +218,7 @@ All my planets will be stored as `objects` in an `array`. Each object has certai
 
 To visualize this `JSON` object I turned to Figma and created a diagram:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/data-model-design.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/data-model-design.png)
 
 I created four categories for each planet:
 
@@ -229,7 +229,7 @@ I created four categories for each planet:
 
 Having these categories will make it easy to focus on the information at hand.
 
-After understanding `JSON` and being comfortable with it I went ahead and populated the whole `JSON` file with all the planets. You can view that file [here](https://github.com/mwdossantos/kb-86/tree/6d1f5b2788392c9c4dae0314a87232732febfdb5/star-wars-favorites-docs/planets.json). With that in place, it's time to start designing with the _data in mind_.
+After understanding `JSON` and being comfortable with it I went ahead and populated the whole `JSON` file with all the planets. You can view that file [here](https://github.com/mwdossantos/kb-86/tree/6d1f5b2788392c9c4dae0314a87232732febfdb5/docs/planets.json). With that in place, it's time to start designing with the _data in mind_.
 
 ### Star Wars: Favorites Logotype
 
@@ -237,19 +237,19 @@ In order to represent my application in the right way I started creating a logo.
 
 The first typefaces I got rid of after a first inspection were TT Norms Pro and SF Pro Display. Reason being that I found TT Norms Pro to look too much like Paralucent and Futura, and I liked those two better. The SF Pro Display font is discarded as well, as it's Apple's system font and I want to use that in the application itself. The logo typeface has to be unique:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/logo-type-exploration-1.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-1.png)
 
 Here I decided to get rid of Futura PT as I think it has been overused. Sharp Grotesk looked cool but it's not to legible when the logo gets smaller. Lydian is a very old font, and you can see that, and I think it didn't fit the "application decade" style too well, so I chucked it out:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/logo-type-exploration-2.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-2.png)
 
 Now for my final choice...
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/logo-type-exploration-3.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-3.png)
 
 As you can see, Paralucent works very well on all kinds of sizes and I think it's a very unique font that I haven't seen anywhere else yet. It has a nice big family and is usable in a lot of cases. In my case though, I will be using it only for the logo typeface:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/logo-type-exploration-4.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/logo-type-exploration-4.png)
 
 Now that I have my logo done, it's time to start designing some screens and decide how I want to display my data!
 
@@ -275,7 +275,7 @@ With the above guidelines in mind I will make sure the app has a generic launch 
 
 Given the above statement taken from the guidelines, I decided to show the Millenium Falcon jumping through hyperspace GIF as a means of providing placeholder graphics while the app is loading and launching:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/hyperspace.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/hyperspace.gif)
 
 **Modality**
 
@@ -283,7 +283,7 @@ Given the above statement taken from the guidelines, I decided to show the Mille
 
 I want to incorporate modals when a user presses on a planet or something else that has more detail. This way they won't get to deep in the application and can easily switch between other planets.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/modals.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modals.png)
 
 **Navigation**
 
@@ -291,7 +291,7 @@ I want to incorporate modals when a user presses on a planet or something else t
 
 For the navigation of my app I chose the Flat Navigation method. From the data I want to display in my application it becomes clear that this type of navigation works the best. For more detailed information I will use Modals, Popovers and other modality elements.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/flat-nav.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
 
 **Other Guidelines**
 
@@ -311,11 +311,11 @@ When launching the application I decided to show the Millenium Falcon jumping th
 
 I also decided to just show a list of the planets on which you can click and a modal appears, where you can see more detailed information about the planet. You can see the actual interaction in the next section, where I recorded the prototype and you can try it yourself.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/application-screen-designs.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-screen-designs.png)
 
 #### Prototype
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/prototype.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype.gif)
 
 As you can see in the prototype I wanted to minimize the amount of navigation that the user needs to go through. A quick and easy way to get information about the planets. You can also try the prototype yourself through [this](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down) link.
 
@@ -325,7 +325,7 @@ The application also needed a special designed icon that I can use later on in X
 
 In iOS app design and development you need to make several versions of the same icon, with different sizes, to cope with the retina display technology. You can see a few sizes here:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/application-icon-design.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-icon-design.png)
 
 A couple of the interface design guidelines from Apple that I followed:
 
@@ -343,7 +343,7 @@ I exported the logo according to the guidelines as well. You can see them in the
 | iPad, iPad mini | 152px × 152px \(76pt × 76pt @2x\) |
 | App Store | 1024px × 1024px \(1024pt × 1024pt @1x\) |
 
-I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
+I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
 
 ## Resources
 

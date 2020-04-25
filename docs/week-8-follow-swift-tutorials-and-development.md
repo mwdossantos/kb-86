@@ -30,7 +30,7 @@ I will build a sample application, called Landmarks. The learning curve for this
 
 In the first section of this tutorial I created the XCode project and turned on the SwiftUI preview pane. This helps me see my code in a visual way.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-1.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-1.png)
 
 **Section 2 - Customize the Text View**
 
@@ -38,7 +38,7 @@ Here I learned that I can manipulate the modifiers for elements through either c
 
 As you can see I set the text color to green.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-2.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-2.png)
 
 **Section 3 - Combine Views Using Stacks**
 
@@ -46,7 +46,7 @@ In this section I learned what VStack and HStack containers are. They basically 
 
 They give me a lot of control of the layout of certain elements. I really like this part as it makes a lot of sense. I added more information to the Turtle Rock text I had in section 2.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-3.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-3.png)
 
 **Section 4 Create a Custom Image View**
 
@@ -54,13 +54,13 @@ In this section I learned how to create an image view. You see, in SwiftUI every
 
 I applied some styling to the image view. Also note that this is `CircleImage.swift` and not `ContentView.swift`.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-4.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-4.png)
 
 **Section 5 - Use UIKit and SwiftUI Views Together**
 
 For this application, each landmark also has a map view. In order for this to work we need to import MapKit into the SwiftUI file called `MapView.swift`. The configuration you see in the code first creates the map view, and then sets the coordinates for the correct location.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-5.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-5.png)
 
 **Section 6 - Compose the Detail View**
 
@@ -68,7 +68,7 @@ Now it's time to combine the views I created. As you can see I went back to the 
 
 The end result for this first tutorial actually looks really nice:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-1-section-6.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-6.png)
 
 #### [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) ~ 35 minutes
 
@@ -82,7 +82,7 @@ In the first section of this tutorial it showed me where to find the data I will
 
 In this section I started creating a `LandmarkRow.swift` file in which I will define the layout and design of a single row item in the scrollable list that I will be working on later on.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2-section-2.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-2.png)
 
 **Section 3 - Customize the Row Preview**
 
@@ -90,13 +90,13 @@ This section in the tutorial teached my how I can control what the XCode preview
 
 As you can see I now show the first and second item from the `landmarkData.json` file.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2-section-3.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-3.png)
 
 **Section 4 - Create the List of Landmarks**
 
 This fourth section was rather short. I created a `LandmarkList.swift` file and defined a list in it. Then I populated that list with two `LandmarkRow`'s.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2-section-4.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-4.png)
 
 **Section 5 - Make the List Dynamic**
 
@@ -104,7 +104,7 @@ As you can see in the last section, I hard coded the data. This isn't a good pra
 
 One thing I find nifty is that by adding `Identifiable` to the `Landmark.swift` model protocol, it automatically orders the list based on the id's defined in the `.json` file.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2-section-5.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-5.png)
 
 **Section 6 - Set Up Navigation Between List and Detail**
 
@@ -112,7 +112,7 @@ Now that I have created the list & detail views it's time to make them link. I d
 
 Now the only thing not happening yet is that the navigation action isn't pushing the child data through. I will fix this in section 7 of this tutorial.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2-section-6.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2-section-6.png)
 
 **Section 7 - Pass Data into Child Views**
 
@@ -120,7 +120,7 @@ This part of the tutorial gets a bit more complicated as I need to edit all of t
 
 The essence of this section is that by removing the hard coded data and replacing it with references to the `Landmark.swift` the data in the child \(detail\) views will be dynamic.
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/tutorial-2section-7.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-2section-7.gif)
 
 Now that I have finished this second tutorial as well it's time to start with my own project. I have a great feeling about this! When I look back I don't seem to find a lot of things particularly difficult, just very new and suprising.
 
@@ -134,7 +134,7 @@ The first thing to do is to start XCode and create a new project. The process fo
 
 After the project is set up I went ahead and setup the folder structure as you can see in the following image:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/star-wars-favorites-docs/images/setting-up-the-project-folderstructure.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/setting-up-the-project-folderstructure.png)
 
 It contains a couple of folders:
 
@@ -176,7 +176,7 @@ Done -
 
 highlight important sections of the code and explaid what it does. paste my code with comments at the end with it running in the simulator \(recorded\)
 
-end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-9-application-development.md](https://github.com/mwdossantos/kb-86/blob/master/star-wars-favorites-docs/week-9-application-development.md)
+end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md)
 
 ## Resources
 
