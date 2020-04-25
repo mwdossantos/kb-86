@@ -4,7 +4,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ## Activities
 
-| What | Finalized |
+| What | Finalised |
 | :--- | :---: |
 | Creating planet list view | 🧑🏻‍💻 |
 | Creating planet detail view | 🧑🏻‍💻 |
