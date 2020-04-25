@@ -1,6 +1,6 @@
-# week-8-follow-swift-tutorials-and-development
+# Week 8 - Follow Swift Tutorials & Development
 
-## Week 8 - Follow Swift Tutorials & Development
+## Follow Swift Tutorials & Development
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Follow Swift Tutorials & Development.
 

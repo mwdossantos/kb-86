@@ -1,6 +1,6 @@
-# week-9-application-development
+# Week 9 - Application Development
 
-## Week 9 - Application Development
+## Application Development
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Application Development.
 

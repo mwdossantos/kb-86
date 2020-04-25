@@ -1,6 +1,6 @@
-# week-7-data-model-design-and-application-design
+# Week 7 - Data Model Design & Application Design
 
-## Week 7 - Data Model Design & Application Design
+## Data Model Design & Application Design
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Data Model Design & Application Design.
 

@@ -1,6 +1,6 @@
-# week-10-finish-development-and-presentation
+# Week 10 - Finish Development & Presentation
 
-## Week 10 - Finish Development & Presentation
+## Finish Development & Presentation
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Finish Development & Presentation.
 
