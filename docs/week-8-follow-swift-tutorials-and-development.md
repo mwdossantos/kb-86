@@ -8,11 +8,11 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 | What | Finalized |
 | :--- | :---: |
-| Swift & SwiftUI tutorial | ✅ |
-| Setting up the XCode project | 🧑🏻‍💻 |
-| Create splash screen with GIF | 🧑🏻‍💻 |
-| Dark & Light mode | 🧑🏻‍💻 |
-| Onboarding with Sith & Jedi | 🧑🏻‍💻 |
+| Swift & SwiftUI tutorial |✅|
+| Setting up the XCode project |✅|
+| Create splash screen with GIF |✅|
+| Dark & Light mode |✅|
+| Onboarding with Sith & Jedi |✅|
 
 ### Swift & SwiftUI tutorial
 
@@ -432,9 +432,11 @@ A last thing to add to this week is that I will navigate from `OnboardingView()`
 For now though, the result of this week:
 
 **Light mode:**
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8light.gif)
 
 **Dark mode:**
+
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8dark.gif)
 
 ## Resources

@@ -359,4 +359,5 @@ I am very happy with how this all turned out. I can't wait to head into next wee
 | [Star Wars SVG logo](https://commons.wikimedia.org/wiki/File:Star_wars2.svg) | To combine with the "Favourites" wordmark |
 | [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) | JSON data tutorial |
 | [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) | Used to get the high fidelity design up to Apple's standards |
+|[SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/)|Used for any and all icons in the application design|
 

@@ -8,9 +8,9 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 | What | Finalized |
 | :--- | :---: |
-| Creating planet list view | 🧑🏻‍💻 |
-| Creating planet detail view | 🧑🏻‍💻 |
-| Loading & viewing JSON | 🧑🏻‍💻 |
+| Creating planet list view |✅|
+| Creating planet detail view |✅|
+| Loading & viewing JSON |✅|
 
 ### Creating planet list view
 
