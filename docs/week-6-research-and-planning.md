@@ -1,5 +1,4 @@
-# Research & Planning
-> Week 6
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week6covermd.png)
 
 Thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Research & Planning out the Application.
 
@@ -11,7 +10,7 @@ Thank you for taking the time to read this week's update. As you can see in the 
 | Choosing a theme | ✅ |
 | Planning | ✅ |
 | Theme research | ✅ |
-| Data & Problem | ✅ |
+| Data & roblem | ✅ |
 
 ## Learning goal and Deliverable
 

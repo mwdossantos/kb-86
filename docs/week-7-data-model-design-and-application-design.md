@@ -1,5 +1,4 @@
-# Data Model Design & Application Design
-> Week 7
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week7covermd.png)
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Data Model Design & Application Design.
 

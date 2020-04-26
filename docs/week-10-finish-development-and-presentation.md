@@ -1,5 +1,4 @@
-# Finish Development & Presentation
-> Week 10
+![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week10covermd.png)
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Finish Development & Presentation.
 
