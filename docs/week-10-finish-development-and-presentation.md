@@ -25,6 +25,8 @@ old code block
 new code block
 ```
 
+Next to refactoring my code I have added comments in my `.swift` files, to help you understand the code in the project.
+
 ## Final run
 
 After I finished creating the application I had a few small things left to do. The application icon I designed in Week 7 was not yet implemented, so I added it:
