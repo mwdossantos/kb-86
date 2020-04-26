@@ -431,7 +431,10 @@ A last thing to add to this week is that I will navigate from `OnboardingView()`
 
 For now though, the result of this week:
 
+**Light mode:**
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8light.gif)
+
+**Dark mode:**
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8dark.gif)
 
 ## Resources
