@@ -16,8 +16,12 @@ struct Splashscreen: View {
     var body: some View {
         Group {
             if self.hasTimeElapsed {
-                ContentView()
+                // Transition to OnboardingView()
+                OnboardingView()
             } else {
+                
+                // Show the animated GIF with the Star Wars logo
+                
                 ZStack (alignment: .center) {
                     
                     // Gif

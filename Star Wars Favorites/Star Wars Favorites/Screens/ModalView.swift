@@ -1,5 +1,5 @@
 //
-//  IntroductionInfoView.swift
+//  ModalView.swift
 //  Star Wars Favorites
 //
 //  Created by Matthew Wilson on 24/04/2020.
@@ -8,14 +8,15 @@
 
 import SwiftUI
 
-struct IntroductionInfoView: View {
+struct ModalView: View {
     @Environment(\.presentationMode) var presentationMode
 
     var body: some View {
-        VStack (alignment: .center){
+        VStack (alignment: .center) {
 
             Spacer()
             
+            // Title
             Text("Welcome to favorites")
                 .font(.largeTitle)
                 .fontWeight(.bold)
@@ -60,8 +61,9 @@ struct IntroductionInfoView: View {
             }.padding(EdgeInsets(top: 0, leading: 40, bottom: 0, trailing: 40))
                 
             Spacer()
+            
+            // Button to hide the modal sheet
             Button(action: {
-                
                 // Hide the sheet
                 self.presentationMode.wrappedValue.dismiss()
             }) {
@@ -81,8 +83,8 @@ struct IntroductionInfoView: View {
     }
 }
 
-struct IntroductionInfoView_Previews: PreviewProvider {
+struct ModalView_Previews: PreviewProvider {
     static var previews: some View {
-        IntroductionInfoView()
+        ModalView()
     }
 }

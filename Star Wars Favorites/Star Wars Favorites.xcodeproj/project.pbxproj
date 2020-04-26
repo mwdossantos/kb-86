@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3412358D244FA1C8005AD70F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3412358C244FA1C8005AD70F /* AppDelegate.swift */; };
 		3412358F244FA1C8005AD70F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3412358E244FA1C8005AD70F /* SceneDelegate.swift */; };
-		34123591244FA1C8005AD70F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34123590244FA1C8005AD70F /* ContentView.swift */; };
+		34123591244FA1C8005AD70F /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34123590244FA1C8005AD70F /* OnboardingView.swift */; };
 		34123593244FA1CA005AD70F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34123592244FA1CA005AD70F /* Assets.xcassets */; };
 		34123596244FA1CA005AD70F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34123595244FA1CA005AD70F /* Preview Assets.xcassets */; };
 		34123599244FA1CA005AD70F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34123597244FA1CA005AD70F /* LaunchScreen.storyboard */; };
@@ -24,7 +24,7 @@
 		3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81924535CBF00DD375E /* Splashscreen.swift */; };
 		3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81E24535EC100DD375E /* PlanetsView.swift */; };
 		34E700E2245360ED00528E43 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 34E700E1245360ED00528E43 /* SDWebImageSwiftUI */; };
-		34E700E9245376F700528E43 /* IntroductionInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700E8245376F700528E43 /* IntroductionInfoView.swift */; };
+		34E700E9245376F700528E43 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700E8245376F700528E43 /* ModalView.swift */; };
 		34E700EB24538BF100528E43 /* PlanetsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700EA24538BF100528E43 /* PlanetsService.swift */; };
 		34E700ED2453930A00528E43 /* PlanetDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E700EC2453930A00528E43 /* PlanetDetail.swift */; };
 /* End PBXBuildFile section */
@@ -50,7 +50,7 @@
 		34123589244FA1C8005AD70F /* Star Wars Favorites.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Star Wars Favorites.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3412358C244FA1C8005AD70F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3412358E244FA1C8005AD70F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		34123590244FA1C8005AD70F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		34123590244FA1C8005AD70F /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		34123592244FA1CA005AD70F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34123595244FA1CA005AD70F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		34123598244FA1CA005AD70F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 		3450E8152453593300DD375E /* alderaan1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan1.png; sourceTree = "<group>"; };
 		3450E81924535CBF00DD375E /* Splashscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splashscreen.swift; sourceTree = "<group>"; };
 		3450E81E24535EC100DD375E /* PlanetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsView.swift; sourceTree = "<group>"; };
-		34E700E8245376F700528E43 /* IntroductionInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionInfoView.swift; sourceTree = "<group>"; };
+		34E700E8245376F700528E43 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 		34E700EA24538BF100528E43 /* PlanetsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsService.swift; sourceTree = "<group>"; };
 		34E700EC2453930A00528E43 /* PlanetDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -175,10 +175,10 @@
 		3450E81B24535CD400DD375E /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				34123590244FA1C8005AD70F /* ContentView.swift */,
+				34123590244FA1C8005AD70F /* OnboardingView.swift */,
 				3450E81924535CBF00DD375E /* Splashscreen.swift */,
 				3450E81E24535EC100DD375E /* PlanetsView.swift */,
-				34E700E8245376F700528E43 /* IntroductionInfoView.swift */,
+				34E700E8245376F700528E43 /* ModalView.swift */,
 				34E700EC2453930A00528E43 /* PlanetDetail.swift */,
 			);
 			path = Screens;
@@ -352,8 +352,8 @@
 				3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */,
 				34E700ED2453930A00528E43 /* PlanetDetail.swift in Sources */,
 				34E700EB24538BF100528E43 /* PlanetsService.swift in Sources */,
-				34E700E9245376F700528E43 /* IntroductionInfoView.swift in Sources */,
-				34123591244FA1C8005AD70F /* ContentView.swift in Sources */,
+				34E700E9245376F700528E43 /* ModalView.swift in Sources */,
+				34123591244FA1C8005AD70F /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

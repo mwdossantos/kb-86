@@ -176,32 +176,263 @@ ZStack (alignment: .center) {
     }.edgesIgnoringSafeArea(.all).onAppear(perform: mockLoading)
 ```
 
-Now that I have the GIF working, it was time to setup the transition from this view, `Splashscreen.swift`, to the `ContentView.swift`. Because I am using a GIF I want to start the transition after one playback of the GIF.
+Now that I have the GIF working, it was time to setup the transition from this view, `Splashscreen.swift`, to the `OnboardingView.swift`. Because I am using a GIF I want to start the transition after one playback of the GIF.
 
+Before transitioning to the onboarding view I specified that I wanted to do so after one full playback of the GIF. I first declared a variable state and wrote this function:
 
-* The delay
-* The transition to Onboarding
+```swift
+@State private var hasTimeElapsed = false
 
-highlight important sections of the code and explaid what it does. paste my code with comments at the end with it running in the simulator \(recorded\)
+private func mockLoading() {
+    DispatchQueue.main.asyncAfter(deadline: .now() + 2.3) {
+        self.hasTimeElapsed = true
+    }
+}
+```
 
-### Sith & Jedi mode
+You can see that I created a `mockLoading()` function that asynchronously runs when the splashscreen appears, in `.onAppear` and then defines 2.3 seconds to be passed in time before setting the variable `hasTimeElapsed` to `true`. Then for the view itself I used an `if` statement to check `hasTimeElapsed`'s state. If `true` I will transition to the `OnboardingView()`. If false, it would show the splashscreen:
 
-Done
+```swift
+if self.hasTimeElapsed {
+    // Transition to OnboardingView()
+    OnboardingView()
+} else {
+    // Show the animated GIF with the Star Wars logo
+}
+```
 
-* How did I implement Dark mode
-* How did I define which assets to use?
-* How did I define the colors?
-* Hwo did I navigate to the planet list view?
+Now that I have finished this part of my application and the transition to the `OnboardingView()` works as expected it's time to go to the next section. Check out the GIF below to see the behavior:
 
-highlight important sections of the code and explaid what it does. paste my code with comments at the end with it running in the simulator \(recorded\)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/splashscreen.gif)
 
 ### Onboarding with Sith & Jedi
 
-How did I show the modal?
+When entering the `OnboardingView()`, you are greeted with a popup modal that gives you basic information about the application. In order to show this model in the `OnboardingView()` I had to create another view, called `ModalView()`. This view contains all of the SwiftUI code that makes up the popup modal:
 
-highlight important sections of the code and explaid what it does. paste my code with comments at the end with it running in the simulator \(recorded\)
+```swift
+VStack (alignment: .center) {
 
-end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md)
+    Spacer()
+    
+    //Title
+    Text("Welcome to favorites")
+        .font(.largeTitle)
+        .fontWeight(.bold)
+        .multilineTextAlignment(.center)
+        .padding(EdgeInsets(top: 0, leading: 40, bottom: 40, trailing: 40))
+    
+    // Item
+    HStack(alignment: .center) {
+        Image(systemName: "moon.stars.fill")
+            .font(.system(size: 36))
+            .foregroundColor(.blue)
+            .frame(width: 60)
+        VStack(alignment: .leading){
+            Text("Choose your side").font(.subheadline).fontWeight(.semibold)
+            Text("Switch between the Light and Dark side by turning on Dark Mode.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+        }
+    }.padding(EdgeInsets(top: 0, leading: 40, bottom: 20, trailing: 40))
+    
+    // Item
+    HStack(alignment: .center) {
+        Image(systemName: "star.circle.fill")
+            .font(.system(size: 36))
+            .foregroundColor(.yellow)
+            .frame(width: 60)
+        VStack(alignment: .leading){
+            Text("Find your Favorite").font(.subheadline).fontWeight(.semibold)
+            Text("Explore all the planets and see which one you like the most.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+        }
+    }.padding(EdgeInsets(top: 0, leading: 40, bottom: 20, trailing: 40))
+    
+    // Item
+    HStack(alignment: .center) {
+        Image(systemName: "hand.thumbsup.fill")
+            .font(.system(size: 36))
+            .foregroundColor(.purple)
+            .frame(width: 60)
+        VStack(alignment: .leading){
+            Text("Most importantly, Enjoy!").font(.subheadline).fontWeight(.semibold)
+            Text("Discover every planet and keep in mind, May the Force be with You.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+        }
+    }.padding(EdgeInsets(top: 0, leading: 40, bottom: 0, trailing: 40))
+        
+    Spacer()
+
+    // Button to hide the modal sheet
+    Button(action: {
+        // Hide the sheet
+        self.presentationMode.wrappedValue.dismiss()
+    }) {
+        Text("Explore the Galaxy!")
+            .font(.headline)
+            .fontWeight(.semibold)
+            .frame(minWidth: 0, maxWidth: .infinity)
+            .padding()
+            .foregroundColor(.white)
+            .background(Color("secondaryButtonColor"))
+            .cornerRadius(13)
+    }.padding(40)
+    
+    Spacer()
+        .frame(height: 60.0)
+}
+```
+
+In the `OnboardingView()` I defined a variable for the modal sheet:
+
+```swift
+@State var showingSheet = true
+```
+
+Later on in the `OnboardingView()` I used:
+
+```swift
+.sheet(isPresented: $showingSheet)
+```
+
+at the end of my `VStack` to tell the sheet it is `true` and should bring up the `ModalView()`.
+
+Within the `ModalView()` there are two ways of dismissing it. The native way is by just *dragging* it down. I decided to also add a button to increase usabilty:
+
+```swift
+// Button to hide the modal sheet
+Button(action: {
+    // Hide the sheet
+    self.presentationMode.wrappedValue.dismiss()
+}) {
+    Text("Explore the Galaxy!")
+        .font(.headline)
+        .fontWeight(.semibold)
+        .frame(minWidth: 0, maxWidth: .infinity)
+        .padding()
+        .foregroundColor(.white)
+        .background(Color("secondaryButtonColor"))
+        .cornerRadius(13)
+}.padding(40)
+```
+
+As you can see, it calls `dismiss()` function of the Environmental variable:
+
+```swift
+@Environment(\.presentationMode) var presentationMode
+```
+
+Now the modal is dismissed:
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modalview.gif)
+
+### Sith & Jedi mode
+
+For the next part of my application I really wanted to do something unique. After looking at Apple's documentation I quickly learned that it is very important to support dark mode in iOS 13. Luckily, I found out that it was pretty easy.
+
+In SwiftUI, dark mode is standard to all the native elements you can use. However, I still needed to do a few things manually. As you saw in my design from week 7, I have a couple of things that differ for both modes:
+
+* For light mode I am using a Jedi image and a blue tint color
+* For dark mode I am using a Sith Lord image and a red tint color.
+
+Of course, the background and text are also defined for each mode. But as I said those are things that are native to iOS 13 and SwiftUI and will change automatically without any manual work.
+
+So, what did I do to get this to work? To start off I went into the `Assets.xcassets` folder and learned that you can define images, color sets and more for the different color schemes, light and dark:
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/sith&jedimode1.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/sith&jedimode2.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/sith&jedimode3.png)
+
+This helped a lot. 
+
+In my code, all I then had to do was to call for the appropiate asset for each image:
+
+```swift
+Image("star-wars-logo")
+    .resizable()
+    .scaledToFit()
+    .frame(height: 80)
+    .padding(.bottom, 70)
+
+Image("jedi")
+    .resizable()
+    .scaledToFit()
+    .frame(height: 600)
+```
+
+As you can see, I called for the name of the asset, and it would then automatically pick the right one based on the mode the device is in. 
+
+Now that I had images in place it was time to do the same for colors. Here's my button I used for the `OnboardingView()`:
+
+```swift
+Button(action: {
+    withAnimation {
+        self.clickedNavBtn = true
+    }
+}) {
+    if colorScheme == .light {
+        NavigationLink(destination: PlanetsView()) {
+            Text("Become a Jedi")
+                .font(.headline)
+                .fontWeight(.semibold)
+                .frame(minWidth: 0, maxWidth: .infinity)
+                .padding()
+                .foregroundColor(.white)
+                .background(Color("standardColors"))
+                .cornerRadius(13)
+        }
+
+    } else {
+        NavigationLink(destination: PlanetsView()) {
+            Text("Turn to the Dark Side")
+                .font(.headline)
+                .fontWeight(.semibold)
+                .frame(minWidth: 0, maxWidth: .infinity)
+                .padding()
+                .foregroundColor(.white)
+                .background(Color("standardColors"))
+                .cornerRadius(13)
+        }
+    }
+    
+}.padding(.horizontal, 40)
+```
+
+As you can see I set the background color to `"standardColors"`, which is the color set that defines the blue and red color tints for light and dark. The only thing that doesn't adhere to "assets" is the text inside a Text block. In order to change that text based on the device appearance mode, I had to define a variable that stores the systemwide color scheme first:
+
+```swift
+@Environment (\.colorScheme) var colorScheme:ColorScheme
+```
+
+Using the value of this variable I was able to check the appearance mode and change the text of the button accordingly:
+
+```swift
+Button(action: {
+    withAnimation {
+        self.clickedNavBtn = true
+    }
+}) {
+    if colorScheme == .light {
+        NavigationLink(destination: PlanetsView()) {
+            Text("Become a Jedi")
+                // styling modifiers
+        }
+
+    } else {
+        NavigationLink(destination: PlanetsView()) {
+            Text("Turn to the Dark Side")
+                // styling modifiers
+        }
+    }
+    
+}.padding(.horizontal, 40)
+```
+And as you can see below, the result is quite satisfying:
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/darklightmode.gif)
+
+A last thing to add to this week is that I will navigate from `OnboardingView()` using `NavigationLink()` to the `PlanetsView()` on the click of that button. I will touch upon that in Week 9, [Application Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md)
+
+For now though, the result of this week:
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8light.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8dark.gif)
 
 ## Resources
 
@@ -210,6 +441,4 @@ end here and link to next week [https://github.com/mwdossantos/kb-86/blob/master
 | [Apple develop website](https://developer.apple.com/develop/) | Used to find tutorials and look up documentation when programming |
 | [Stack Overflow](https://stackoverflow.com/) | Who doesn't use this website? |
 |[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)|SDWebImageSwiftUI is a SwiftUI image loading framework, which based on SDWebImage.|
-
-\([https://app.quicktype.io/](https://app.quicktype.io/)\) \([https://medium.com/better-programming/json-parsing-in-swift-2498099b78f](https://medium.com/better-programming/json-parsing-in-swift-2498099b78f)\) \([https://www.youtube.com/watch?v=EvwSB80GGDA](https://www.youtube.com/watch?v=EvwSB80GGDA)\) \([https://www.youtube.com/watch?v=YY3bTxgxWss](https://www.youtube.com/watch?v=YY3bTxgxWss)\) \([https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)\)
 
