@@ -1,10 +1,9 @@
-# Week 7
-
-## Data Model Design & Application Design
+# Data Model Design & Application Design
+Week 7
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Data Model Design & Application Design.
 
-## Activities
+# Activities
 
 | What | Finalized |
 | :--- | :---: |
@@ -14,7 +13,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 | High Fidelity Application Design | ✅ |
 | Star Wars: Favorites Icon Design | ✅ |
 
-### Defining the Data
+## Defining the Data
 
 With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md):
 
@@ -30,13 +29,13 @@ come a couple of requirements to mind, namely:
 
 In order to properly define the data I will first need to know _what_ data I want to display in the application. The easiest way would be to list the movies with all the planets that appear in that particular movie:
 
-#### I: The Phantom Menace
+### I: The Phantom Menace
 
 * Naboo
 * Coruscant
 * Tatooine
 
-#### II: Attack of the Clones
+### II: Attack of the Clones
 
 * Coruscant
 * Naboo
@@ -44,7 +43,7 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Tatooine
 * Geonosis
 
-#### III: Revenge of the Sith
+### III: Revenge of the Sith
 
 * Coruscant
 * Utapau
@@ -59,7 +58,7 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Alderaan
 * Tatooine
 
-#### Solo: A Star Wars Story
+### Solo: A Star Wars Story
 
 * Corellia
 * Mimban
@@ -67,7 +66,7 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Kessel
 * Savareen
 
-#### Rogue One: A Star Wars Story
+### Rogue One: A Star Wars Story
 
 * Lah'Mu
 * Wobani
@@ -78,19 +77,19 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Mustafar
 * Scarif
 
-#### IV: A New Hope
+### IV: A New Hope
 
 * Tatooine
 * Alderaan
 * Yavin IV
 
-#### V: The Empire Strikes Back
+### V: The Empire Strikes Back
 
 * Hoth
 * Dagobah
 * Bespin
 
-#### VI: Return of the Jedi
+### VI: Return of the Jedi
 
 * Tatooine
 * Dagobah
@@ -99,7 +98,7 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Naboo
 * Coruscant
 
-#### VII: The Force Awakens
+### VII: The Force Awakens
 
 * Jakku
 * Takodana
@@ -108,14 +107,14 @@ In order to properly define the data I will first need to know _what_ data I wan
 * D’Qar
 * Ahch-To
 
-#### VIII: The Last Jedi
+### VIII: The Last Jedi
 
 * D'Qar
 * Ahch-To
 * Canto Bight
 * Crait
 
-#### IX: The Rise of Skywalker
+### IX: The Rise of Skywalker
 
 * Ajan Kloss
 * Pasaana
@@ -123,7 +122,7 @@ In order to properly define the data I will first need to know _what_ data I wan
 * Kef Bir
 * Exegol
 
-#### The Mandalorian
+### The Mandalorian
 
 * Nevarro
 * Arvala-7
@@ -154,7 +153,7 @@ In the above text, I have hidden a lot of _meta_ information. It still lacks a g
 * Tatooine
 * Yavin IV
 
-### Creating a Data Model
+## Creating a Data Model
 
 Given I don't have too much experience yet with JSON I followed this small tutorial from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON). It helped me understand the basics about the JSON data format and how I can structure my own JSON files.
 
@@ -231,7 +230,7 @@ Having these categories will make it easy to focus on the information at hand.
 
 After understanding `JSON` and being comfortable with it I went ahead and populated the whole `JSON` file with all the planets. You can view that file [here](https://github.com/mwdossantos/kb-86/tree/6d1f5b2788392c9c4dae0314a87232732febfdb5/docs/planets.json). With that in place, it's time to start designing with the _data in mind_.
 
-### Star Wars: Favorites Logotype
+## Star Wars: Favorites Logotype
 
 In order to represent my application in the right way I started creating a logo. From the get go, it's important to understand that the Star Wars logo type is not mine, but I have used it in combination with a custom typeface that describes my application. The following images will walk you through my choosing process for the different typefaces.
 
@@ -253,15 +252,15 @@ As you can see, Paralucent works very well on all kinds of sizes and I think it'
 
 Now that I have my logo done, it's time to start designing some screens and decide how I want to display my data!
 
-### High Fidelity Application Design
+## High Fidelity Application Design
 
 In this activity I am going to take my data and design an application around that data.
 
-#### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
+### [iOS App Architecture](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/)
 
 When designing an application for iOS I quickly learned that it's extremely important to adhere to their guidelines where possible. I will elaborate on a couple of the App Architecture guidelines I followed.
 
-**Launching**
+### Launching
 
 > **Restore the previous** state when your app restarts. Don't make people retrace steps to reach their previous location in your app. Preserve and restore your app’s state so they can continue where they left off.
 >
@@ -269,7 +268,7 @@ When designing an application for iOS I quickly learned that it's extremely impo
 
 With the above guidelines in mind I will make sure the app has a generic launch screen that is easy to the eyes and give all my data a chance to load properly.
 
-**Loading**
+### Loading
 
 > **Educate or entertain people to mask loading time**. Consider showing hints about gameplay, entertaining video sequences, or interesting placeholder graphics.
 
@@ -277,7 +276,7 @@ Given the above statement taken from the guidelines, I decided to show the Mille
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/hyperspace.gif)
 
-**Modality**
+### Modality
 
 > **Use modality when it makes sense.** Create a modal experience only when it’s critical to focus people’s attention on making a choice or performing a task that’s different from their current task. A modal experience takes people out of their current context and requires an action to dismiss, so it’s essential to use it only when it provides a clear benefit.
 
@@ -285,7 +284,7 @@ I want to incorporate modals when a user presses on a planet or something else t
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modals.png)
 
-**Navigation**
+### Navigation
 
 > **Always provide a clear path.** People should always know where they are in your app and how to get to their next destination. Regardless of navigation style, it’s essential that the path through content is logical, predictable, and easy to follow. In general, give people one path to each screen. If they need to see a screen in multiple contexts, consider using an action sheet, alert, popover, or modal view. To learn more, see Action Sheets, Alerts, Popovers, and Modality.
 
@@ -293,7 +292,7 @@ For the navigation of my app I chose the Flat Navigation method. From the data I
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/flat-nav.png)
 
-**Other Guidelines**
+### Other Guidelines
 
 Next to the guidelines I touched upon above I am also going to give attention to the following guidelines:
 
@@ -303,7 +302,7 @@ Next to the guidelines I touched upon above I am also going to give attention to
 
 Of course, there are a lot of other _very_ important guidelines. However, I won't include all of them in this documentation as I will adhere to them anyway. The ones you read about above are the most important and sprung to the eye first. To see my application screen designs keep reading!
 
-#### Application screens
+### Application screens
 
 With all the above in mind I started designing my screens. I wanted to maintain the simplistic but UX friendly Apple design guidelines while also giving it a Star Wars feel. In the screens below you can see the final versions as I designed them in this [Figma file](week-7-data-model-design-and-application-design.md). A key point to look at is that based on the Dark Mode setting of the user the application will turn dark or light, with either Kylo Ren or Rey as a onboarding figure. I thought this was a nice touch.
 
@@ -313,13 +312,13 @@ I also decided to just show a list of the planets on which you can click and a m
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/application-screen-designs.png)
 
-#### Prototype
+### Prototype
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype2.gif)
 
 As you can see in the prototype I wanted to minimize the amount of navigation that the user needs to go through. A quick and easy way to get information about the planets. You can also try the prototype yourself through [this](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down) link.
 
-### Star Wars: Favorites Icon Design
+## Star Wars: Favorites Icon Design
 
 The application also needed a special designed icon that I can use later on in XCode. I created it using the logo I made and used the hyperspace tunnel as a background on the icon. This way it resembles the application and is usable when smaller.
 
@@ -345,7 +344,7 @@ I exported the logo according to the guidelines as well. You can see them in the
 
 I am very happy with how this all turned out. I can't wait to head into next week and start diving into Week 8, [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md). Then I will finally see my application become alive.
 
-## Resources
+# Resources
 
 | Resource | Note |
 | :--- | :--- |

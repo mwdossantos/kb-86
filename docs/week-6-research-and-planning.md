@@ -1,10 +1,9 @@
-# Week 6
-
-## Research & Planning
+# Research & Planning
+Week 6
 
 Thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Research & Planning out the Application.
 
-## Activities
+# Activities
 
 | What | Finalized |
 | :--- | :---: |
@@ -14,7 +13,7 @@ Thank you for taking the time to read this week's update. As you can see in the 
 | Theme research | ✅ |
 | Data & problem | ✅ |
 
-### Learning goal and Deliverable
+## Learning goal and Deliverable
 
 Defining the learning goal and deliverable
 
@@ -28,21 +27,21 @@ Looking back at the first part of this minor, everyone agreed that without clear
 
 > An iOS/macOS application that works on both iPhone and iPad - a responsive design.
 
-### Choosing a theme
+## Choosing a theme
 
 > Choosing a theme for the deliverable
 
 Thinking about several themes a few sprung to mind:
 
-#### Audi
+### Audi
 
 ![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/audi.jpg)
 
-#### Star Wars
+### Star Wars
 
 ![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/starwars.jpg)
 
-#### COVID-19
+### COVID-19
 
 ![image](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/covid.jpg)
 
@@ -52,7 +51,7 @@ Given that the Star Wars universe is so big, I will focus my application on my f
 
 For my theme research I will be using the [Star Wars Fandom Wiki](https://starwars.fandom.com/wiki).
 
-### Planning
+## Planning
 
 Thinking out the next few weeks - planning. You can find this planning on the [README](https://github.com/mwdossantos/kb-86) page as well for the overall project.
 
@@ -64,23 +63,23 @@ Thinking out the next few weeks - planning. You can find this planning on the [R
 | Week 9 | [Application Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md) |✅|
 | Week 10 | [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md) |✅|
 
-### Theme research
+## Theme research
 
 Do research on the chosen theme - find images, links and more. Just general stuff, I will dive deeper in week 7.
 
-#### Links:
+### Links:
 
 [Star Wars: Official Website](https://www.starwars.com/)
 
-#### Fonts:
+### Fonts:
 
 [Paralucent](https://www.myfonts.com/fonts/device/paralucent/) [San Francisco](https://developer.apple.com/fonts/)
 
-#### Images / inspiration:
+### Images / inspiration:
 
 ![img](https://cdn.dribbble.com/users/808342/screenshots/10804502/media/c49bae730c270b3246683d0a3cc48513.jpg) ![img](https://cdn.dribbble.com/users/37585/screenshots/3286475/helm_shot359.png) ![img](https://cdn.dribbble.com/users/1032175/screenshots/8915549/media/45a1356a3948202b99d8c46e135749d7.png) ![img](https://cdn.dribbble.com/users/2096507/screenshots/4284503/starwars-hansolo-bg.jpg) ![img](https://cdn.dribbble.com/users/1575908/screenshots/8173066/media/a89e3e63d1924fb9918a9201acd27698.png) ![img](https://cdn.dribbble.com/users/15687/screenshots/8429874/media/e8ece76095c31f5f159cc1ac0487bfd9.png) ![img](https://cdn.dribbble.com/users/1575908/screenshots/8102158/media/7015d74623fd5577fd512ff9b76f63aa.jpg)
 
-### Data & problem
+## Data & problem
 
 So, what's the problem I'm trying to solve here? Given the vastness of the Star Wars galaxy it can be hard to wrap your head around all the different planets within the universe. I've always wanted to have a clear understanding of at least a couple of planets that appear in the movies and see what their key characteristics are.
 
@@ -94,11 +93,11 @@ From this problem I can define a couple of things:
 * The needs for the application
 * The goal for the application
 
-#### The data I will be working with
+### The data I will be working with
 
 As I have defined above, the problem describes that there are a lot of planets and information that comes with them. This means that I will need to gather information about the planets I want to include in the application. That is the data.
 
-#### The needs for the application
+### The needs for the application
 
 Now knowing the problem and what data my application will be using, I can define the needs it has to fulfill:
 
@@ -107,13 +106,13 @@ Now knowing the problem and what data my application will be using, I can define
 * View historical events that happened on a certain planet
 * See in which movies the planet appears 
 
-#### The goal for the application
+### The goal for the application
 
 Given I am working with the Star Wars IP, it's going to be impossible to release the application on the Apple App Store. This means the goal will be to have the working application on my phone from XCode and create a screen recording of it. Looking at the needs, I will need to be able to see all the _kickass_ planets in a nicely designed application.
 
 To be sure I can meet those needs and goals I will need to dive deeper into the [Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) in week 7 and think out the requirements.
 
-## Resources
+# Resources
 
 | Resource | Note |
 | :--- | :--- |

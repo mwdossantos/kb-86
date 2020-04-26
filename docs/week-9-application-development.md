@@ -1,10 +1,9 @@
-# Week 9
-
-## Application Development
+# Application Development
+Week 9
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Application Development.
 
-## Activities
+# Activities
 
 | What | Finalized |
 | :--- | :---: |
@@ -12,7 +11,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 | Creating planet detail view |✅|
 | Loading & viewing JSON |✅|
 
-### Creating planet list view
+## Creating planet list view
 
 Last week I discussed my process for the onboarding view and Sith & Jedi modes. This week was all about creating the planet list, a detail view for a planet and filling those views with information from the `.JSON` file.
 
@@ -66,7 +65,7 @@ I will show you how I got my data from the `.JSON` later on in this week's docum
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/scrollingthroughplanets.gif)
 
-### Creating planet detail view
+## Creating planet detail view
 
 Because having just a list of planets is a bit boring, I also created a detail view for each planet that gives you a lot more information about said planet. Just like the `ModalView()` that gets presented ontop of the `OnboardingView()` I did the same with the `PlanetDetail()` view.
 
@@ -95,7 +94,7 @@ Once finished it looks like this, I'm very happy with the result:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/openingplanetdetailview.gif)
 
-### Loading & viewing JSON
+## Loading & viewing JSON
 
 Now, you may think, how did all that data get there in the first place? That's a good question and I will walk you through the process now. First, let's take a look at my data model that I defined in Week 7:
 
@@ -214,7 +213,7 @@ Button(action: {
 
 I am very happy with the result of this weeks work, as the application is now feeling more alive then ever. All I have left to do is to refactor the code and do some other small activities in Week 10, [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md).
 
-## Resources
+# Resources
 
 | Resource | Note |
 | :--- | :--- |

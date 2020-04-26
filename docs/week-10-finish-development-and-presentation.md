@@ -1,10 +1,9 @@
-# Week 10
-
-## Finish Development & Presentation
+# Finish Development & Presentation
+Week 10
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Finish Development & Presentation.
 
-## Activities
+# Activities
 
 |What|Finalized|
 |:---|:---:|
@@ -12,7 +11,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 |Final run|✅|
 |Presentation of the Deliverable|✅|
 
-### Refactoring the code
+## Refactoring the code
 
 As with any coding project the end is a good place to start looking back at your code, and polish it where needed. A lot of times I noticed that I have duplicate code, which I could have handled more efficiently. A couple of refactoring examples are:
 
@@ -26,7 +25,7 @@ old code block
 new code block
 ```
 
-### Final run
+## Final run
 
 After I finished creating the application I had a few small things left to do. The application icon I designed in Week 7 was not yet implemented, so I added it:
 
@@ -36,7 +35,7 @@ Also, the display name of the app was the same as the project, namely "Star Wars
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/appname.png)
 
-### Presentation of the Deliverable
+## Presentation of the Deliverable
 
 To finish this section of the minor I decided to take out my camera and take a few high quality pictures of the application running on my phone:
 
@@ -72,7 +71,7 @@ Best regards,
 
 Matthew
 
-## Resources
+# Resources
 
 | Resource | Note |
 | :--- | :--- |

@@ -1,10 +1,9 @@
-# Week 8
-
-## Follow Swift Tutorials & Development
+# Follow Swift Tutorials & Development
+Week 8
 
 Again, thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Follow Swift Tutorials & Development.
 
-## Activities
+# Activities
 
 | What | Finalized |
 | :--- | :---: |
@@ -14,7 +13,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 | Dark & Light mode |✅|
 | Onboarding with Sith & Jedi |✅|
 
-### Swift & SwiftUI tutorial
+## Swift & SwiftUI tutorial
 
 [All tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 
@@ -22,7 +21,7 @@ On the Apple developer website there are a lot of tutorials you can follow that 
 
 For the sake of documentation I will only list the pain points per section I encounter and summarize what I learned from each tutorial, from my point of view. Of course, I will also present you the end result of each tutorial.
 
-#### [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) ~ 40 minutes
+### [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) ~ 40 minutes
 
 I will build a sample application, called Landmarks. The learning curve for this tutorial is about creating views and combining them in order to create rich applications.
 
@@ -70,7 +69,7 @@ The end result for this first tutorial actually looks really nice:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/tutorial-1-section-6.png)
 
-#### [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) ~ 35 minutes
+### [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) ~ 35 minutes
 
 In this next tutorial for the landmarks application I will continue building on what I finished off in the first tutorial. The goal is to have a scrollable list that users can scroll through and use to view details about certain locations.
 
@@ -126,7 +125,7 @@ Now that I have finished this second tutorial as well it's time to start with my
 
 I can't wait to start building Star Wars Favorites.
 
-### Setting up the XCode project
+## Setting up the XCode project
 
 The first thing to do is to start XCode and create a new project. The process for this is fairly simple and straightforward. In essence, my application will use the Single View template that XCode provides.
 
@@ -149,7 +148,7 @@ The resources folder holds all of my assets such as the planet images and `.JSON
 
 The final folder I will address is the `Assets.xcassets` folder. This contains all of the images that don't belong in the resources folder such as the two Jedi's.
 
-### Create splash screen with GIF
+## Create splash screen with GIF
 
 The first screen as seen in my design is the splash screen. This screen is used to show the user there is activity going on and will indicate the application is loading. Normally, animated GIF images are not natively supported in Swift & SwiftUI. After some googling I found a library that I can install as a dependency in my project. This library extends on the normal `Image` component in Swift and gives a full stack solution for animated images. You can read more about this library on its [GitHub page](https://github.com/SDWebImage/SDWebImageSwiftUI).
 
@@ -203,7 +202,7 @@ Now that I have finished this part of my application and the transition to the `
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/splashscreen.gif)
 
-### Onboarding with Sith & Jedi
+## Onboarding with Sith & Jedi
 
 When entering the `OnboardingView()`, you are greeted with a popup modal that gives you basic information about the application. In order to show this model in the `OnboardingView()` I had to create another view, called `ModalView()`. This view contains all of the SwiftUI code that makes up the popup modal:
 
@@ -320,7 +319,7 @@ Now the modal is dismissed:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/modalview.gif)
 
-### Sith & Jedi mode
+## Sith & Jedi mode
 
 For the next part of my application I really wanted to do something unique. After looking at Apple's documentation I quickly learned that it is very important to support dark mode in iOS 13. Luckily, I found out that it was pretty easy.
 
@@ -437,7 +436,7 @@ For now though, the result of this week:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/week8dark.gif)
 
-## Resources
+# Resources
 
 | Resource | Note |
 | :--- | :--- |
