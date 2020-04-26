@@ -14,7 +14,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ### Refactoring the code
 
-As with any coding project the end is a good place to start looking back at your code, and polish it where needed. A lot of times I notice that I have duplicate code, which I could have handled more efficiently. A couple of examples are:
+As with any coding project the end is a good place to start looking back at your code, and polish it where needed. A lot of times I noticed that I have duplicate code, which I could have handled more efficiently. A couple of refactoring examples are:
 
 ```swift
 old code block
