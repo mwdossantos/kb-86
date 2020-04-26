@@ -1,5 +1,5 @@
 # Research & Planning
-Week 6
+> Week 6
 
 Thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Research & Planning out the Application.
 
