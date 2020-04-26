@@ -71,6 +71,7 @@ For the next piece of code I refactored I focused on the largest file of the pro
 
 ```swift
 // Old, repeated code for each header item in the PlanetDetail() view
+
 HStack(alignment: .firstTextBaseline) {
     Image(systemName: "hurricane").font(.largeTitle)
     Text("Astrographical").font(.largeTitle).bold()
@@ -80,6 +81,9 @@ HStack(alignment: .firstTextBaseline) {
 As you can see, repeating this piece of code several times in the `PlanetDetail()` view would be bad practice. If I make one change I have to change it everywhere. That's why I decided to put it into a component, called `PlanetSectionHeader`:
 
 ```swift
+
+// New, component code for a header item in the PlanetDetail() view
+
 import SwiftUI
 
 struct PlanetSectionHeader: View {
@@ -98,6 +102,8 @@ struct PlanetSectionHeader: View {
 Now in the `PlanetDetail()`, all I have to do in order to render the header section is to call `PlanetSectionHeader()` and give two arguments for the `iconName` and `titleName`:
 
 ```swift
+// Calling for a PlanetSectionHeader with two arguments
+
 PlanetSectionHeader(iconName: "hurricane", titleName: "Astrograpical")
 ```
 
