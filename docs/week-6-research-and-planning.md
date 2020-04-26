@@ -2,21 +2,19 @@
 
 ## Research & Planning
 
-Thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Researching & Planning out the Application.
-
-If you have any remarks or questions
+Thank you for taking the time to read this week's update. As you can see in the following table, I have a couple of activities planned that I will do in order to get my desired result: Research & Planning out the Application.
 
 ## Activities
 
 | What | Finalized |
 | :--- | :---: |
-| Learning Goal & deliverable | ✅ |
+| Learning Goal & Deliverable | ✅ |
 | Choosing a theme | ✅ |
 | Planning | ✅ |
 | Theme research | ✅ |
 | Data & problem | ✅ |
 
-### Learning goal and deliverable
+### Learning goal and Deliverable
 
 Defining the learning goal and deliverable
 
@@ -60,11 +58,11 @@ Thinking out the next few weeks - planning. You can find this planning on the [R
 
 | When | What | Finalized |
 | :--- | :--- | :---: |
-| Week 6 | [Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md) | ✅ |
-| Week 7 | [Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) | ✅ |
-| Week 8 | [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md) | 🧑🏻‍💻 |
-| Week 9 | application development | 🧑🏻‍💻 |
-| Week 10 | Finish develoment & Presentation | 🧑🏻‍💻 |
+| Week 6 | [Research & Planning](https://github.com/mwdossantos/kb-86/blob/master/docs/week-6-research-and-planning.md) |✅|
+| Week 7 | [Data Model Design & Application Design](https://github.com/mwdossantos/kb-86/blob/master/docs/week-7-data-model-design-and-application-design.md) |✅|
+| Week 8 | [Follow Swift Tutorials & Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-8-follow-swift-tutorials-and-development.md) |✅|
+| Week 9 | [Application Development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md) |✅|
+| Week 10 | [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md) |✅|
 
 ### Theme research
 
