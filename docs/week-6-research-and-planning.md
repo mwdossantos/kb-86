@@ -1,4 +1,4 @@
-# Week 6 - Research & Planning
+# Week 6
 
 ## Research & Planning
 

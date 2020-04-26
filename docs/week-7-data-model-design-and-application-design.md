@@ -1,4 +1,4 @@
-# Week 7 - Data Model Design & Application Design
+# Week 7
 
 ## Data Model Design & Application Design
 

@@ -1,4 +1,4 @@
-# Week 10 - Finish Development & Presentation
+# Week 10
 
 ## Finish Development & Presentation
 
@@ -6,24 +6,25 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 ## Activities
 
-| What | Finalized |
-| :--- | :---: |
-| Refactoring the code |✅|
-| Final run |✅|
-| Presentation |✅|
+|What|Finalized|
+|:---|:---:|
+|Refactoring the code|✅|
+|Final run|✅|
+|Presentation of the Deliverable|✅|
 
 ### Refactoring the code
 
 As with any coding project the end is a good place to start looking back at your code, and polish it where needed. A lot of times I notice that I have duplicate code, which I could have handled more efficiently. A couple of examples are:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/refactor1.png)
-//
+```swift
+old code block
+new code block
+```
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/refactor2.png)
-//
-
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/refactor3.png)
-//
+```swift
+old code block
+new code block
+```
 
 ### Final run
 
@@ -35,9 +36,9 @@ Also, the display name of the app was the same as the project, namely "Star Wars
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/appname.png)
 
-### Presentation
+### Presentation of the Deliverable
 
-Couple images of holding it in hand and a video using it uploaded to github
+TO finish this section of the minor I decided to take out my camera and take a few high quality pictures of the application running on my phone:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo1.jpeg)
 
@@ -49,8 +50,26 @@ Couple images of holding it in hand and a video using it uploaded to github
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo5.jpeg)
 
+And there we have it! The application is done and I fulfilled my learning goal:
+
+> Get the hang of Swift and the SwiftUI framework.
+
+The deliverable for this section of the minor:
+
+> An iOS/macOS application that works on both iPhone and iPad - a responsive design.
+
+has also been created and I can't be happier with the end result!
+
 ---
-end here
+
+Looking back at the past few weeks I have to say, I've learnt so much. I learnt that SwiftUI can be a breeze, but can also be a curse at sometimes, given the many XCode errors I have encountered without any clear reason. I also found that using a subject such as Star Wars was beneficial to the progression of my project as I managed to keep myself motivated during these 5 weeks.
+
+Even though we went into a semi-lockdown halfway of March, I must say that the weekly check-ups with my tutors was very helpful to give an insight into my process and see that I was heading into the right direction.
+
+Again, I want to thank you for taking the time to read my documentation. You can clone this repository and run the application for yourself and see what wonderful planets reside in the Star Wars Universe.
+
+Best regards,
+Matthew
 
 ## Resources
 

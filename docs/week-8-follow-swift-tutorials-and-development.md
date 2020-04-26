@@ -1,4 +1,4 @@
-# Week 8 - Follow Swift Tutorials & Development
+# Week 8
 
 ## Follow Swift Tutorials & Development
 

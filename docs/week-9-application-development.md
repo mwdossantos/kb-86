@@ -1,4 +1,4 @@
-# Week 9 - Application Development
+# Week 9
 
 ## Application Development
 
