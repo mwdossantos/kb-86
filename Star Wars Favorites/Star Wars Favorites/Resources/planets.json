@@ -51,7 +51,7 @@
       "fauna": "Amphibians, Birds, Insects and Zymod"
     },
     "societal": {
-      "nativeSpecies": "none",
+      "nativeSpecies": "None",
       "immigratedSpecies": "Humans",
       "population": "Estimated: Unknown"
     }
@@ -232,30 +232,36 @@
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Core Worlds",
+      "sector": "Alderaan Sector",
+      "system": "Alderaan System",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "12,500 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Forests",
+        "Mountainous",
+        "Plains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Appenza Peak",
+        "Cloudshape Falls",
+        "Glarus Lagoons",
+        "Istabith Falls",
+        "Isatabith rain forest",
+        "River Wuitho",
+        "Royal Palace of Alderaan",
+        "University of Alderaan"
       ],
-      "fauna": "None"
+      "fauna": "Alderaanian wolf-cat, Nerf, Snow owl, Thranta, Unidentified bird"
     },
     "societal": {
-      "nativeSpecies": "none",
+      "nativeSpecies": "Humans",
       "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "population": "2 billion"
     }
   },
   {
