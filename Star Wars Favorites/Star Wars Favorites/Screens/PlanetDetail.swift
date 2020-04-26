@@ -21,7 +21,7 @@ struct PlanetDetail: View {
                     .padding(.top, 40)
                 Text(self.planet.meta.name!).font(.largeTitle).bold()
                 Text(self.planet.meta.description!)
-                    .foregroundColor(.gray).padding(.top, 10).padding(.bottom, 30)
+                    .foregroundColor(.gray).padding(.top, 10).padding(20)
                 
                 VStack {
                     ForEach(0..<self.planet.meta.additionalImages!.count) { i in
@@ -41,7 +41,7 @@ struct PlanetDetail: View {
                     HStack(alignment: .firstTextBaseline) {
                         Image(systemName: "hurricane").font(.largeTitle)
                         Text("Astrographical").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20)
+                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -65,7 +65,7 @@ struct PlanetDetail: View {
                     HStack(alignment: .firstTextBaseline) {
                         Image(systemName: "perspective").font(.largeTitle)
                         Text("Physical").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20)
+                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -96,8 +96,8 @@ struct PlanetDetail: View {
                                     Text(String(self.planet.physical.terrain![i])).foregroundColor(.gray)
                                 }
                             }
-                        }
-      
+                        }.padding(.leading, 20)
+                        
                     }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 30)
                     // End physical
                     
@@ -105,7 +105,7 @@ struct PlanetDetail: View {
                     HStack(alignment: .firstTextBaseline) {
                         Image(systemName: "leaf.arrow.circlepath").font(.largeTitle)
                         Text("Societal").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20)
+                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -126,7 +126,7 @@ struct PlanetDetail: View {
                     HStack(alignment: .firstTextBaseline) {
                         Image(systemName: "wand.and.stars").font(.largeTitle)
                         Text("Historic Events").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20)
+                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading, spacing: 20) {
@@ -143,7 +143,7 @@ struct PlanetDetail: View {
                     HStack(alignment: .firstTextBaseline) {
                         Image(systemName: "wand.and.stars").font(.largeTitle)
                         Text("Appearances").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20)
+                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {

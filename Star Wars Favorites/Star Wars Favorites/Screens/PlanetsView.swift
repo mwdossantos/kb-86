@@ -29,10 +29,14 @@ struct PlanetsView: View {
                 VStack {
                     Image(self.planets[i].meta.planetImage!)
                     .resizable()
-                        .frame(width: 140, height: 140)
+                        .frame(width: 180, height: 180)
                     Text(self.planets[i].meta.name!).font(.largeTitle).bold()
                     Text(self.planets[i].meta.description!)
-                        .foregroundColor(.gray).padding(.top, 10)
+                        .foregroundColor(.gray)
+                        .multilineTextAlignment(.center)
+                        .lineLimit(3)
+                        .padding([.top, .leading, .trailing], 20)
+                        
                     Button(action: {
                         self.planetToShowInDetail = self.planets[i]
                         self.showingDetailSheet = true;
@@ -41,7 +45,7 @@ struct PlanetsView: View {
                     }
 
 
-                }.padding(.top, 40)
+                }.padding(.top, 60)
             }
         }
         .navigationBarTitle(Text(""), displayMode: .inline)

@@ -32,7 +32,7 @@ struct ModalView: View {
                     .frame(width: 60)
                 VStack(alignment: .leading){
                     Text("Choose your side").font(.subheadline).fontWeight(.semibold)
-                    Text("Switch between the Light and Dark side by turning on Dark Mode.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+                    Text("Switch between the Light and Dark side by turning on Dark Mode.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray).padding(.top, 5)
                 }
             }.padding(EdgeInsets(top: 0, leading: 40, bottom: 20, trailing: 40))
             
@@ -44,7 +44,7 @@ struct ModalView: View {
                     .frame(width: 60)
                 VStack(alignment: .leading){
                     Text("Find your Favorite").font(.subheadline).fontWeight(.semibold)
-                    Text("Explore all the planets and see which one you like the most.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+                    Text("Explore all the planets and see which one you like the most.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray).padding(.top, 5)
                 }
             }.padding(EdgeInsets(top: 0, leading: 40, bottom: 20, trailing: 40))
             
@@ -56,7 +56,7 @@ struct ModalView: View {
                     .frame(width: 60)
                 VStack(alignment: .leading){
                     Text("Most importantly, Enjoy!").font(.subheadline).fontWeight(.semibold)
-                    Text("Discover every planet and keep in mind, May the Force be with You.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray)
+                    Text("Discover every planet and keep in mind, May the Force be with You.").font(.subheadline).fontWeight(.regular).foregroundColor(.gray).padding(.top, 5)
                 }
             }.padding(EdgeInsets(top: 0, leading: 40, bottom: 0, trailing: 40))
                 

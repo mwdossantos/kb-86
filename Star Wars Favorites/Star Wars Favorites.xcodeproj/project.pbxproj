@@ -16,11 +16,7 @@
 		341235A4244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235A3244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift */; };
 		341235AF244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */; };
 		341235C1244FA27C005AD70F /* planets.json in Resources */ = {isa = PBXBuildFile; fileRef = 341235C0244FA27C005AD70F /* planets.json */; };
-		3450E811245358C200DD375E /* alderaan.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E80F245358C200DD375E /* alderaan.png */; };
 		3450E812245358C200DD375E /* hyperspace.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3450E810245358C200DD375E /* hyperspace.gif */; };
-		3450E8162453593300DD375E /* alderaan2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8132453593300DD375E /* alderaan2.png */; };
-		3450E8172453593300DD375E /* alderaan3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8142453593300DD375E /* alderaan3.png */; };
-		3450E8182453593300DD375E /* alderaan1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3450E8152453593300DD375E /* alderaan1.png */; };
 		3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81924535CBF00DD375E /* Splashscreen.swift */; };
 		3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81E24535EC100DD375E /* PlanetsView.swift */; };
 		34E700E2245360ED00528E43 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 34E700E1245360ED00528E43 /* SDWebImageSwiftUI */; };
@@ -47,7 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		34123589244FA1C8005AD70F /* Star Wars Favorites.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Star Wars Favorites.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		34123589244FA1C8005AD70F /* SW: Favorites.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SW: Favorites.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3412358C244FA1C8005AD70F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3412358E244FA1C8005AD70F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		34123590244FA1C8005AD70F /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
@@ -62,11 +58,7 @@
 		341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star_Wars_FavoritesUITests.swift; sourceTree = "<group>"; };
 		341235B0244FA1CA005AD70F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		341235C0244FA27C005AD70F /* planets.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = planets.json; sourceTree = "<group>"; };
-		3450E80F245358C200DD375E /* alderaan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan.png; sourceTree = "<group>"; };
 		3450E810245358C200DD375E /* hyperspace.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hyperspace.gif; sourceTree = "<group>"; };
-		3450E8132453593300DD375E /* alderaan2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan2.png; sourceTree = "<group>"; };
-		3450E8142453593300DD375E /* alderaan3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan3.png; sourceTree = "<group>"; };
-		3450E8152453593300DD375E /* alderaan1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alderaan1.png; sourceTree = "<group>"; };
 		3450E81924535CBF00DD375E /* Splashscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splashscreen.swift; sourceTree = "<group>"; };
 		3450E81E24535EC100DD375E /* PlanetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsView.swift; sourceTree = "<group>"; };
 		34E700E8245376F700528E43 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
@@ -113,7 +105,7 @@
 		3412358A244FA1C8005AD70F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				34123589244FA1C8005AD70F /* Star Wars Favorites.app */,
+				34123589244FA1C8005AD70F /* SW: Favorites.app */,
 				3412359F244FA1CA005AD70F /* Star Wars FavoritesTests.xctest */,
 				341235AA244FA1CA005AD70F /* Star Wars FavoritesUITests.xctest */,
 			);
@@ -165,7 +157,6 @@
 		341235BD244FA22B005AD70F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				347461DC2454847F00B0C7BE /* Alderaan */,
 				3450E810245358C200DD375E /* hyperspace.gif */,
 				341235C0244FA27C005AD70F /* planets.json */,
 			);
@@ -182,17 +173,6 @@
 				34E700EC2453930A00528E43 /* PlanetDetail.swift */,
 			);
 			path = Screens;
-			sourceTree = "<group>";
-		};
-		347461DC2454847F00B0C7BE /* Alderaan */ = {
-			isa = PBXGroup;
-			children = (
-				3450E8152453593300DD375E /* alderaan1.png */,
-				3450E8132453593300DD375E /* alderaan2.png */,
-				3450E80F245358C200DD375E /* alderaan.png */,
-				3450E8142453593300DD375E /* alderaan3.png */,
-			);
-			path = Alderaan;
 			sourceTree = "<group>";
 		};
 		34E700E32453687100528E43 /* Services */ = {
@@ -223,7 +203,7 @@
 				34E700E1245360ED00528E43 /* SDWebImageSwiftUI */,
 			);
 			productName = "Star Wars Favorites";
-			productReference = 34123589244FA1C8005AD70F /* Star Wars Favorites.app */;
+			productReference = 34123589244FA1C8005AD70F /* SW: Favorites.app */;
 			productType = "com.apple.product-type.application";
 		};
 		3412359E244FA1CA005AD70F /* Star Wars FavoritesTests */ = {
@@ -313,11 +293,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3450E811245358C200DD375E /* alderaan.png in Resources */,
-				3450E8162453593300DD375E /* alderaan2.png in Resources */,
-				3450E8182453593300DD375E /* alderaan1.png in Resources */,
 				34123599244FA1CA005AD70F /* LaunchScreen.storyboard in Resources */,
-				3450E8172453593300DD375E /* alderaan3.png in Resources */,
 				3450E812245358C200DD375E /* hyperspace.gif in Resources */,
 				34123596244FA1CA005AD70F /* Preview Assets.xcassets in Resources */,
 				34123593244FA1CA005AD70F /* Assets.xcassets in Resources */,
@@ -454,6 +430,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "SW: Favorites";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -507,6 +484,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "SW: Favorites";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -528,7 +506,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.miles.Star-Wars-Favorites";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SW: Favorites";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -548,7 +526,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.miles.Star-Wars-Favorites";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SW: Favorites";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

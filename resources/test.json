@@ -1,0 +1,869 @@
+[
+  {
+    "meta": {
+      "name": "Ajan Kloss",
+      "planetImage": "ajankloss",
+      "additionalImages": [
+        "ajankloss1",
+        "ajankloss2",
+        "ajankloss3"
+      ],
+      "description": "Although Ajan Kloss was a moon, it had two moons of its own. Its gas giant shielded it from harmful radiation. The jungle resonated with life and Resistance scouts would routinely check for new species to be used in medicine, though the moist environment meant technichians had to work double-time to moisture proof electronics. Other annoyances on the planet included fungal and insect infections, but there were no large predators on the planet. Jedi Master Luke Skywalker compared Ajan Kloss with the planet Dagobah, where he trained years before with Yoda. He noted that the similarities between Dagobah and Ajan Kloss were that they were wet, warm, green and overflowing with life, but the main difference was that Ajan Kloss didn't smell bad. The Ajara gas giant reflected sunlight onto the planet's surface, allowing plants to gain sustenance even at night.",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Alderaan",
+      "planetImage": "alderaan",
+      "additionalImages": [
+        "alderaan1",
+        "alderaan2",
+        "alderaan3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Crait",
+      "planetImage": "crait",
+      "additionalImages": [
+        "crait1",
+        "crait2",
+        "crait3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Eadu",
+      "planetImage": "eadu",
+      "additionalImages": [
+        "eadu1",
+        "eadu2",
+        "eadu3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Endor",
+      "planetImage": "endor",
+      "additionalImages": [
+        "endor1",
+        "endor2",
+        "endor3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Exegol",
+      "planetImage": "exegol",
+      "additionalImages": [
+        "exegol1",
+        "exegol2",
+        "exegol3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Felucia",
+      "planetImage": "felucia",
+      "additionalImages": [
+        "felucia1",
+        "felucia2",
+        "felucia3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Hoth",
+      "planetImage": "hoth",
+      "additionalImages": [
+        "hoth1",
+        "hoth2",
+        "hoth3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Jakku",
+      "planetImage": "jakku",
+      "additionalImages": [
+        "jakku1",
+        "jakku2",
+        "jakku3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Jedha",
+      "planetImage": "jedha",
+      "additionalImages": [
+        "jedha1",
+        "jedha2",
+        "jedha3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Kashyyyk",
+      "planetImage": "kashyyyk",
+      "additionalImages": [
+        "kashyyyk1",
+        "kashyyyk2",
+        "kashyyyk3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Lah'Mu",
+      "planetImage": "lahmu",
+      "additionalImages": [
+        "lahmu1",
+        "lahmu2",
+        "lahmu3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Naboo",
+      "planetImage": "naboo",
+      "additionalImages": [
+        "naboo1",
+        "naboo2",
+        "naboo3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Scarif",
+      "planetImage": "scarif",
+      "additionalImages": [
+        "scarif1",
+        "scarif2",
+        "scarif3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Starkiller Base",
+      "planetImage": "starkillerbase",
+      "additionalImages": [
+        "sb1",
+        "sb2",
+        "sb3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Tatooine",
+      "planetImage": "tatooine",
+      "additionalImages": [
+        "tatooine1",
+        "tatooine2",
+        "tatooine3"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  },
+  {
+    "meta": {
+      "name": "Yavin 4",
+      "planetImage": "yavin4",
+      "additionalImages": [
+        "yavin41",
+        "yavin42",
+        "yavin43"
+      ],
+      "description": "This is a decription",
+      "historicEvents": [
+        {
+          "title": "Origin",
+          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+        },
+        {
+          "title": "The Erso's",
+          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+        }
+      ],
+      "appearances": [
+        "Rogue One: A Star Wars Story"
+      ]
+    },
+    "astrographical": {
+      "region": "Outer Rim Territories",
+      "sector": "Raioballo sector",
+      "system": "Lah'Mu system",
+      "moons": 1
+    },
+    "physical": {
+      "planetClass": "Terrestial",
+      "diameter": "12,618 km",
+      "atmosphere": "Breathable",
+      "terrain": [
+        "Black sand and beaches",
+        "Fertile lowlands",
+        "Plateaus & mountains"
+      ],
+      "poi": [
+        "Chief's fortress",
+        "The Erso homestead"
+      ],
+      "fauna": "None"
+    },
+    "societal": {
+      "nativeSpecies": "none",
+      "immigratedSpecies": "Humans",
+      "population": "Estimated: less than 500"
+    }
+  }
+]
