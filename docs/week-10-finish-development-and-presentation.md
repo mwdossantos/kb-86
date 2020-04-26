@@ -18,6 +18,9 @@ Again, thank you for taking the time to read this week's update. As you can see 
 
 application icons, names, etc
 
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/appicon.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/appname.png)
+
 ### Presentation
 
 end here

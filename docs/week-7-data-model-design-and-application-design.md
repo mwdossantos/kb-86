@@ -315,7 +315,7 @@ I also decided to just show a list of the planets on which you can click and a m
 
 #### Prototype
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype.gif)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/prototype2.gif)
 
 As you can see in the prototype I wanted to minimize the amount of navigation that the user needs to go through. A quick and easy way to get information about the planets. You can also try the prototype yourself through [this](https://www.figma.com/proto/cjE1x9rz2Lheug9jBeINvK/Star-Wars-Application?node-id=41%3A0&viewport=-332%2C2558%2C0.6994814872741699&scaling=scale-down) link.
 

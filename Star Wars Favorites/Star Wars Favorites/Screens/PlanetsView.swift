@@ -21,7 +21,6 @@ struct PlanetsView: View {
         UINavigationBar.appearance().tintColor = UIColor(named: "standardColors")
     }
     
-    
     var body: some View {
         ScrollView {
             ForEach(0..<self.planets.count) { i in

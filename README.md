@@ -14,3 +14,8 @@ You can also view the individual weeks on their own:
 | Week 9 | [Application development](https://github.com/mwdossantos/kb-86/blob/master/docs/week-9-application-development.md) | 🧑🏻‍💻 |
 | Week 10 | [Finish develoment & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md) |✅|
 
+## Test the application yourself
+
+If you want to take a look at the application yourself you can do so by cloning this repository to your local machine, opening the XCode project file and building & running the project on either the simulator or your own iPhone.
+
+> Make sure your device is running iOS 13.2 or later and that XCode is on version 11.3.1 or later.

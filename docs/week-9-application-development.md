@@ -212,7 +212,7 @@ Button(action: {
 }
 ```
 
-I am very happy with the result of this weeks work, as the application is now feeling more alive then ever. All I have left to do is refactoring the code and some other small activities in Week 10, [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md)
+I am very happy with the result of this weeks work, as the application is now feeling more alive then ever. All I have left to do is refactoring the code and some other small activities in Week 10, [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md).
 
 ## Resources
 
