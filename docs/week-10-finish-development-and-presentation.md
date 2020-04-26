@@ -45,7 +45,9 @@ if colorScheme == .light {
     }
     
 }.padding(.horizontal, 40)
+```
 
+```swift
 // New version of the button on the OnboardingView()
 Button(action: {}) {
     NavigationLink(destination: PlanetsView()) {
@@ -61,6 +63,7 @@ Button(action: {}) {
         
 }.padding(.horizontal, 40)
 ```
+
 Here, I used a shorthand `if else` statement to change the text of the button based on the system color scheme, instead of creating duplicates.
 
 For the next piece of code I refactored I focused on the largest file of the project, the `PlanetDetail()` view.
