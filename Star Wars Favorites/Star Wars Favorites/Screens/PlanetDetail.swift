@@ -140,7 +140,7 @@ struct PlanetDetail: View {
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
                             ForEach(0..<self.planet.meta.appearances!.count) { i in
-                                Text(String(self.planet.meta.appearances![i])).fontWeight(.semibold).italic().foregroundColor(.gray)
+                                Text(String(self.planet.meta.appearances![i])).fontWeight(.semibold).italic().foregroundColor(.gray).padding(.bottom, 10)
                             }
                         }
                     }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 30)
