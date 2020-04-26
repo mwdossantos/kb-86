@@ -2,7 +2,6 @@
 //  PlanetDetail.swift
 //  Star Wars Favorites
 //
-//  Created by Matthew Wilson on 24/04/2020.
 //  Copyright © 2020 Miles. All rights reserved.
 //
 
@@ -37,12 +36,11 @@ struct PlanetDetail: View {
                 // Stuff that has to align left in here
                 VStack(alignment: .leading) {
                     
-                    // Astrographical
-                    HStack(alignment: .firstTextBaseline) {
-                        Image(systemName: "hurricane").font(.largeTitle)
-                        Text("Astrographical").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
                     
+                    // Astrographical
+                    // PlanetSectionHeader.swift
+                    PlanetSectionHeader(iconName: "hurricane", titleName: "Astrograpical")
+
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
                             Text("REGION").font(.footnote).fontWeight(.semibold).padding(.bottom, 5)
@@ -62,10 +60,8 @@ struct PlanetDetail: View {
                     // Astrographical end
                     
                     // Physical
-                    HStack(alignment: .firstTextBaseline) {
-                        Image(systemName: "perspective").font(.largeTitle)
-                        Text("Physical").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
+                    // PlanetSectionHeader.swift
+                    PlanetSectionHeader(iconName: "perspective", titleName: "Physical")
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -102,10 +98,8 @@ struct PlanetDetail: View {
                     // End physical
                     
                     // Societal
-                    HStack(alignment: .firstTextBaseline) {
-                        Image(systemName: "leaf.arrow.circlepath").font(.largeTitle)
-                        Text("Societal").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
+                    // PlanetSectionHeader.swift
+                    PlanetSectionHeader(iconName: "leaf.arrow.circlepath", titleName: "Societal")
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -123,10 +117,8 @@ struct PlanetDetail: View {
                     
                     
                     // Historic events
-                    HStack(alignment: .firstTextBaseline) {
-                        Image(systemName: "wand.and.stars").font(.largeTitle)
-                        Text("Historic Events").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
+                    // PlanetSectionHeader.swift
+                    PlanetSectionHeader(iconName: "wand.and.stars", titleName: "Historic Events")
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading, spacing: 20) {
@@ -140,10 +132,8 @@ struct PlanetDetail: View {
                     
                     
                     // Appearances
-                    HStack(alignment: .firstTextBaseline) {
-                        Image(systemName: "wand.and.stars").font(.largeTitle)
-                        Text("Appearances").font(.largeTitle).bold()
-                    }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
+                    // PlanetSectionHeader.swift
+                    PlanetSectionHeader(iconName: "wand.and.stars", titleName: "Appearances")
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -158,9 +148,3 @@ struct PlanetDetail: View {
         }
     }
 }
-
-//struct PlanetDetail_Previews: PreviewProvider {
-//    static var previews: some View {
-//        PlanetDetail(planet: <#Planet#>)
-//    }
-//}

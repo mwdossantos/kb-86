@@ -16,6 +16,7 @@
 		341235A4244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235A3244FA1CA005AD70F /* Star_Wars_FavoritesTests.swift */; };
 		341235AF244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */; };
 		341235C1244FA27C005AD70F /* planets.json in Resources */ = {isa = PBXBuildFile; fileRef = 341235C0244FA27C005AD70F /* planets.json */; };
+		3447369224561C41008C1E61 /* PlanetSectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3447369124561C41008C1E61 /* PlanetSectionHeader.swift */; };
 		3450E812245358C200DD375E /* hyperspace.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3450E810245358C200DD375E /* hyperspace.gif */; };
 		3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81924535CBF00DD375E /* Splashscreen.swift */; };
 		3450E81F24535EC100DD375E /* PlanetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3450E81E24535EC100DD375E /* PlanetsView.swift */; };
@@ -58,6 +59,7 @@
 		341235AE244FA1CA005AD70F /* Star_Wars_FavoritesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star_Wars_FavoritesUITests.swift; sourceTree = "<group>"; };
 		341235B0244FA1CA005AD70F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		341235C0244FA27C005AD70F /* planets.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = planets.json; sourceTree = "<group>"; };
+		3447369124561C41008C1E61 /* PlanetSectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetSectionHeader.swift; sourceTree = "<group>"; };
 		3450E810245358C200DD375E /* hyperspace.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hyperspace.gif; sourceTree = "<group>"; };
 		3450E81924535CBF00DD375E /* Splashscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splashscreen.swift; sourceTree = "<group>"; };
 		3450E81E24535EC100DD375E /* PlanetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsView.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 		3412358B244FA1C8005AD70F /* Star Wars Favorites */ = {
 			isa = PBXGroup;
 			children = (
+				3447368E24561B8B008C1E61 /* Components */,
 				34E700E32453687100528E43 /* Services */,
 				3450E81B24535CD400DD375E /* Screens */,
 				341235BD244FA22B005AD70F /* Resources */,
@@ -161,6 +164,14 @@
 				341235C0244FA27C005AD70F /* planets.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		3447368E24561B8B008C1E61 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				3447369124561C41008C1E61 /* PlanetSectionHeader.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		3450E81B24535CD400DD375E /* Screens */ = {
@@ -322,6 +333,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3447369224561C41008C1E61 /* PlanetSectionHeader.swift in Sources */,
 				3450E81A24535CBF00DD375E /* Splashscreen.swift in Sources */,
 				3412358D244FA1C8005AD70F /* AppDelegate.swift in Sources */,
 				3412358F244FA1C8005AD70F /* SceneDelegate.swift in Sources */,

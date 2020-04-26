@@ -155,7 +155,7 @@ Now, you may think, how did all that data get there in the first place? That's a
 In order to be able to use any of this data I had to use some of Swift's native functions. I followed a tutorial online that teached me how to decode `.JSON` and be able to use the data from that `.JSON` in my application. In the `PlanetsService.swift` file I did basically two things:
 
 * Create structs that are `Codable`. This means I create variables for each item in the `.JSON` and specify of what type they are. 
-* Create a class with a function that I can call in order to retrieve the planets.
+* Create a class with a static function that I can call in order to retrieve the planets.
 
 For the structs, my code was fairly simple:
 
@@ -191,13 +191,13 @@ public class PlanetService {
 }
 ```
 
-Because I created a class out of this I was easily able to use it in other parts of my project. As you can see in the `PlanetsView.swift` file:
+I made the `GetPlanets()` static function so it is callable from anywhere without having to create a new `PlanetService()` object. As you can see in the `PlanetsView.swift` file:
 
 ```swift
 @State var planets: [Planet] = PlanetService.GetPlanets()
 ```
 
-i stored the information I got from the `PlanetService.GetPlanets()` function in a variable called `planets` which I used to fill in the information for each planet in SwiftUI later on in the file:
+I stored the information I got from the `PlanetService.GetPlanets()` function in a `@State` variable called `planets` which I used to fill in the information for each planet in SwiftUI later on in the file:
 
 ```swift
 Text(self.planets[i].meta.description!)

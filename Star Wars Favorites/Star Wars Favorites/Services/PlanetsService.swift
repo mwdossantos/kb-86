@@ -2,7 +2,6 @@
 //  PlanetsService.swift
 //  Star Wars Favorites
 //
-//  Created by Matthew Wilson on 24/04/2020.
 //  Copyright © 2020 Miles. All rights reserved.
 //
 
@@ -52,10 +51,18 @@ struct Planet: Codable {
 }
 
 public class PlanetService {
+    
+    // Reads the planets.json file and returns an array of Planet structs.
+    // If there is an error reading te json file it will return an empty array.
     static func GetPlanets() -> [Planet] {
         do {
+            // Get the local url to the planets.json resource.
             let url = Bundle.main.url(forResource: "planets", withExtension: "json")!
+            
+            // Tries to read the data from the resource
             let data = try Data(contentsOf: url, options: .mappedIfSafe)
+            
+            // Tries to decode the read data from JSON into our Codable structs
             let planets = try JSONDecoder().decode([Planet].self, from: data)
             
             return planets

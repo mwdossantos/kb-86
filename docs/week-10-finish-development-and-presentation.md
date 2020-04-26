@@ -16,16 +16,90 @@ Again, thank you for taking the time to read this week's update. As you can see 
 As with any coding project the end is a good place to start looking back at your code, and polish it where needed. A lot of times I noticed that I have duplicate code, which I could have handled more efficiently. A couple of refactoring examples are:
 
 ```swift
-old code block
-new code block
+// Old version of the button on the OnboardingView()
+
+Button(action: {}) {
+if colorScheme == .light {
+    NavigationLink(destination: PlanetsView()) {
+        Text("Become a Jedi")
+            .font(.headline)
+            .fontWeight(.semibold)
+            .frame(minWidth: 0, maxWidth: .infinity)
+            .padding()
+            .foregroundColor(.white)
+            .background(Color("standardColors"))
+            .cornerRadius(13)
+    }
+
+    } else {
+        NavigationLink(destination: PlanetsView()) {
+            Text("Turn to the Dark Side")
+                .font(.headline)
+                .fontWeight(.semibold)
+                .frame(minWidth: 0, maxWidth: .infinity)
+                .padding()
+                .foregroundColor(.white)
+                .background(Color("standardColors"))
+                .cornerRadius(13)
+        }
+    }
+    
+}.padding(.horizontal, 40)
+
+// New version of the button on the OnboardingView()
+Button(action: {}) {
+    NavigationLink(destination: PlanetsView()) {
+        Text(colorScheme == .light ? "Become a Jedi" : "Turn to the Dark Side")
+            .font(.headline)
+            .fontWeight(.semibold)
+            .frame(minWidth: 0, maxWidth: .infinity)
+            .padding()
+            .foregroundColor(.white)
+            .background(Color("standardColors"))
+            .cornerRadius(13)
+    }
+        
+}.padding(.horizontal, 40)
 ```
+Here, I used a shorthand `if else` statement to change the text of the button based on the system color scheme, instead of creating duplicates.
+
+For the next piece of code I refactored I focused on the largest file of the project, the `PlanetDetail()` view.
 
 ```swift
-old code block
-new code block
+// Old, repeated code for each header item in the PlanetDetail() view
+HStack(alignment: .firstTextBaseline) {
+    Image(systemName: "hurricane").font(.largeTitle)
+    Text("Astrographical").font(.largeTitle).bold()
+}.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
 ```
 
-Next to refactoring my code I have added comments in my `.swift` files, to help you understand the code in the project.
+As you can see, repeating this piece of code several times in the `PlanetDetail()` view would be bad practice. If I make one change I have to change it everywhere. That's why I decided to put it into a component, called `PlanetSectionHeader`:
+
+```swift
+import SwiftUI
+
+struct PlanetSectionHeader: View {
+    var iconName: String
+    var titleName: String
+    
+    var body: some View {
+        HStack(alignment: .firstTextBaseline) {
+            Image(systemName: iconName).font(.largeTitle)
+            Text(titleName).font(.largeTitle).bold()
+        }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 10)
+    }
+}
+```
+
+Now in the `PlanetDetail()`, all I have to do in order to render the header section is to call `PlanetSectionHeader()` and give two arguments for the `iconName` and `titleName`:
+
+```swift
+PlanetSectionHeader(iconName: "hurricane", titleName: "Astrograpical")
+```
+
+The rest of the `PlanetDetail()` view was harder to refactor, as it contained a lot of logic that I didn't know how to pass through the component.
+
+Next to refactoring my code I have added comments in my `.swift` files, to help you understand the code in the project. I am happy I took a last look at my code, as it's now even shorter than before, and easier to manage.
 
 ## Final run
 
