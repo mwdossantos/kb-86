@@ -38,7 +38,7 @@ Also, the display name of the app was the same as the project, namely "Star Wars
 
 ### Presentation of the Deliverable
 
-TO finish this section of the minor I decided to take out my camera and take a few high quality pictures of the application running on my phone:
+To finish this section of the minor I decided to take out my camera and take a few high quality pictures of the application running on my phone:
 
 ![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo1.jpeg)
 
@@ -66,7 +66,7 @@ Looking back at the past few weeks I have to say, I've learnt so much. I learnt 
 
 Even though we went into a semi-lockdown halfway of March, I must say that the weekly check-ups with my tutors were very helpful to give an insight into my process and see that I was heading into the right direction.
 
-Again, I want to thank you for taking the time to read my documentation. You can clone this repository and run the application for yourself and see what wonderful planets reside in the Star Wars Universe.
+Again, I want to thank you for taking the time to read my documentation. You can clone this repository and run the application by yourself and see what wonderful planets reside in the Star Wars Universe 🪐
 
 Best regards,
 

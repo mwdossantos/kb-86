@@ -198,7 +198,7 @@ Because I created a class out of this I was easily able to use it in other parts
 @State var planets: [Planet] = PlanetService.GetPlanets()
 ```
 
-i stored the information I got from the `PlanetService.GetPlanets()` function in a variable `planets` which I used to fill in the information in SwiftUI later on in the file:
+i stored the information I got from the `PlanetService.GetPlanets()` function in a variable called `planets` which I used to fill in the information for each planet in SwiftUI later on in the file:
 
 ```swift
 Text(self.planets[i].meta.description!)
@@ -212,7 +212,7 @@ Button(action: {
 }
 ```
 
-I am very happy with the result of this weeks work, as the application is now feeling more alive then ever. All I have left to do is refactoring the code and some other small activities in Week 10, [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md).
+I am very happy with the result of this weeks work, as the application is now feeling more alive then ever. All I have left to do is to refactor the code and do some other small activities in Week 10, [Finish Development & Presentation](https://github.com/mwdossantos/kb-86/blob/master/docs/week-10-finish-development-and-presentation.md).
 
 ## Resources
 

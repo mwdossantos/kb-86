@@ -124,8 +124,6 @@ The essence of this section is that by removing the hard coded data and replacin
 
 Now that I have finished this second tutorial as well it's time to start with my own project. I have a great feeling about this! When I look back I don't seem to find a lot of things particularly difficult, just very new and suprising.
 
-You can view all of my code for these tutorials in the [Tutorials folder](https://github.com/mwdossantos/kb-86/blob/master/tutorials)
-
 I can't wait to start building Star Wars Favorites.
 
 ### Setting up the XCode project

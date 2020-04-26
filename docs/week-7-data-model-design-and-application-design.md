@@ -11,7 +11,7 @@ Again, thank you for taking the time to read this week's update. As you can see 
 | Defining the Data | ✅ |
 | Creating a Data Model | ✅ |
 | Star Wars: Favorites Logotype | ✅ |
-| High fidelity Application Design | ✅ |
+| High Fidelity Application Design | ✅ |
 | Star Wars: Favorites Icon Design | ✅ |
 
 ### Defining the Data
@@ -23,7 +23,7 @@ With the needs defined in [Week 6](https://github.com/mwdossantos/kb-86/blob/mas
 > * View historical events that happened on a certain planet
 > * See in which movies the planet appears
 
-come a couple of requirements, namely:
+come a couple of requirements to mind, namely:
 
 * A simple JSON data structure, as I want to be as efficient as possible
 * Mobile ready media for each planet, to get an impression of the planet
@@ -253,7 +253,7 @@ As you can see, Paralucent works very well on all kinds of sizes and I think it'
 
 Now that I have my logo done, it's time to start designing some screens and decide how I want to display my data!
 
-### High fidelity Application Design
+### High Fidelity Application Design
 
 In this activity I am going to take my data and design an application around that data.
 
