@@ -9,8 +9,10 @@ import SwiftUI
 
 struct OnboardingView: View {
     
+    // storing the system wide colorscheme
     @Environment (\.colorScheme) var colorScheme:ColorScheme
     
+    // setting the state for the showingSheet variable
     @State var showingSheet = true
     
     var body: some View {
@@ -30,6 +32,7 @@ struct OnboardingView: View {
                     
                     VStack {
                         Button(action: {}) {
+                            // setting the action of the button to load the PlanetsView once pressed
                             NavigationLink(destination: PlanetsView()) {
                                 Text(colorScheme == .light ? "Become a Jedi" : "Turn to the Dark Side")
                                     .font(.headline)
@@ -49,12 +52,6 @@ struct OnboardingView: View {
                 ModalView()
             }
         }
-    }
-}
-
-struct OnboardingView_Previews: PreviewProvider {
-    static var previews: some View {
-        OnboardingView()
     }
 }
 

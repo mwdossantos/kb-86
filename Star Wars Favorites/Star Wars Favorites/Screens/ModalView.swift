@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ModalView: View {
+    
+    // set the presentationMode environmental variable so that I can dismiss it later
     @Environment(\.presentationMode) var presentationMode
 
     var body: some View {
@@ -79,11 +81,5 @@ struct ModalView: View {
             Spacer()
                 .frame(height: 60.0)
         }
-    }
-}
-
-struct ModalView_Previews: PreviewProvider {
-    static var previews: some View {
-        ModalView()
     }
 }

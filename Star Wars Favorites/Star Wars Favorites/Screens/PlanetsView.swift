@@ -9,6 +9,7 @@ import SwiftUI
 
 struct PlanetsView: View {
     
+    // store all the planets in a variable called planets
     @State var planets: [Planet] = PlanetService.GetPlanets()
     @State var showingDetailSheet = false
     @State var planetToShowInDetail: Planet?
@@ -22,8 +23,10 @@ struct PlanetsView: View {
     
     var body: some View {
         ScrollView {
+            // looping through all planets in the array
             ForEach(0..<self.planets.count) { i in
                     
+                // creating a VStack for every planet, filled with its information
                 VStack {
                     Image(self.planets[i].meta.planetImage!)
                     .resizable()
@@ -36,6 +39,7 @@ struct PlanetsView: View {
                         .padding([.top, .leading, .trailing], 20)
                         
                     Button(action: {
+                        // set the action of the button to open PlanetDetail()
                         self.planetToShowInDetail = self.planets[i]
                         self.showingDetailSheet = true;
                     }) {
@@ -60,10 +64,4 @@ struct PlanetsView: View {
         }
     }
 
-}
-
-struct PlanetsView_Previews: PreviewProvider {
-    static var previews: some View {
-        PlanetsView()
-    }
 }

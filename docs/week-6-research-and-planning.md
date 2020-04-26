@@ -11,7 +11,7 @@ Thank you for taking the time to read this week's update. As you can see in the 
 | Choosing a theme | ✅ |
 | Planning | ✅ |
 | Theme research | ✅ |
-| Data & problem | ✅ |
+| Data & Problem | ✅ |
 
 ## Learning goal and Deliverable
 
@@ -79,7 +79,7 @@ Do research on the chosen theme - find images, links and more. Just general stuf
 
 ![img](https://cdn.dribbble.com/users/808342/screenshots/10804502/media/c49bae730c270b3246683d0a3cc48513.jpg) ![img](https://cdn.dribbble.com/users/37585/screenshots/3286475/helm_shot359.png) ![img](https://cdn.dribbble.com/users/1032175/screenshots/8915549/media/45a1356a3948202b99d8c46e135749d7.png) ![img](https://cdn.dribbble.com/users/2096507/screenshots/4284503/starwars-hansolo-bg.jpg) ![img](https://cdn.dribbble.com/users/1575908/screenshots/8173066/media/a89e3e63d1924fb9918a9201acd27698.png) ![img](https://cdn.dribbble.com/users/15687/screenshots/8429874/media/e8ece76095c31f5f159cc1ac0487bfd9.png) ![img](https://cdn.dribbble.com/users/1575908/screenshots/8102158/media/7015d74623fd5577fd512ff9b76f63aa.jpg)
 
-## Data & problem
+## Data & Problem
 
 So, what's the problem I'm trying to solve here? Given the vastness of the Star Wars galaxy it can be hard to wrap your head around all the different planets within the universe. I've always wanted to have a clear understanding of at least a couple of planets that appear in the movies and see what their key characteristics are.
 

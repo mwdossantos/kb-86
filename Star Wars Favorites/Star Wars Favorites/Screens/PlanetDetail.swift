@@ -8,11 +8,13 @@
 import SwiftUI
 
 struct PlanetDetail: View {
-    var planet: Planet;
     
+    // create a variable called planet to store the planet
+    var planet: Planet;
     
     var body: some View {
         ScrollView {
+            
             VStack {
                 Image(self.planet.meta.planetImage!)
                 .resizable()
@@ -57,7 +59,7 @@ struct PlanetDetail: View {
                             Text(String(self.planet.astrographical.moons!)).foregroundColor(.gray)
                         }
                     }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 30)
-                    // Astrographical end
+                    // // End Astrographical
                     
                     // Physical
                     // PlanetSectionHeader.swift
@@ -133,7 +135,7 @@ struct PlanetDetail: View {
                     
                     // Appearances
                     // PlanetSectionHeader.swift
-                    PlanetSectionHeader(iconName: "wand.and.stars", titleName: "Appearances")
+                    PlanetSectionHeader(iconName: "play.rectangle.fill", titleName: "Appearances")
                     
                     HStack(spacing: 20) {
                         VStack(alignment: .leading) {
@@ -142,6 +144,7 @@ struct PlanetDetail: View {
                             }
                         }
                     }.padding(.leading, 20).padding(.trailing, 20).padding(.bottom, 30)
+                    // End Appearances
                 }
 
             }

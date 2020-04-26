@@ -15,7 +15,7 @@ struct Splashscreen: View {
     var body: some View {
         Group {
             if self.hasTimeElapsed {
-                // Transition to OnboardingView()
+                // Transition to OnboardingView() once hasTimeElapsed is true
                 OnboardingView()
             } else {
                 
@@ -39,6 +39,7 @@ struct Splashscreen: View {
         }
     }
     
+    // function to simulate the loading of the application
     private func mockLoading() {
 
         DispatchQueue.main.asyncAfter(deadline: .now() + 2.3) {
@@ -48,8 +49,3 @@ struct Splashscreen: View {
     }
 }
 
-struct Splashscreen_Previews: PreviewProvider {
-    static var previews: some View {
-        Splashscreen()
-    }
-}
