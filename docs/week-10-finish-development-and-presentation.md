@@ -64,11 +64,12 @@ has also been created and I can't be happier with the end result!
 
 Looking back at the past few weeks I have to say, I've learnt so much. I learnt that SwiftUI can be a breeze, but can also be a curse at sometimes, given the many XCode errors I have encountered without any clear reason. I also found that using a subject such as Star Wars was beneficial to the progression of my project as I managed to keep myself motivated during these 5 weeks.
 
-Even though we went into a semi-lockdown halfway of March, I must say that the weekly check-ups with my tutors was very helpful to give an insight into my process and see that I was heading into the right direction.
+Even though we went into a semi-lockdown halfway of March, I must say that the weekly check-ups with my tutors were very helpful to give an insight into my process and see that I was heading into the right direction.
 
 Again, I want to thank you for taking the time to read my documentation. You can clone this repository and run the application for yourself and see what wonderful planets reside in the Star Wars Universe.
 
 Best regards,
+
 Matthew
 
 ## Resources
