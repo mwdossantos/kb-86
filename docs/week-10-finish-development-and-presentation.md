@@ -49,6 +49,7 @@ if colorScheme == .light {
 
 ```swift
 // New version of the button on the OnboardingView()
+
 Button(action: {}) {
     NavigationLink(destination: PlanetsView()) {
         Text(colorScheme == .light ? "Become a Jedi" : "Turn to the Dark Side")
