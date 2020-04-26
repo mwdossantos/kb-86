@@ -39,6 +39,16 @@ Also, the display name of the app was the same as the project, namely "Star Wars
 
 Couple images of holding it in hand and a video using it uploaded to github
 
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo1.png)
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo2.png)
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo3.png)
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo4.png)
+
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/swpromo5.png)
+
 ---
 end here
 
