@@ -43,7 +43,7 @@ struct PlanetDetail: View {
                     // PlanetSectionHeader.swift
                     PlanetSectionHeader(iconName: "hurricane", titleName: "Astrograpical")
 
-                    HStack(spacing: 20) {
+                    HStack(alignment: .top, spacing: 20) {
                         VStack(alignment: .leading) {
                             Text("REGION").font(.footnote).fontWeight(.semibold).padding(.bottom, 5)
                             Text(self.planet.astrographical.region!).foregroundColor(.gray).padding(.bottom, 10)
@@ -65,7 +65,7 @@ struct PlanetDetail: View {
                     // PlanetSectionHeader.swift
                     PlanetSectionHeader(iconName: "perspective", titleName: "Physical")
                     
-                    HStack(spacing: 20) {
+                    HStack(alignment: .top, spacing: 20) {
                         VStack(alignment: .leading) {
                             Text("PLANET CLASS").font(.footnote).fontWeight(.semibold).padding(.bottom, 5)
                             Text(self.planet.physical.planetClass!).foregroundColor(.gray).padding(.bottom, 10)

@@ -130,14 +130,17 @@ The first thing to do is to start XCode and create a new project. The process fo
 
 After the project is set up I went ahead and setup the folder structure as you can see in the following image:
 
-![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/setting-up-the-project-folderstructure.png)
+![img](https://raw.githubusercontent.com/mwdossantos/kb-86/master/docs/images/setting-up-the-projectfolderstructure.png)
 
 It contains a couple of folders:
 
+* Components
 * Services
 * Screens
 * Resources
 * Assets.xcassets
+
+The components folder will contain re-usable components.
 
 Services folder contains files that hold information about the way I handle data in the application, such as the JSON parser.
 

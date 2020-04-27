@@ -273,46 +273,70 @@
         "crait2",
         "crait3"
       ],
-      "description": "This is a decription",
+      "description": "Crait was a small salty mineral planet located in a remote sector of the galaxy's Outer Rim Territories. Covered with a layer of white salt over its red soil, the planet once hosted a Rebel Alliance outpost during their early rebellion against the Galactic Empire. Many years later, the uninhabited planet became a haven for Leia Organa's Resistance, which resulted in a battle between the Resistance and the First Orderon the planet's surface.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Imperial Era",
+          "description": "During the reign of the Galactic Empire, the early rebel movement—a loose network of rebel cells led in secret by Senator Bail Organa of Alderaan[11]—established a secret outpost on the northern continent of the planet Crait. In the year 3 BBY, one of these rebel groups attacked Calderos Station, a large Imperial facility used as a deep-space waypoint, to weaken Imperial control and cover rebel shipment tracks to Crait. Although the rebels presumed that all data about Calderos Station was erased, Bail's adopted daughter, Princess Leia Organa, managed to find some old space traffic data which linked Crait and Calderos Station. To discover the identity of the attacker, Leia Organa and her guard Lieutenant Ress Batten traveled to Crait aboard the Polestar. After the ship landed on the planet's surface, Leia was detained by rebel soldiers as she refused their proposal to leave Crait immediately. Upon being taken to the base, Leia found out that it was her father who was in charge of this facility, and her parents were secretly organizing a rebel movement against the Empire."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "First Order–Resistance War",
+          "description": "Many years later, some time after the destruction of the Starkiller Base in 34 ABY. Crait became a haven for the fleeing forces of the Resistance, a small military force founded by Leia Organa to combat the First Order. As a result, the planet became a battleground between the two factions, which involved V-4X-D ski speeders and the Millennium Falcon facing off with All Terrain MegaCaliber Six walkers, First Order AT-ATs, TIE/fo, and TIE/sf space superiority fighters."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars Battlefront II (DLC)",
+        "Leia, Princess of Alderaan (First appearance)",
+        "Leia Organa: Ordeal of the Princess",
+        "Star Wars: The Last Jedi – The Storms of Crait 1",
+        "Star Wars 59 (Mentioned only)",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "Star Wars: Episode VIII The Last Jedi",
+        "Star Wars: The Last Jedi: Expanded Edition",
+        "Star Wars: The Last Jedi: A Junior Novel",
+        "The Last Jedi storybook",
+        "The Last Jedi Read-Along Storybook and CD",
+        "The Last Jedi Adaptation 5",
+        "The Last Jedi Adaptation 6",
+        "Poe Dameron 26 (Mentioned only)",
+        "Poe Dameron 27 (Mentioned only; in the opening crawl)",
+        "Poe Dameron 28 (Mentioned only)",
+        "Poe Dameron 29 (Mentioned only)",
+        "Resistance Reborn (Mentioned only)",
+        "Allegiance 1 (Mentioned only)",
+        "Spark of the Resistance (Mentioned only)",
+        "Star Wars: Galaxy's Edge (Mentioned only)",
+        "Star Wars: Episode IX The Rise of Skywalker (Mentioned only)",
+        "Star Wars: The Rise of Skywalker: Expanded Edition (Vision to Rey)",
+        "Star Wars: The Rise of Skywalker: A Junior Novel (Mentioned only)"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Unknown",
+      "system": "Crait System",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "Unknown",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Salt flats",
+        "Mountains",
+        "Canyons"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Crait Outpost",
+        "Mines of Crait",
+        "Nupayni Salt Flats"
       ],
-      "fauna": "None"
+      "fauna": "Vulpex"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "None",
+      "immigratedSpecies": "None",
+      "population": "Uninhabited"
     }
   },
   {
@@ -324,46 +348,52 @@
         "eadu2",
         "eadu3"
       ],
-      "description": "This is a decription",
+      "description": "Eadu (pronounced /ˈiːduː/) was a storm-stricken planet in the Outer Rim Territories. It hosted the Eadu Energy Conversion Laboratory prior to the outbreak of the Galactic Civil War, where Galen Erso and his team of scientists attempted to unlock the secrets of the kyber crystalsas part of the Death Star project. The refinery was targeted by agents of the Alliance to Restore the Republic following the destruction of Jedha City and resulted in the ruination of the facility and the death of Erso.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
-        },
-        {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Erso's Death",
+          "description": "In 0 BBY, Erso sent out pilot Bodhi Rook with a message for Saw Gerrera, informing him of a structural weakness in the Death Star. Krennic learned of the security leak and ventured to Eadu to deal with the Imperial traitor. At the same time, a team of Rebel agents led by Jyn Erso and Captain Cassian Jeron Andor arrived on Eadu with the intention of locating Erso. The mission became complicated after Krennic had Erso's fellow scientists shot in order to draw out a confession, and Rebel starfighters bombed the Eadu complex landing platform. This resulted in Galen's death and led Jyn's team on a further mission to steal the Death Star plans from Scarif. Because of the security breach, Tolvan was later sent to Yavin 4 following the destruction of the Death Star, as a punishment duty for the Eadu debacle."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Darth Vader: Dark Lord of the Sith 10 (Mentioned only) (In Aurebesh text)",
+        "Rogue One: A Star Wars Story (First appearance)",
+        "Rogue One: A Star Wars Story novelization",
+        "Star Wars: Rogue One: A Junior Novel",
+        "Star Wars: Rogue One Graphic Novel Adaptation",
+        "Rogue One Adaptation 1",
+        "Rogue One Adaptation 3",
+        "Rogue One Adaptation 4",
+        "Rogue One Adaptation 5 (Mentioned only)",
+        "\"Grounded\"—From a Certain Point of View (Mentioned only)",
+        "Doctor Aphra 4 (Mentioned only)",
+        "Doctor Aphra 14 (Mentioned only)",
+        "Doctor Aphra 15 (Mentioned only)"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
+      "sector": "Bheriz Sector",
+      "system": "Eadu system",
       "moons": 1
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "14,121 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Rocky"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Eadu Energy Conversion Laboratory",
+        "Eadu Flight Station"
       ],
       "fauna": "None"
     },
     "societal": {
-      "nativeSpecies": "none",
+      "nativeSpecies": "Eaduan",
       "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "population": "\"2.5 million\""
     }
   },
   {
@@ -375,46 +405,122 @@
         "endor2",
         "endor3"
       ],
-      "description": "This is a decription",
+      "description": "Endor, designated IX3244-A, also known as the Forest Moon of Endor or the Sanctuary Moon, was a small forested moon that orbited the Outer Rim planet of the same name and was the homeworld of the sentient Dulok, Ewok, and Yuzzum species, as well as the semi-sentient Gorax and Wistie races.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Reign of the Galactic Empire",
+          "description": "Sometime during the reign of the Galactic Empire, the Empire established an outpost on the moon that included a shield generatorcomplex to protect the incomplete second Death Star in orbit of the moon. In order to make way for the complex, an Ewok village was razed by Imperial troops, leading to strained Imperial—Ewok relations. As a result of the repulsorlift field emitted by the SLD-26 planetary shield generator to keep the Death Star in a stationary orbit, Endor was prone to earthquakes, tidal imbalances, and other geological disturbances."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Battle of Endor",
+          "description": "The moon was later the site of the monumental Battle of Endor that saw combat between the Alliance to Restore the Republic and its Ewok allies against Imperial forces who were attempting to protect the shield generator and prevent the Alliance from destroying its superweapon in orbit. After fierce combat on the forest moon, the Rebel Alliance managed not only to destroy the shield generator complex, but also the second Death Star. With the destruction of the Empire's dreaded battle station and the death of Galactic Emperor Palpatine and his enforcer, Darth Vader, the Rebels and Ewoks held a victory celebration on the moon, one of many across the galaxy."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars: Galactic Defense",
+        "Star Wars: Force Arena",
+        "Star Wars Battlefront II",
+        "IDWStarWarsAdventuresLogoSmaller \"Intermission, Part I\"—Star Wars Adventures 12 (Picture only)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Han Solo - From Smuggler to General\"",
+        "Lost Stars",
+        "Lost Stars webcomic",
+        "Forces of Destiny: The Leia Chronicles",
+        "Rebels-mini-logo Star Wars Rebels – \"Family Reunion – and Farewell\" (Mentioned only)",
+        "The Mighty Chewbacca in the Forest of Fear! (Mentioned only)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Stormtroopers vs. Rebels – Soldiers of the Galactic Empire\"",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Princess Leia – The Rescue\"",
+        "The Adventures of Luke Skywalker, Jedi Knight",
+        "Star Wars: Battle Pod",
+        "Star Wars Battlefront",
+        "A Leader Named Leia",
+        "Star Wars: Episode VI Return of the Jedi (First appearance)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Princess Leia - An Unexpected Friend\"",
+        "Return of the Jedi: Beware the Power of the Dark Side!",
+        "Star Wars: Return of the Jedi junior novelization",
+        "Episode VI: Return of the Jedi Read-Along Storybook and CD",
+        "Ewoks Join the Fight",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Ewok Escape\"",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"An Imperial Feast\"",
+        "SWInsider \"Blade Squadron\"—Star Wars Insider 149–150",
+        "\"The Levers of Power\"—The Rise of the Empire",
+        "Shattered Empire 1",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Traps and Tribulations\"",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Chopper and Friends\"",
+        "IDWStarWarsAdventuresLogoSmaller \"A Race for Answers\"—Star Wars Adventures 23 (Appears through imagination)",
+        "SWInsider \"Turning Point\"—Star Wars Insider 169 (Mentioned only)",
+        "SWInsider \"Blade Squadron: Zero Hour\"—Star Wars Insider 160 (Mentioned only)",
+        "Alphabet Squadron (Mentioned only)",
+        "Aftermath (Appears in flashback(s))",
+        "Aftermath: Life Debt (Mentioned only)",
+        "SWInsider \"Blade Squadron: Kuat\"—Star Wars Insider 168 (Mentioned only)",
+        "Aftermath: Empire's End (Appears in flashback(s))",
+        "SWInsider \"Blade Squadron: Jakku\"—Star Wars Insider 172 (Mentioned only)",
+        "Last Shot (Mentioned only)",
+        "The Mandalorian Official Logo The Mandalorian – \"Chapter 4: Sanctuary\" (Mentioned only)",
+        "The Legends of Luke Skywalker (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Tales from Wild Space: Mattis Makes a Stand\"—Star Wars Adventures 4 (Mentioned only)",
+        "Bloodline (Mentioned only)",
+        "\"The Perfect Weapon\" (Mentioned only)",
+        "Before the Awakening (Mentioned only)",
+        "Poe Dameron 1 (Mentioned only)",
+        "Poe Dameron 9 (Mentioned only)",
+        "Poe Dameron Annual 2 (Appears in flashback(s))",
+        "Poe Dameron 22 (Mentioned only)",
+        "Join the Resistance (Mentioned only)",
+        "Join the Resistance: Escape from Vodran (Mentioned only)",
+        "\"Destroyer Down\"—Star Wars Adventures: Destroyer Down (Mentioned only)",
+        "Smuggler's Run: A Han Solo & Chewbacca Adventure (Mentioned only)",
+        "Moving Target: A Princess Leia Adventure (Mentioned only)",
+        "Force Collector (Vision to Karr Nuq Sin)",
+        "Star Wars: Episode VII The Force Awakens (Mentioned in hologram only)",
+        "Star Wars: The Force Awakens: A Junior Novel (Mentioned only)",
+        "Star Wars: The Force Awakens Graphic Novel Adaptation (Mentioned only)",
+        "The Force Awakens Adaptation 2 (Appears in flashback(s))",
+        "\"The Wine in Dreams\"—Canto Bight (Mentioned only)",
+        "Star Wars: The Last Jedi: Expanded Edition (Mentioned only)",
+        "Star Wars: The Last Jedi: A Junior Novel (Mentioned only)",
+        "R2-D2 is LOST!",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "A Crash of Fate (Mentioned only)",
+        "Resistance Reborn (Mentioned only)",
+        "Resistance Reborn audiobook (Mentioned only)",
+        "Star Wars: Episode IX The Rise of Skywalker",
+        "Star Wars: The Rise of Skywalker: Expanded Edition",
+        "Star Wars: The Rise of Skywalker: A Junior Novel",
+        "\"Whills\"—From a Certain Point of View (Mentioned only)"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Moddell sector",
+      "system": "Endor system",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "4,900 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Forests",
+        "Savannas",
+        "Mountains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Campalan mountain range",
+        "Death Star's shield generator",
+        "Imperial outpost",
+        "Lake Marudi",
+        "Lake Sui",
+        "Mount Krana",
+        "Platform 4",
+        "Syndulla's camp"
       ],
-      "fauna": "None"
+      "fauna": "Blurrg,Boar-wolf, Bordok,Churi, Condor dragon, Endor blue butterfly, Gaupa, Geejaw, Gurreck, Lantern bird, Pony, Pulga, Rakazzak beast, Munyip, Rugger, Splledark, Temptor, Tip-yip, Unidentified bird, Unidentified bug, Verkle"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Dulok, Ewoks, Gorax, Wistie, Yuzzum",
+      "immigratedSpecies": "None",
+      "population": "Over 30 million Ewoks"
     }
   },
   {
@@ -426,46 +532,51 @@
         "exegol2",
         "exegol3"
       ],
-      "description": "This is a decription",
+      "description": "Exegol (also spelled Ixigul in ancient texts) was a dark desert planet located within the Unknown Regions that, according to legend, was the hidden world of the Sith. It was occupied by the Sith Lord Darth Sidious and the Sith Eternal by 35 ABY. It was also the birthplace of Supreme Leader Snoke, whom Sidious created to rule the First Order while concealing himself in the shadows. Exegol was used to hide the Sith Eternal fleet amassed by Sidious and the Sith Eternal, from where they planned to deploy the Sith fleet and establish a New Empire. Exegol was the site of a battle during the war between the First Order and the Resistance, which saw the defeat of the Sith loyalists.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Early history",
+          "description": "As mentioned by the Jedi writer Kli the Elder in the Rammahgon, Exegol (or Ixigul, as Kli wrote it) once had a fertile environment, until the Sith established their presence there and lay waste to the planet just as they did with Korriban, Ziost and Asog. Exegol was one of the oldest Sith bastions, dating back to about a thousand years prior to the fall of the Galactic Republic. Under the Sith, the Sith Citadel was built on Exegol for meetings and rituals to be conducted within, and Sith loyalists excavated the world's large and deep planetary fissures in hopes of reaching a vergence believed to lie beneath the planet surface."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Darth Sidious",
+          "description": "By the era of the Galactic Empire, the last Sith Lords, Darth Sidious and Darth Vader, possessed the only two wayfinders leading the way to Exegol. After Sidious' death at the Battle of Endor, the Sith Eternal cult chose Exegol as their base because it was completely hidden from even the most studious of galactic historians, some of whom knew about Korriban/Moraband and the other Sith worlds. The Sith loyalists then proceeded to construct a massive fleet of warships. This was comprised of hundreds of Xyston-class Star Destroyers, which were intended for the Sith's reconquest of the galaxy. As threats of their return to the wider galaxy loomed, the Resistance mustered its forces and made a desperate battle against the Sith. Ultimately, with the help of the galaxy fleet, the Resistance was able to destroy the Sith Star Destroyers and kill Emperor Darth Sidious."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "The Rise of Kylo Ren 4",
+        "Star Wars: Episode IX The Rise of Skywalker (First appearance)",
+        "Star Wars: The Rise of Skywalker: Expanded Edition",
+        "Star Wars: The Rise of Skywalker: A Junior Novel",
+        "The Rise of Skywalker Adaptation 1"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Unknown Regions",
+      "sector": "Unknown Sector",
+      "system": "Exegol system",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "13,649 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Rocky",
+        "Desert"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Hâsk desert",
+        "Hon Zduul plateau",
+        "Sadow escarpment",
+        "Sith Citadel"
       ],
-      "fauna": "None"
+      "fauna": "Space-faring megafauna"
     },
     "societal": {
       "nativeSpecies": "none",
       "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "population": "Unknown"
     }
   },
   {
@@ -477,46 +588,65 @@
         "felucia2",
         "felucia3"
       ],
-      "description": "This is a decription",
+      "description": "Felucia was a remote worldin the Felucia system, overrun with thick, colorful, and humid jungle made up by a unique combination of fungi species, which was punctuated with small farming villages populated by the planet's native Felucians. Several non-sentient species also inhabited the world, including Gelagrubs, jungle rancors, and tee-muss. Despite its perceived insignificance, its important location and resources (which included the healing plant nysillin) led to several conflicts both in orbit and on the surface. The Gossam colonized the planet and helped to industrialize it and used it to advance their own financial enterprise, even persuading the native Felucian tribes into compliance by claiming that the Gossam and Felucians shared a common ancestor.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Reign of the Republic",
+          "description": "During the Republic Era, Jedi Qui-Gon Jinn faced trials on Felucia. Despite his commitment to the Jedi Order being severely tested, Jinn ultimately remained loyal to the organization.\nBeing a key planet for control of the Perlemian Trade Route, Felucia was the location of several battles between the Galactic Republic and Confederacy of Independent Systems during the Clone Wars. In 21 BBY, the first battle on the planet saw the Republic forces, led by Jedi Obi-Wan Kenobi, Anakin Skywalker, Ahsoka Tano, Plo Koon, dislodged by a Separatist onslaught via blockade."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "First Order–Resistance war",
+          "description": "Around 34 ABY, the planet's inhabitants began trading ingredients with the planet Batuu. This allowed Black Spire Outpost's Docking Bay 7 Food and Cargo to prepare Felucian Garden Spreads."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Master & Apprentice (Mentioned only)",
+        "Star Wars: Force Arena",
+        "Star Wars: Galactic Defense",
+        "Star Wars Battlefront II (DLC)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Holocron Heist\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Bounty Hunters\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Grievous Intrigue\" (Appears in flashback(s))",
+        "TCW mini logo Star Wars: The Clone Wars – \"Padawan Lost\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Wookiee Hunt\" (Appears in flashback(s))",
+        "TCW mini logo Star Wars: The Clone Wars – \"The Lost One\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Old Friends Not Forgotten\" (Appears in flashback(s))",
+        "Star Wars: Episode III Revenge of the Sith (First appearance)",
+        "Kanan 2 (Vision to Caleb Dume)",
+        "Ahsoka (Mentioned only)",
+        "Tarkin (Mentioned only)",
+        "Solo: A Star Wars Story (Mentioned only)",
+        "Solo: A Star Wars Story Adaptation 3 (Mentioned only)",
+        "Leia, Princess of Alderaan",
+        "Vader Immortal: A Star Wars VR Series – Episode I (Appears in hologram)",
+        "Alphabet Squadron (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Flight of the Falcon, Part 2: The Planet of Misfit Droids\"—Star Wars Adventures 15 (Indirect mention only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Flight of the Falcon, Part 3: Home Again\"—Star Wars Adventures 16",
+        "Star Wars: Galaxy's Edge (Mentioned only)"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Thanium sector",
+      "system": "Felucia system",
+      "moons": 8
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "Unknown",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Jungles"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Seperatists outpost"
       ],
-      "fauna": "None"
+      "fauna": "Felucia bird, Felucian firefly, Felucian Ripper, Gelagrub, Jungle rancor, Manta, Sarlacc"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Felucian",
+      "immigratedSpecies": "Gossam, Kyuzo, Tee-muss",
+      "population": "425 million"
     }
   },
   {
@@ -528,46 +658,110 @@
         "hoth2",
         "hoth3"
       ],
-      "description": "This is a decription",
+      "description": "From space, the planet of Hoth looked like a pale blue orb due to its dense snow and ice covering. Five planets existed between Hoth and its sun, while an asteroid belt surrounded the planet with meteors occasionally striking the surface. Most of its surface was covered with glaciers and frozen ice plains. Another third of the planet was covered by oceans. The temperature, although always frigid, was known to drop to -60°C come nightfall. Although devoid of intelligent life, Hoth was home to fifteen species of large gray snow lizards called tauntauns and to a species of towering predators known as wampas. The planet also had a number of \"crystalline geysers.\"",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "The Rebel Alliance",
+          "description": "Sometime following the Battle of Yavin, Saponza's Gang established a base on Hoth.\nJan Dodonna, a general in the Alliance to Restore the Republic,listed Hoth among his preliminary scans for possible Alliance bases.After Dodonna was killed in the Assault on the Mako-Ta Space Docks, Mon Mothma gave this list of possible bases to Leia Organaafter the mission to Shu-Torun, requesting that her team scout the locations. Han Solo expressed surprise at how obscure the locations were. However, Luke Skywalker responded to him by saying that one of the locations was the Rebellion's new home. Ultimately, Hoth came to be the Alliance's new base of operations, as the Rebellion established Echo Base on the planet."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Battle of Hoth and aftermath",
+          "description": "Hoth was the arena of a battle between the Galactic Empire and the Rebel Alliance, which had installed its temporary headquarters, Echo Base, on the ice planet. However thanks to one of the thousands of probe droidsthey had dispatched throughout the galaxy, the Imperials had discovered the Alliance base within a month of the rebels habitation on the planet. Although Echo Base was evacuated in the eleventh hour, the Battle of Hoth resulted in a clear defeat for the Alliance after the elite Imperial Blizzard Force overran it."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "5-Minute Star Wars Villain Stories",
+        "Star Wars: Galactic Defense",
+        "Star Wars: Galaxy of Heroes",
+        "Star Wars: Force Arena",
+        "Star Wars Battlefront II",
+        "Forces of Destiny: Daring Adventures: Volume 2",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Han Solo - From Smuggler to General\"",
+        "Lost Stars",
+        "Lost Stars webcomic",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Stormtroopers vs. Rebels – Soldiers of the Galactic Empire\"",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Princess Leia – The Rescue\"",
+        "The Adventures of Luke Skywalker, Jedi Knight",
+        "Star Wars: Battle Pod",
+        "Star Wars: Commander",
+        "Star Wars Battlefront",
+        "A Leader Named Leia",
+        "Star Wars 67 (Mentioned only)",
+        "Doctor Aphra 38 (Indirect mention only)",
+        "Doctor Aphra 39 (Mentioned only)",
+        "Doctor Aphra 40",
+        "Star Wars 75",
+        "Battlefront: Twilight Company",
+        "\"An Echo of Victory\"—Empire Ascendant 1",
+        "\"Epilogue\"—Empire Ascendant 1",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Beasts of Echo Base\"",
+        "Star Wars: Forces of Destiny—Leia",
+        "Star Wars: Episode V The Empire Strikes Back (First appearance)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Luke vs. the Wampa - Cavern Escape\"",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Luke vs. Imperial Walkers - Commander on Hoth\"",
+        "The Empire Strikes Back: So You Want to Be a Jedi?",
+        "Star Wars: The Empire Strikes Back junior novelization",
+        "AT-AT Attack!",
+        "Star Wars 1 (Mentioned only)",
+        "Star Wars 2 (Mentioned only; in the opening crawl)",
+        "Doctor Aphra 1",
+        "Return of the Jedi: Beware the Power of the Dark Side! (Mentioned only)",
+        "Star Wars: Return of the Jedi junior novelization (Mentioned only)",
+        "SWInsider \"Blade Squadron\"—Star Wars Insider 149–150 (Mentioned only)",
+        "Alphabet Squadron (Mentioned only)",
+        "Aftermath (Mentioned only)",
+        "Star Wars: Uprising",
+        "Aftermath: Empire's End (Mentioned only)",
+        "Last Shot (Mentioned only)",
+        "Bloodline (Mentioned only)",
+        "Before the Awakening (Mentioned only)",
+        "Join the Resistance (Mentioned only)",
+        "Smuggler's Run: A Han Solo & Chewbacca Adventure (Mentioned only)",
+        "Moving Target: A Princess Leia Adventure (Mentioned only)",
+        "The Force Awakens Adaptation 2 (Appears in flashback(s))",
+        "Star Wars: The Last Jedi: Expanded Edition (Mentioned only)",
+        "Star Wars: The Last Jedi: A Junior Novel (Mentioned only)",
+        "Resistance Reborn (Mentioned only)",
+        "Resistance Reborn audiobook (Mentioned only)",
+        "Star Wars: Galaxy's Edge (Mentioned only)",
+        "Star Wars: Datapad",
+        "IDWStarWarsAdventuresLogoSmaller \"Tales from Wild Space: A Tauntaun Tail\"—Star Wars Adventures 22 (Appears in flashback(s))",
+        "IDWStarWarsAdventuresLogoSmaller \"Tales from Wild Space: Alone in the Dark\"—Star Wars Adventures 26 (Mentioned only) (Appears in flashback(s))"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Anout sector",
+      "system": "Hoth system",
+      "moons": 3
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
-      "atmosphere": "Breathable",
+      "diameter": "7,200 km",
+      "atmosphere": "Breathable, clean",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Frozen ice plains",
+        "Glaciers",
+        "Oceans",
+        "Mountains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Clabburn Range",
+        "Echo Base",
+        "Echo Station 3-T-8",
+        "Icefall Plains",
+        "Moorsh Moraine",
+        "Outpost Beta",
+        "Perimeter Outpost Delta",
+        "Shyloah's Crest",
+        "Wampa Mountain"
       ],
-      "fauna": "None"
+      "fauna": "Ice scrabbler, Rayboo, Sapphire ice worm, Tauntaun, Wampa"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Hothian",
+      "immigratedSpecies": "None",
+      "population": "Fewer than 10"
     }
   },
   {
@@ -579,46 +773,145 @@
         "jakku2",
         "jakku3"
       ],
-      "description": "This is a decription",
+      "description": "Jakku was a remote desert planet located in the system of the same name, within the Western Reaches of the galaxy's Inner Rim. Though considered by many within the galaxy to be distant and relatively worthless, Jakku was the site of important events that would shape galactic history. In 5 ABY, Jakku was the site of the pivotal Battle of Jakku, which ended the Galactic Civil War in favor of the New Republic. A generation later, the planet was the home of the scavengerRey, who became involved in the events of the cold war after helping the former First Order stormtrooper Finn and the astromech droid BB-8escape offworld with a map leading to the missing Jedi Luke Skywalker.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Battle of Jakku",
+          "description": "After the New Republic's Galactic Senate voted to intervene on Jakku, the New Republic dispatched military forces to the planet. Several New Republic figures including Admiral Ackbar, Commodore Kyrsta Agate, Captain Wedge Antilles, Temmin Wexley, and Jom Barellwould see action in the cataclysmic Battle of Jakku. The battle would take place one year and four days after the Battle of Endor. It became the last major stand of the Galactic Empire and last major battle of the Galactic Civil War. In secret, the Battle of Jakku served as a pretext for Rax to facilitate the final stage of the Contingency."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Rise of the First Order",
+          "description": "after the Battle of Jakku, wreckage from the battle was strewn across a region of desert aptly named the Starship Graveyard.Sometime after the battle, Niima the Hutt established Niima Outpost, in an effort to scavenge leftover wreckage from the destructive battle.\nIn 34 ABY, the up-and-coming First Order, successor state to the Galactic Empire, deployed the Resurgent-class Star DestroyerFinalizer to Jakku in an effort to recover a fragment of a map that led to Jedi Master Luke Skywalker, who had gone into self-imposed exile following a failed attempt at resurrecting the Jedi Order. The First Order forces, led by Kylo Ren, attacked the village of Tuanul, where the mystic Lor San Tekka lived and kept the map to Skywalker. However, San Tekka was able to give the map to Poe Dameron, who in turn hid it in his droid, BB-8, before Dameron was captured.\nThe attack led to the defection of stormtrooper FN-2187, who aided Dameron's ecsape from the Finalizer in a stolen TIE/sf space superiority fighter. Ultimately, FN-2187 (\"Finn\") would escape the planet with an unknowingly Force-sensitive girl named Rey."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars Battlefront II",
+        "Forces of Destiny: Daring Adventures: Volume 1",
+        "Lost Stars (First appearance, simultaneous with Aftermath)",
+        "Lost Stars webcomic",
+        "\"We Don't Serve Their Kind Here\"—From a Certain Point of View (Mentioned only)",
+        "Aftermath (First appearance, simultaneous with Lost Stars)",
+        "Aftermath: Life Debt",
+        "\"The Ghost Ship\"—Star Wars Adventures: Destroyer Down",
+        "Aftermath: Empire's End",
+        "Hyperspace Mountain",
+        "SWInsider \"Blade Squadron: Jakku\"—Star Wars Insider 172",
+        "Star Wars Battlefront (DLC)",
+        "Last Shot (Mentioned only)",
+        "The Legends of Luke Skywalker",
+        "Bloodline (Mentioned only)",
+        "The Rise of Kylo Ren 4",
+        "Phasma (Mentioned only)",
+        "\"High Noon on Jakku\"—Tales from a Galaxy Far, Far Away: Aliens: Volume I",
+        "\"All Creatures Great and Small\"—Tales from a Galaxy Far, Far Away: Aliens: Volume I",
+        "\"True Love\"—Tales from a Galaxy Far, Far Away: Aliens: Volume I",
+        "IDWStarWarsAdventuresLogoSmaller \"Better the Devil You Know, Part I\"—Star Wars Adventures 1",
+        "IDWStarWarsAdventuresLogoSmaller \"Better the Devil You Know, Part II\"—Star Wars Adventures 2",
+        "Before the Awakening",
+        "Star Wars Special: C-3PO 1 (Mentioned only)",
+        "Join the Resistance: Escape from Vodran (Mentioned only)",
+        "Poe Dameron 8 (Appears in flashback(s))",
+        "Poe Dameron 9 (Mentioned only)",
+        "Poe Dameron 14 (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Recruit\" (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"Fuel for the Fire\" (Picture only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Platform Classic\" (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"Station Theta Black\" (Picture only)",
+        "SWResistanceLogo Star Wars Resistance – \"The First Order Occupation\" (Picture only)",
+        "SWResistanceLogo Star Wars Resistance – \"The New Trooper\" (Picture only)",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"The Happabore Hazard\"",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Run Rey Run\"",
+        "Forces of Destiny: The Rey Chronicles",
+        "IDWStarWarsAdventuresLogoSmaller \"Pest Control\"—Star Wars Adventures 3 (Indirect mention only)",
+        "\"Destroyer Down\"—Star Wars Adventures: Destroyer Down",
+        "Moving Target: A Princess Leia Adventure (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Core Problem\" (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Disappeared\" (Picture only)",
+        "Force Collector",
+        "Star Wars: Episode VII The Force Awakens",
+        "Star Wars: The Force Awakens novelization",
+        "Star Wars: The Force Awakens: A Junior Novel",
+        "Star Wars: The Force Awakens Graphic Novel Adaptation",
+        "The Force Awakens Adaptation 1",
+        "The Force Awakens Adaptation 2",
+        "The Force Awakens Adaptation 3",
+        "The Force Awakens Adaptation 4 (Mentioned only)",
+        "The Force Awakens Golden Book",
+        "The Force Awakens: Rey's Story",
+        "The Force Awakens Read-Along Storybook and CD",
+        "5-Minute Star Wars Stories",
+        "Finn & the First Order",
+        "Rey Meets BB-8",
+        "BB-8 on the Run",
+        "Star Wars: Forces of Destiny—Rey",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Sands of Jakku\"",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"BB-8 Bandits\"",
+        "Rey to the Rescue!",
+        "Finn & Rey Escape!",
+        "Han & Chewie Return! (Mentioned only)",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "A Call for Heroes",
+        "Age of Resistance - Rey 1 (Appears in flashback(s))",
+        "Star Wars: Episode VIII The Last Jedi (Mentioned only)",
+        "Star Wars: The Last Jedi: Expanded Edition (Mentioned only)",
+        "Star Wars: The Last Jedi: A Junior Novel (Appears in dream)",
+        "The Last Jedi Adaptation 2 (Indirect mention only)",
+        "The Last Jedi Adaptation 5 (Mentioned only)",
+        "Poe Dameron 26 (Appears in flashback(s))",
+        "Resistance Reborn (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Escape\" (Mentioned only)",
+        "Allegiance 1 (Mentioned only)",
+        "Choose Your Destiny: A Finn & Poe Adventure (Mentioned only)",
+        "Spark of the Resistance (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Squad Goals\"—Star Wars Adventures 31 (Appears in flashback(s))",
+        "IDWStarWarsAdventuresLogoSmaller \"Flight of the Falcon, Part 4: Lady and the Tramp\"—Star Wars Adventures 17 (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Flight of the Falcon, Part 5: Grand Theft Falcon\"—Star Wars Adventures 18",
+        "Star Wars: Galaxy's Edge (Mentioned only)",
+        "Star Wars: Episode IX The Rise of Skywalker",
+        "Star Wars: The Rise of Skywalker: Expanded Edition (Mentioned only)",
+        "Star Wars: The Rise of Skywalker: A Junior Novel (Appears in flashback(s))"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Western Reaches, Inner Rim",
+      "sector": "Unknown sector",
+      "system": "Jakku system",
+      "moons": 2
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "6400 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Modern: Deserts",
+        "Historic: Forests"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Anchorite habit house",
+        "Carbon Ridge",
+        "Ergel's Bar",
+        "Fallen Teeth",
+        "Feressee's Point",
+        "Goazon Badlands",
+        "Imperial research base",
+        "Kelvin Ravine",
+        "Kelvin Ridge",
+        "Main Imperial base",
+        "Namenthe's Crater",
+        "Niima Outpost",
+        "Old Meru's",
+        "Orkoon Hub",
+        "Pilgrim's Road",
+        "Plaintive Hand plateau",
+        "Sinking Fields",
+        "Starship Graveyard"
       ],
-      "fauna": "None"
+      "fauna": "Bloggin, Cricket, Gnaw-jaw, Happabore, Luggabeast, Nightwatcher worm, Pole-snake, Ripper-raptor, Skittermice, Steelpecker, Thissermount, Vworkka"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Teedo, Uthuthma",
+      "immigratedSpecies": "Abednedo, Crolute, Human, Hutt, Kyuzo, Melitto, Nu-Cosian, Dybrinthe",
+      "population": "Estimated: less than 25.000"
     }
   },
   {
@@ -630,46 +923,100 @@
         "jedha2",
         "jedha3"
       ],
-      "description": "This is a decription",
+      "description": "Jedha, also known as the Pilgrim Moon, or as the Cold Moon, was a small desert moon which orbited the planet NaJedha. Located in the Jedha system of the galaxy's Mid Rim, the moon had a cold climate due to its lasting winter. The historical and spiritual significance of Jedha led the moon to become a world of worship for those who believed in the Force, and a holy site for pilgrims who sought spiritual guidance.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Early history",
+          "description": "The ancient world of Jedha was home to one of the first civilizations to explore the nature of the Force and was considered a spiritual home of the Jedi Order, with many scholars believing the moon owes its name to the ancient religion. Some scholars made a case for Jedha as the location of the Jedi Order's first Temple, alongside other candidate worlds, such as Ahch-To, Coruscant, Ossus, and Tython. As well as the Jedi, the Disciples and Guardians of the Whills represented a dominant faith on Jedha. They, along with the Church of the Force, were centered at the Temple of the Kyber, a great temple located in the city of NiJedha. This spiritual history led to Jedha becoming an important location for pilgrims of various faiths, including those of the Brotherhood of the Beatific Countenance, the Clan of the Toribota, and the Central Isopter."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Age of the Empire",
+          "description": "As she watched, the Death Star moved into position over NiJedha, eclipsing the sun before firing its emerald beam and completely obliteratingthe city. The immense explosion caused the surrounding land to crumble, sending swaths of rubble into the air and allowing some to reach escape velocity. Before the blast could reach the Catacombs of Cadera, however, Andor, Jyn and Rook, along with two Guardians of the Whills named Chirrut Îmwe and Baze Malbus, managed to escape into hyperspace aboard a U-wing starfighter and relay the event to Alliance High Command."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars: Galaxy of Heroes",
+        "Star Wars: Force Arena",
+        "Star Wars Battlefront II (Mentioned only)",
+        "SWInsider \"The Voice of the Empire\"—Star Wars Insider 170 (Mentioned only)",
+        "Vader Immortal: A Star Wars VR Series – Episode I (Mentioned only)",
+        "Guardians of the Whills",
+        "Rogue One: A Star Wars Story (First appearance)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Stormtroopers vs. Rebels – Soldiers of the Galactic Empire\"",
+        "Rogue One: A Star Wars Story novelization",
+        "Star Wars: Rogue One: A Junior Novel",
+        "Star Wars: Rogue One Graphic Novel Adaptation",
+        "Rogue One Adaptation 1",
+        "Rogue One Adaptation 2",
+        "Rogue One Adaptation 3",
+        "Rogue One Adaptation 4 (Mentioned only)",
+        "Age of Rebellion - Grand Moff Tarkin 1 (Mentioned only)",
+        "\"Fully Operational\"—From a Certain Point of View (Mentioned only)",
+        "\"Verge of Greatness\"—From a Certain Point of View (Mentioned only)",
+        "\"Palpatine\"—From a Certain Point of View (Mentioned only)",
+        "\"Sparks\"—From a Certain Point of View (Mentioned only)",
+        "\"By Whatever Sun\"—From a Certain Point of View (Mentioned only)",
+        "Battlefront II: Inferno Squad (Mentioned only)",
+        "Doctor Aphra 3 (Mentioned only)",
+        "Doctor Aphra 18 (Mentioned only)",
+        "Doctor Aphra 22 (Picture only) (Appears in hologram)",
+        "Doctor Aphra 26 (Mentioned only)",
+        "\"Shu-Torun Lives\"—Star Wars 50 (Mentioned only)",
+        "Star Wars 38",
+        "Star Wars 39",
+        "Star Wars 40",
+        "Star Wars 41",
+        "Star Wars 42",
+        "Star Wars 43",
+        "Star Wars 44 (Mentioned only)",
+        "Star Wars 45 (Mentioned only; in the opening crawl)",
+        "Star Wars 47 (Mentioned only; in the opening crawl)",
+        "Star Wars 48 (Mentioned only; in the opening crawl)",
+        "Star Wars 55 (Mentioned only)",
+        "Star Wars 62",
+        "Star Wars 63 (Mentioned only)",
+        "Star Wars 64 (Mentioned only)",
+        "Star Wars 65 (Mentioned only)",
+        "Star Wars 66 (Mentioned only)",
+        "Star Wars 67 (Mentioned only)",
+        "Star Wars 72 (Mentioned only)",
+        "Alphabet Squadron (Mentioned only)",
+        "The Legends of Luke Skywalker (Mentioned only)",
+        "The Legends of Luke Skywalker audiobook (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The New Trooper\" (Mentioned in hologram only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Core Problem\" (Mentioned in hologram only)",
+        "Galaxy's Edge 3 (Appears in flashback(s))",
+        "Galaxy's Edge 5 (Mentioned only)",
+        "Star Wars: The Rise of Skywalker: A Junior Novel (Mentioned only)"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Mid Rim",
+      "sector": "Terrabe sector",
+      "system": "Jedha system",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "11,263 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Deserts",
+        "Mesas"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Catacombs of Cadera",
+        "Desiccated tablelands",
+        "Kyber mines",
+        "Temple of Central Isopter",
+        "Temple of the Kyber"
       ],
-      "fauna": "None"
+      "fauna": "Birds, Lizards, Sand slug, Spamels"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Jedhan",
+      "immigratedSpecies": "Humans, Vobati",
+      "population": "11.3 million"
     }
   },
   {
@@ -681,46 +1028,113 @@
         "kashyyyk2",
         "kashyyyk3"
       ],
-      "description": "This is a decription",
+      "description": "Kashyyyk (occasionally spelled Kashyk) was a wroshyr tree-covered forest planet located in the southwestern quadrant of the galaxy and the homeworld of the Wookiee species. It was a member of the Galactic Republic and after the Clone Wars endured enslavement under the Galactic Empire. The planet was classified by the Empire as G5-623.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "The Czerka occupation",
+          "description": "In its early history, Kashyyyk was invaded by the Czerka Corporation. Using superior technology, the company managed to enslave the Wookiees until an uprising drove the invaders away. That painful episode left lasting scars in the Wookiees' hearts."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Republic Era",
+          "description": "At some point prior to the Invasion of Naboo, Jedi Master Yoda faced a terentatek on Kashyyyk, accompanied by his then Padawan Dooku.[18]At another point, Jedi Master Eno Cordova was researching Zeffoculture on Kashyyyk, and befriended Wookiee chieftian Tarfful.\nFor twenty years, Kashyyyk's Wookiees, as well as the Wookiee population of its colony planets, needed to repeatedly repel the Trade Federation."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Dooku: Jedi Lost (Mentioned only)",
+        "Dooku: Jedi Lost script (Mentioned only)",
+        "Master & Apprentice (Mentioned only)",
+        "Star Wars: Galactic Defense",
+        "Star Wars Battlefront II",
+        "Queen's Shadow (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Lethal Trackdown\" (Appears on poster only, spelled \"Kashyk\")",
+        "TCW mini logo Star Wars: The Clone Wars – \"Pursuit of Peace\" (Appears on billboard only, spelled \"Kashyk\")",
+        "TCW mini logo Star Wars: The Clone Wars – \"Wookiee Hunt\" (Indirect mention only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Destiny\" (Mentioned only)",
+        "Star Wars: Episode III Revenge of the Sith (First appearance)",
+        "Adventures in Wild Space: The Nest (Mentioned only)",
+        "Ahsoka (Mentioned only)",
+        "Tarkin (Mentioned only)",
+        "Star Wars Jedi: Fallen Order",
+        "Solo: A Star Wars Story (Mentioned only)",
+        "Solo: A Star Wars Story: Expanded Edition (Mentioned only)",
+        "Solo: A Star Wars Story Adaptation 2 (Mentioned only)",
+        "Thrawn (Mentioned only)",
+        "Lost Stars (Mentioned only)",
+        "Star Wars 20 (Mentioned only)",
+        "New HNN HoloNet News Report: Wookiee Revolt Quelled on Kashyyyk (link) (backup link) (Mentioned only)",
+        "Star Wars Rebels: Ghost Raid",
+        "Rise of the Rebels (Mentioned only)",
+        "Star Wars Rebels: Spark of Rebellion (Indirect mention only)",
+        "Ezra's Wookiee Rescue (Indirect mention only)",
+        "The Rebellion Begins (Mentioned only)",
+        "SWRM \"A Time to Survive\"—Star Wars Rebels Magazine 27 (Mentioned only)",
+        "The Mighty Chewbacca in the Forest of Fear! (Mentioned only)",
+        "\"Stolen Valor\"—Age of Rebellion Special 1 (Mentioned only)",
+        "Star Wars Battlefront (Mentioned only)",
+        "Chewbacca 1 (Mentioned only; in the opening crawl)",
+        "Chewbacca 2 (Appears in flashback(s))",
+        "Chewbacca 5",
+        "Chewie and the Courageous Kid",
+        "Doctor Aphra Annual 1 (Appears in flashback(s))",
+        "Battlefront: Twilight Company (Mentioned only)",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Yoda – The Jedi Master\" (Appears in flashback(s))",
+        "Return of the Jedi: Beware the Power of the Dark Side! (Mentioned only)",
+        "Aftermath (Appears in hologram)",
+        "Star Wars: Uprising (Mentioned only)",
+        "Aftermath: Life Debt (First identified as G5-623)",
+        "Aftermath: Empire's End",
+        "Last Shot",
+        "Bloodline (Mentioned only)",
+        "\"All Creatures Great and Small\"—Tales from a Galaxy Far, Far Away: Aliens: Volume I (Mentioned only)",
+        "Poe Dameron 2 (Mentioned only)",
+        "Smuggler's Run: A Han Solo & Chewbacca Adventure (Mentioned only)",
+        "The Force Awakens Adaptation 2 (Appears in flashback(s))",
+        "\"Rules of the Game\"—Canto Bight (Mentioned only)",
+        "\"The Wine in Dreams\"—Canto Bight (Mentioned only)",
+        "Star Wars: The Last Jedi: Expanded Edition (Mentioned only)",
+        "Resistance Reborn (Mentioned only)",
+        "Resistance Reborn audiobook (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Ghosts of Kashyyyk, Part 1\"—Star Wars Adventures 27",
+        "IDWStarWarsAdventuresLogoSmaller \"Ghosts of Kashyyyk, Part 2\"—Star Wars Adventures 28",
+        "IDWStarWarsAdventuresLogoSmaller \"Ghosts of Kashyyyk, Part 3\"—Star Wars Adventures 29",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "Galaxy's Edge 1 (Mentioned only) (Appears in flashback(s))",
+        "Star Wars: Galaxy's Edge (Mentioned only)",
+        "Star Wars: The Rise of Skywalker: Expanded Edition (Mentioned only)"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Mid Rim",
+      "sector": "Mytaranor sector",
+      "system": "Kashyyyk system",
+      "moons": 3
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "12,765 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Forests",
+        "Jungles",
+        "Mountains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Ashmead's Lock",
+        "Black Forest",
+        "Garden Preserve",
+        "Imperial Work Settlement #121",
+        "Imperial Refinery",
+        "Kashyyyk oil refinery",
+        "Lozen Tolruck's island fortress",
+        "Shadowlands",
+        "River of Origin"
       ],
-      "fauna": "None"
+      "fauna": "Anakkona, Arrawtha-dyr, Can-cells, Flame beetle, Gnasp, Mykal, Oevvaor, Shyyyo bird, Slyyyg, Srifly, Tach, Terentatek, Webweaver, Wroshyr louse, Wyyyschokk"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Wookie",
+      "immigratedSpecies": "None",
+      "population": "56 million"
     }
   },
   {
@@ -732,7 +1146,7 @@
         "lahmu2",
         "lahmu3"
       ],
-      "description": "This is a decription",
+      "description": "Lah'mu was a ringed agrarian planet in the Raioballo sector of the Outer Rim Territories. Its small population of settlers included the Erso family, who relocated to Lah'mu after the Clone Wars, and were ultimately tracked down by Director Orson Callan Krennic years later.",
       "historicEvents": [
         {
           "title": "Origin",
@@ -744,7 +1158,16 @@
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Master & Apprentice (Mentioned only)",
+        "Catalyst: A Rogue One Novel (First appearance) (Appears in hologram)",
+        "Rebel Rising",
+        "Rogue One: A Star Wars Story",
+        "Rogue One: A Star Wars Story novelization",
+        "Star Wars: Rogue One: A Junior Novel",
+        "Star Wars: Rogue One Graphic Novel Adaptation",
+        "Rogue One Adaptation 1",
+        "Rogue One Adaptation 2",
+        "Rogue One Adaptation 4 (Appears in flashback(s))"
       ]
     },
     "astrographical": {
@@ -769,7 +1192,7 @@
       "fauna": "None"
     },
     "societal": {
-      "nativeSpecies": "none",
+      "nativeSpecies": "None",
       "immigratedSpecies": "Humans",
       "population": "Estimated: less than 500"
     }
@@ -783,46 +1206,157 @@
         "naboo2",
         "naboo3"
       ],
-      "description": "This is a decription",
+      "description": "Naboo was a small pastoral world in the Mid Rim, located near the border of the Outer Rim Territories. Unlike most other worlds, the ancient planet lacked a molten core, and instead comprised a conglomerate of large, rocky bodies that made up a network of tunnels and flooded caves. The native Gungans, who built their homes in the waters of Naboo, rarely ventured into the core, fearing the ravenous sea beasts which resided in areas such as the Caves of Eleuabad. Despite this, certain Gungan navigators utilized time-honored trade routes through the planet's structure, which served as the most expedient avenues to reach other areas of the planet.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "Early history",
+          "description": "Originally, Naboo was home to the amphibian Gungans. The earliest offworlders to arrive were a Reptilian species known as the Elders who warred against the Gungans. Eventually, the Elders vanished as mysteriously as they arrived, leaving only stone statues behind. For thousands of years afterward the Gungans flourished until a group of human colonists from Grizmallt crash-landed on Naboo. Initially, the Gungans retreated underwater and avoided the colonists. When the Gungans finally met the colonists, diplomacy failed and the two species fought a series of wars over territory and resources before largely resolving to live apart and ignore each other. A series of internal wars amongst the Gungan tribes and the human city-states eventually ended with both factions being unified in their own way but still separate nonetheless."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Naboo Crisis",
+          "description": "About ten years before the Clone Wars, Naboo was blockaded and invaded by the Trade Federation. The 14-year-old Padmé Amidala, who had recently been elected Queen of Naboo, guided her home planet through the invasion and sealed a new friendship with the Gungans. In an upsurge of sympathy and solidarity toward the invaded planet, the queen's emissary in the Galactic Senate, the seemingly unassuming Senator Sheev Palpatine, was made Supreme Chancellor of the Republic."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Master & Apprentice",
+        "Queen's Peril",
+        "Star Wars: Episode I The Phantom Menace (First appearance)",
+        "The Phantom Menace Read-Along Storybook and CD",
+        "Star Wars Journeys: The Phantom Menace",
+        "Star Wars: Galactic Defense (Mentioned only)",
+        "Star Wars Battlefront II",
+        "IDWStarWarsAdventuresLogoSmaller \"Raiders of the Lost Gundark\"—Star Wars Adventures 18",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Monster Misunderstanding\"",
+        "Age of Republic - Obi-Wan Kenobi 1 (Appears in flashback(s))",
+        "Obi-Wan and Anakin 1 (Mentioned only)",
+        "Obi-Wan and Anakin 4 (Indirectly mentioned only; in flashback)",
+        "Queen's Shadow",
+        "Queen's Shadow audiobook",
+        "Age of Republic - Count Dooku 1 (Appears through imagination)",
+        "Star Wars: Episode II Attack of the Clones",
+        "TCW mini logo Star Wars: The Clone Wars – \"Supply Lines\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Shadow of Malevolence\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Destroy Malevolence\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Bombad Jedi\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Blue Shadow Virus\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Mystery of a Thousand Moons\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Children of the Force\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Senate Spy\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Duchess of Mandalore\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Assassin\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Sphere of Influence\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Hostage Crisis\" (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Intermission, Part I\"—Star Wars Adventures 12 (Picture only)",
+        "Star Wars: Forces of Destiny—Ahsoka & Padmé (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Heroes on Both Sides\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Pursuit of Peace\" (Picture only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Senate Murders\" (Picture only)",
+        "Catalyst: A Rogue One Novel (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Monster\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Gungan Attack\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Shadow Warrior\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Deception\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Crisis on Naboo\"",
+        "TCW mini logo Star Wars: The Clone Wars – \"Revenge\" (Mentioned only)",
+        "TCW mini logo Star Wars: The Clone Wars – \"Destiny\" (Mentioned only)",
+        "Dark Disciple (Mentioned only)",
+        "Age of Republic - Padmé Amidala 1 (Appears in flashback(s))",
+        "Star Wars: Episode III Revenge of the Sith",
+        "Adventures in Wild Space: The Nest (Mentioned only)",
+        "Adventures in Wild Space: The Steal (Mentioned only)",
+        "Ahsoka (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"So Much More\"—Star Wars Adventures Annual 2019 (Appears through imagination)",
+        "Lords of the Sith (Mentioned only)",
+        "Tarkin (Mentioned only)",
+        "Darth Vader: Dark Lord of the Sith 20 (Mentioned only)",
+        "Darth Vader: Dark Lord of the Sith 25 (Vision to Darth Vader)",
+        "Rebel Rising (Mentioned only)",
+        "A New Dawn (Mentioned only)",
+        "The Rebellion Begins (Mentioned only)",
+        "Leia, Princess of Alderaan",
+        "Leia Organa: Ordeal of the Princess (Appears in flashback(s))",
+        "Lost Stars",
+        "Lost Stars webcomic",
+        "Thrawn: Alliances (Mentioned only)",
+        "Rogue One: A Star Wars Story novelization (Mentioned only)",
+        "\"Stories in the Sand\"—From a Certain Point of View (Appears in hologram)",
+        "\"You Owe Me a Ride\"—From a Certain Point of View (Mentioned only)",
+        "Princess Leia 1 (Mentioned only)",
+        "Princess Leia 2",
+        "Princess Leia 3 (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"The Trouble at Tibrin\"—Star Wars Adventures 4 (Mentioned only)",
+        "IDWStarWarsAdventuresLogoSmaller \"Mind Your Manners\"—Star Wars Adventures Annual 2018 (Mentioned only)",
+        "Darth Vader 6 (Appears in flashback(s))",
+        "Darth Vader 8 (Mentioned only)",
+        "Darth Vader 9 (Mentioned only)",
+        "Darth Vader 10",
+        "Darth Vader 20 (Mentioned only)",
+        "SWInsider \"Inbrief\"—Star Wars Insider 161 (Indirect mention only)",
+        "Battlefront: Twilight Company (Mentioned only)",
+        "Darth Vader 2",
+        "Darth Vader 3",
+        "Darth Vader 4",
+        "Star Wars: Episode VI Return of the Jedi (Post-2004 releases)",
+        "Return of the Jedi: Beware the Power of the Dark Side! (Mentioned only)",
+        "Star Wars: Return of the Jedi junior novelization (Mentioned only)",
+        "SWInsider \"Blade Squadron\"—Star Wars Insider 149–150 (Mentioned only)",
+        "Shattered Empire 2",
+        "Shattered Empire 3",
+        "Alphabet Squadron (Mentioned only)",
+        "Aftermath",
+        "Shattered Empire 4 (Mentioned only)",
+        "Aftermath: Empire's End",
+        "Last Shot (Mentioned only)",
+        "The Legends of Luke Skywalker (Mentioned only)",
+        "The Legends of Luke Skywalker audiobook (Mentioned only)",
+        "Bloodline (Mentioned only)",
+        "Phasma (Mentioned only)",
+        "\"The Perfect Weapon\" (Mentioned only)",
+        "Star Wars Special: C-3PO 1 (Appears in flashback(s))",
+        "Poe Dameron 21 (Mentioned only)",
+        "Poe Dameron 22 (Mentioned only)",
+        "Force Collector (Vision to Karr Nuq Sin)",
+        "Join the Resistance: Attack on Starkiller Base (Mentioned only)",
+        "Star Wars: The Force Awakens Graphic Novel Adaptation (Mentioned only)",
+        "\"The Wine in Dreams\"—Canto Bight (Mentioned only)",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "A Crash of Fate (Mentioned only)",
+        "\"Chasing Ghosts\"—Myths & Fables (Mentioned only) (Appears in flashback(s))",
+        "Star Wars: The Rise of Skywalker: A Junior Novel (Mentioned only)"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Mid Rim",
+      "sector": "Chommell sector",
+      "system": "Naboo system",
+      "moons": 3
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "12,120 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Swamps",
+        "Hills",
+        "Plains",
+        "Cities",
+        "Mountains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Gallo Mountains",
+        "Hiram Zataire's vineyard",
+        "Lake Country",
+        "Lake Paonga",
+        "Solleu River",
+        "Theed Royal Palace",
+        "Varykino"
       ],
-      "fauna": "None"
+      "fauna": "Blarth, Bogwing, Colo claw fish, Doo, Faa, Falumpaset, Fambaa, Golden pheasant, Gualama, Guarlara, Ikopi, Kaadu, Laa, Mee, Mott, Nuna, Ollopom, Opee sea killer, Pikobi, Ray, Sando aqua monster, See, Soo, Shaak, Slitherfish, Slug-beetle, Tee, Tusk-cat, Veermok, Yobshrimp"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Gungangs",
+      "immigratedSpecies": "Elders, Humans, Naboo",
+      "population": "4.5 billion"
     }
   },
   {
@@ -834,46 +1368,84 @@
         "scarif2",
         "scarif3"
       ],
-      "description": "This is a decription",
+      "description": "Scarif was a remote, tropical planet in the Abrion sector of the Outer Rim Territories. Although a small and idyllic world, Scarif played an important part in the Galactic Empire's military-industrial complex, becoming a center for top-secret research beyond inspection distance of the prying eyes of the Imperial Senate. Among the projects developed here was the Death Star battle station, a construction so important the entire planet was covered by a planetary deflector shield that could only be entered via a Shield Gate.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
-        },
-        {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Battle of Scarif",
+          "description": "The Battle of Scarif was a battle between the Rebel Alliance and the Galactic Empire, taking place in the year 0 BBY. The Rebels had received information from Jyn Erso that the Death Star plans were being held in the Citadel Tower, and decided to attempt to capture them. Their attempt was successful, and they managed to transmit the plans to Princess Leia Organa. However, Grand Moff Wilhuff Tarkin ordered the Death Star to fire a precise single reactor blast at the planet, not destroying Scarif itself but dissipating its planetary shield and obliterating the Citadel Tower as well as everyone in its vicinity in an unsuccessful effort to halt the transmission, as well as eliminate his longtime rival, Orson Krennic. The Death Star's superlaser boiled the oceans of Scarif, burning the surface of the planet."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars: Galaxy of Heroes",
+        "Star Wars: Force Arena",
+        "Star Wars Battlefront II (Vision to Kylo Ren)",
+        "Darth Vader Annual 2",
+        "Solo: A Star Wars Story (Mentioned only)",
+        "Solo: A Star Wars Story: Expanded Edition (Mentioned only)",
+        "Solo: A Star Wars Story Adaptation 3 (Mentioned only)",
+        "Thrawn: Treason (Mentioned only)",
+        "Unwelcome Arrival",
+        "Rogue One: A Star Wars Story",
+        "Galaxy of Adventures logo Star Wars Galaxy of Adventures – \"Stormtroopers vs. Rebels – Soldiers of the Galactic Empire\"",
+        "Rogue One: A Star Wars Story novelization",
+        "Star Wars: Rogue One: A Junior Novel",
+        "Star Wars: Rogue One Graphic Novel Adaptation",
+        "Rogue One Adaptation 2 (Mentioned only)",
+        "Rogue One Adaptation 3 (Mentioned only)",
+        "Rogue One Adaptation 4 (Mentioned only)",
+        "Rogue One Adaptation 5",
+        "Rogue One Adaptation 6",
+        "\"Raymus\"—From a Certain Point of View (Mentioned only)",
+        "Age of Rebellion - Grand Moff Tarkin 1 (Mentioned only)",
+        "Star Wars: A New Hope junior novelization (Mentioned only)",
+        "Star Wars Battlefront (First appearance) (DLC)",
+        "\"The Bucket\"—From a Certain Point of View (Mentioned only)",
+        "\"Eclipse\"—From a Certain Point of View (Mentioned only)",
+        "\"Verge of Greatness\"—From a Certain Point of View",
+        "\"End of Watch\"—From a Certain Point of View (Mentioned only)",
+        "\"Palpatine\"—From a Certain Point of View (Mentioned only)",
+        "\"Sparks\"—From a Certain Point of View (Mentioned only)",
+        "\"Duty Roster\"—From a Certain Point of View (Mentioned only)",
+        "\"Grounded\"—From a Certain Point of View (Mentioned only)",
+        "\"Contingency Plan\"—From a Certain Point of View (Mentioned only)",
+        "\"By Whatever Sun\"—From a Certain Point of View (Mentioned only)",
+        "Battlefront II: Inferno Squad (Mentioned only)",
+        "Star Wars 38 (Mentioned only)",
+        "Star Wars 39 (Mentioned only)",
+        "Doctor Aphra 15 (Mentioned only)",
+        "Star Wars 44 (Mentioned only)",
+        "Alphabet Squadron (Mentioned only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Recruit\" (Mentioned only)"
       ]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Abrion sector",
+      "system": "Scarif system",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "9,112 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Oceans",
+        "Rocky archipelagos lowlands",
+        "Volcanic island chains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Aurek-14",
+        "Death trooper training camp",
+        "Imperial security complex",
+        "Scarif orbital shipyard",
+        "Mines and refineries"
       ],
-      "fauna": "None"
+      "fauna": "Blixus, 1500 known fish, colorful birds, reptiles and insects"
     },
     "societal": {
       "nativeSpecies": "none",
       "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "population": "\"475.000\""
     }
   },
   {
@@ -885,46 +1457,85 @@
         "sb2",
         "sb3"
       ],
-      "description": "This is a decription",
+      "description": "Starkiller Base was a military base located on the ice planet of Ilum in the Unknown Regions. The base served as a stronghold of the First Order thirty years after the Battle of Endor. Commanded by an unofficial triumvirate of General Armitage Hux, Kylo Ren and Captain Phasma, it was armed with a superweapon capable of destroying entire star systems halfway across the galaxy. The First Order viewed this ability as an evolution of the planet-destroying capabilities of the Galactic Empire's Death Star designs, with the weapon serving as the ultimate culmination of Old Empire research into dark energy translations and hyperspace tunneling.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
-        },
-        {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "The Planet",
+          "description": "The planet that would host Starkiller Base, Ilum, was once a remote and mysterious world known only to a handful in the galaxy. During the age of the Galactic Empire, Ilum was mined for kyber crystals for use in the Death Star's superlaser.[8] The resultant over-mining of kyber crystals caused the planet to bear a equatorial trench[13] that would eventually host the Starkiller superweapon."
         }
       ],
       "appearances": [
-        "Rogue One: A Star Wars Story"
+        "Star Wars Battlefront II",
+        "5-Minute Star Wars Villain Stories (Mentioned only)",
+        "Age of Resistance - Finn 1",
+        "Poe Dameron 2 (Mentioned only)",
+        "Poe Dameron 7 (Indirect mention only)",
+        "SWResistanceLogo Star Wars Resistance – \"The Recruit\"",
+        "SWResistanceLogo Star Wars Resistance – \"Station Theta Black\"",
+        "SWResistanceLogo Star Wars Resistance – \"The Doza Dilemma\"",
+        "SWResistanceLogo Star Wars Resistance – \"The Core Problem\" (Indirect mention only)",
+        "Forcesofdestinylogo Star Wars: Forces of Destiny – \"Perilous Pursuit\"",
+        "Age of Resistance - General Hux 1",
+        "Star Wars: Episode VII The Force Awakens (First appearance)",
+        "Star Wars: The Force Awakens novelization",
+        "Star Wars: The Force Awakens: A Junior Novel",
+        "Star Wars: The Force Awakens Graphic Novel Adaptation",
+        "The Force Awakens Adaptation 3",
+        "The Force Awakens Adaptation 4",
+        "The Force Awakens Adaptation 5",
+        "The Force Awakens Adaptation 6",
+        "SWResistanceLogo Star Wars Resistance – \"No Escape: Part 1\" (Appears in hologram)",
+        "SWResistanceLogo Star Wars Resistance – \"No Escape: Part 2\" (Appears in hologram)",
+        "Join the Resistance: Attack on Starkiller Base",
+        "The Last Jedi: Cobalt Squadron (Indirect mention only)",
+        "Galaxy's Edge: Black Spire (Mentioned only)",
+        "A Call for Heroes (Mentioned only)",
+        "Captain Phasma 1",
+        "Captain Phasma 2 (Mentioned only)",
+        "Captain Phasma 3 (Mentioned only; in the opening crawl)",
+        "Captain Phasma 4 (Mentioned only)",
+        "Age of Resistance - Rey 1 (Appears in flashback(s))",
+        "Star Wars: Episode VIII The Last Jedi (Mentioned only)",
+        "Star Wars: The Last Jedi: Expanded Edition (Mentioned only)",
+        "Star Wars: The Last Jedi: A Junior Novel (Mentioned only)",
+        "The Last Jedi: Rose and Finn's Secret Mission (Mentioned only)",
+        "The Last Jedi Adaptation 1 (Indirect mention only)",
+        "Poe Dameron 27 (Appears in flashback(s))",
+        "Poe Dameron 28 (Appears in flashback(s))",
+        "Poe Dameron 29 (Mentioned only)",
+        "Resistance Reborn (Mentioned only)",
+        "Choose Your Destiny: A Finn & Poe Adventure (Mentioned only)",
+        "Spark of the Resistance (Mentioned only)",
+        "Star Wars: Episode IX The Rise of Skywalker (Appears in flashback(s))",
+        "Star Wars: The Rise of Skywalker: Expanded Edition (Mentioned only)",
+        "Star Wars: The Rise of Skywalker: A Junior Novel (Appears in flashback(s))"
       ]
     },
     "astrographical": {
-      "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "region": "Unknown",
+      "sector": "Unknown",
+      "system": "Unknown",
+      "moons": 0
     },
     "physical": {
-      "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "planetClass": "Unknown",
+      "diameter": "Unknown",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Unknown"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Command Center",
+        "Deck Nine",
+        "Jerjerrod's Quarters",
+        "Superwapon capable of destroying star systems"
       ],
-      "fauna": "None"
+      "fauna": "Unidentified creature"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Unknown",
+      "immigratedSpecies": "Unknown",
+      "population": "Unknown"
     }
   },
   {
@@ -936,46 +1547,55 @@
         "tatooine2",
         "tatooine3"
       ],
-      "description": "This is a decription",
+      "description": "Tatooine was a sparsely inhabited circumbinary desert planet located in the galaxy's Outer Rim Territories. It was the homeworld to the influential Anakin and Luke Skywalker, who would go on to shape galactic history. Part of a binary star system, the planet was oppressed by scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms. The planet also had no natural surface vegetation.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
+          "title": "A war ends",
+          "description": "With the destruction of the Sith Eternal fleet on Exegol, the First Order began to collapse, as people from across the galaxy rose against the tyrannical regime, ending the First Order–Resistance war.\nRey returned to Ajan Kloss to celebrate the victory with the Resistance and her friends, Poe Dameron and Finn. Afterwards, she later traveled to the Lars moisture farm on Tatooine with BB-8, where she buried Leia's lightsaber and the Skywalker lightsaber, using her own newly-crafted one in their place. When a local asked for her name, she forwent Palpatine's lineage, going by the name \"Rey Skywalker\" with the blessing of the Force spirits of Luke and Leia. Rey and BB-8 then looked off into the distance as the twin suns of Tatooine set."
         },
         {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "The long years",
+          "description": "\"It was the worst drought anyone could remember. The moisture farmers could barely gather enough water from their vaporators to keep themselves alive, let alone to trade in town for food and supplies. Especially with Jabba's thugs collecting \"water taxes\". Rumor was that the bloated gangster took lavish baths all throughout the day. Lest he perspire in the heat. But I didn't believe that rumor. I'd met Jabba. Jabba had never bathed in his life.\""
         }
       ],
-      "appearances": [
-        "Rogue One: A Star Wars Story"
-      ]
+      "appearances": ["Star Wars Journeys: The Phantom Menace","Star Wars Journeys: Beginnings","5-Minute Star Wars Stories","5-Minute Star Wars Villain Stories"]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Arkanis sector",
+      "system": "Tatoo system",
+      "moons": 3
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "10,465 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
+        "Historic: Oceans, Rainforests",
+        "Modern: Canyons, Desert, Mountains, Rocky bluffs",
         "Plateaus & mountains"
       ],
       "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
+        "Anchorhead Pass",
+        "Beggar's Canyon",
+        "Dune Sea",
+        "Great Chott salt flat",
+        "Great Mesra Plateau",
+        "Great Pit of Carkoon",
+        "Jabba's Palace",
+        "Jundland Chasm",
+        "Jundland Wastes",
+        "Mushroom Mesa",
+        "Northern Dune Sea",
+        "Western Dune Sea",
+        "Xelric Draw"
       ],
-      "fauna": "None"
+      "fauna": "Bantha, Canyon krayt dragon, Dewback, Dune worm, Eopie, Gorg, Greater krayt dragon, Jerba, Massiff, Rancor (In captivity), Rock wart, Ronto, Sandfly, Sand skitter, Sarlacc, Scurrier, Tatoo-rat, Womp rat, Worrt"
     },
     "societal": {
-      "nativeSpecies": "none",
-      "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "nativeSpecies": "Jawa, Tusken Raider",
+      "immigratedSpecies": "Advozse, Aqualish, Arcona, Bith, Defel, Dug, Duros, Er'Kit, Human, Hutt, Ishi Tib, Klatooinian, Lutrillian, Morseerian, Nikto, Pacithhip, Quarren, Rodian, Siniteen, Stennes Shifter, Talz, Toydarian, Twi'lek, Weequay, Gamorrean",
+      "population": "200,000"
     }
   },
   {
@@ -987,46 +1607,35 @@
         "yavin42",
         "yavin43"
       ],
-      "description": "This is a decription",
+      "description": "Yavin 4 was the jungle-covered fourth moon in orbit around the redgas giant Yavin. Prior to and during the Galactic Civil War, it hosted the headquarters of the Alliance to Restore the Republic, a group of resistance fighters that opposed the dominant Galactic Empire.Following a major battle that took place around Yavin, the Alliance relocated its headquarters to Hoth.",
       "historicEvents": [
         {
-          "title": "Origin",
-          "description": "Lah'mu was named from a Neimoidian word meaning 'prosperity' Early in its geographic life, Lah'mu's crust split numerous times, bringing minerals and soils to the surface that would later be farmed by the planet's sparse settlers. Initially hosting several moons, Lah'mu gained a planetary ring after one ancient satellite was pulverized, its remaining material pulled into orbit to form silica rings that cast shadows across the planet's surface. Volcanoes ejected tephra during this formative period, contaminating Lah'mu's natural greenery, forcing later settlers to carefully sift the soil."
-        },
-        {
-          "title": "The Erso's",
-          "description": "As of 13 BBY, Lah'mu hosted fewer than five hundred settlers, occupying farmlands on the western hemisphere. Many of these individuals arrived on Lah'mu seeking to avoid war; among them were the Erso family, whose association with Orson Krennic during the Clone Wars forced them into hiding on the remote, inaccessible world. Galen and Lyra Erso chose to reside in a sixty-five hectare homestead on the planet's less popular eastern side, purchased with the assistance of Saw Gerrera. The Ersos grew crops and utilized Pretormin Environmental GX-8 water vaporators to distill water vapor from the air. Unfortunately for the family, Director Krennic ultimately tracked them down, and arrived on Lah'mu to take Galen, Lyra, and their young daughter Jyn, with him to ensure the completion of his stalled Death Star project. Galen refused, and a brief firefight erupted in which Krennic was dealt a glancing blow and Lyra was shot dead. Krennic's death troopers burned the homestead and took Galen into custody, while Jyn fled to the black gulch beyond the former homestead's edge. There, she secreted herself in a shelter beneath a hidden hatch camouflaged by an artificial rock. She was later rescued by Gerrera."
+          "title": "Enslavement",
+          "description": "Five thousand years before the Battle of Yavin, the ancient warrior race of the Massassi lived on Yavin 4 and constructed the Great Temple. Being enslavedby the Sith, the Massassi species would be extinct by the time the Alliance to Restore the Republic would utilize the temple during the Galactic Civil War as a base of operations against the then-dominant Galactic Empire."
         }
       ],
-      "appearances": [
-        "Rogue One: A Star Wars Story"
-      ]
+      "appearances": ["Star Wars Battlefront II","Forces of Destiny: Daring Adventures: Volume 1 (Picture only)","Galaxy of Adventures logo Star Wars Galaxy of Adventures \u2013 \"Han Solo - From Smuggler to General\"","Rebel Rising","Lost Stars","Rebels-mini-logo Star Wars Rebels \u2013 \"Zero Hour\" (Indirect mention only)","Rebels-mini-logo Star Wars Rebels \u2013 \"In the Name of the Rebellion\"","SWRM \"Never Far Behind\"\u2014Star Wars Rebels Magazine","Rebels-mini-logo Star Wars Rebels \u2013 \"The Occupation\"","Rebels-mini-logo Star Wars Rebels \u2013 \"Flight of the Defender\" (Indirect mention only)","Rebels-mini-logo Star Wars Rebels \u2013 \"Kindred\"","Rebels-mini-logo Star Wars Rebels \u2013 \"Crawler Commandeers\"","Rebels-mini-logo Star Wars Rebels \u2013 \"Jedi Night\" (Indirect mention only)","IDWStarWarsAdventuresLogoSmaller \"Droid Hunters\"\u2014Star Wars Adventures Free Comic Book Day 2019 (Mentioned only)","Rogue One: A Star Wars Story","Rogue One: A Star Wars Story novelization","Rogue One: A Star Wars Story audiobook","Star Wars: Rogue One: A Junior Novel","Star Wars: Rogue One: Secret Mission","Star Wars: Rogue One Graphic Novel Adaptation","Rogue One Adaptation 1","Rogue One Adaptation 3","Rogue One Adaptation 4","Rogue One Adaptation 5","\"Raymus\"\u2014From a Certain Point of View (Mentioned only)","Star Wars: Episode IV A New Hope (First appearance)","Galaxy of Adventures logo Star Wars Galaxy of Adventures \u2013 \"Princess Leia \u2013 The Rescue\"","Galaxy of Adventures logo Star Wars Galaxy of Adventures \u2013 \"Han Solo \u2013 Taking Flight for his Friends\"","Galaxy of Adventures logo Star Wars Galaxy of Adventures \u2013 \"Luke vs. the Death Star - X-wing Assault\"","A New Hope: The Princess, the Scoundrel, and the Farm Boy","Star Wars: A New Hope junior novelization","Episode IV: A New Hope Read-Along Storybook and CD","Star Wars: The Original Trilogy \u2013 A Graphic Novel","Star Wars LINE Webtoon","Star Wars: Heroes Path","The Adventures of Luke Skywalker, Jedi Knight","Star Wars: Battle Pod","Star Wars Battlefront: Rogue One VR mission (DLC)","\"Laina\"\u2014From a Certain Point of View","\"Palpatine\"\u2014From a Certain Point of View (Mentioned only)","\"Sparks\"\u2014From a Certain Point of View","\"Duty Roster\"\u2014From a Certain Point of View","\"Desert Son\"\u2014From a Certain Point of View","\"Grounded\"\u2014From a Certain Point of View","\"Contingency Plan\"\u2014From a Certain Point of View","\"By Whatever Sun\"\u2014From a Certain Point of View","Battlefront II: Inferno Squad","Princess Leia 1","Smuggler's Run: A Han Solo & Chewbacca Adventure","Princess Leia 5","IDWStarWarsAdventuresLogoSmaller \"Tales from Wild Space: The Flat Mountain of Yavin\"\u2014Star Wars Adventures 2","Chewbacca 1 (Mentioned only)","Chewie and the Courageous Kid","The Weapon of a Jedi: A Luke Skywalker Adventure (Mentioned only)","Darth Vader 1 (Indirect mention only, in opening crawl)","Star Wars: Commander","Doctor Aphra 2","Doctor Aphra 3","Doctor Aphra 4","Doctor Aphra 5 (Mentioned only)","Doctor Aphra 14 (Indirect mention only)","Star Wars 40 (Appears in flashback(s))","Doctor Aphra 37 (Appears in hologram)","Star Wars 71 (Appears in flashback(s))","Battlefront: Twilight Company (Mentioned only)","Star Wars: Forces of Destiny\u2014Leia (Indirect mention only)","Star Wars: Episode V The Empire Strikes Back (Indirectly mentioned only; in opening crawl)","The Empire Strikes Back: So You Want to Be a Jedi? (Indirect mention only)","Star Wars: The Empire Strikes Back junior novelization (Mentioned only)","Moving Target: A Princess Leia Adventure (Indirect mention only)","Shattered Empire 4","Last Shot (Mentioned only)","The Legends of Luke Skywalker (Mentioned only)","The Legends of Luke Skywalker audiobook (Mentioned only)","Bloodline (Mentioned only)","\"All Creatures Great and Small\"\u2014Tales from a Galaxy Far, Far Away: Aliens: Volume I (Indirect mention only)","IDWStarWarsAdventuresLogoSmaller \"Kidnapped!\"\u2014Star Wars Adventures 24 (Mentioned only)","Before the Awakening (Mentioned only)","Force Collector (Vision to Karr Nuq Sin)","Star Wars: The Force Awakens: A Junior Novel (Indirect mention only)","Han & Chewie Return! (Picture only)","Star Wars: The Last Jedi: Expanded Edition (Mentioned only)","Star Wars: Datapad (Indirect mention only)","Star Wars: The Rise of Skywalker: A Junior Novel (Mentioned only)"]
     },
     "astrographical": {
       "region": "Outer Rim Territories",
-      "sector": "Raioballo sector",
-      "system": "Lah'Mu system",
-      "moons": 1
+      "sector": "Gordian Reach",
+      "system": "Yavin system",
+      "moons": 0
     },
     "physical": {
       "planetClass": "Terrestial",
-      "diameter": "12,618 km",
+      "diameter": "10,200 km",
       "atmosphere": "Breathable",
       "terrain": [
-        "Black sand and beaches",
-        "Fertile lowlands",
-        "Plateaus & mountains"
+        "Jungles"
       ],
-      "poi": [
-        "Chief's fortress",
-        "The Erso homestead"
-      ],
-      "fauna": "None"
+      "poi": ["Ferra Groves","Flat Mountain of Yavin","Great Temple","Massassi Valley","Skygazer Hill","Yavin 4 colony"],
+      "fauna": "Angler, Armored eel, Leviathan grub, Lizard crab, Piranha beetle, Runyip, Stintaril, Whisper bird, Woolamander, Unidentified worm"
     },
     "societal": {
-      "nativeSpecies": "none",
+      "nativeSpecies": "None",
       "immigratedSpecies": "Humans",
-      "population": "Estimated: less than 500"
+      "population": "At least 3"
     }
   }
 ]
